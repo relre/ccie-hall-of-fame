@@ -1,0 +1,3398 @@
+{
+  "ccieData": [
+    {
+      "name": "UGUR KOKEN",
+      "certification": "CCIE",
+      "number": "2517",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "1997-02-28",
+      "linkedin": "https://www.linkedin.com/in/ugur-koken-88919447/"
+    },
+    {
+      "name": "IBRAHIM BAC",
+      "certification": "CCIE",
+      "number": "4452",
+      "track": "Enterprise Infrastructure",
+      "status": "Lifetime Emeritus",
+      "date": "1999-03-02",
+      "linkedin": ""
+    },
+    {
+      "name": "MURAT CANDEGER",
+      "certification": "CCIE",
+      "number": "5551",
+      "track": "Enterprise Infrastructure",
+      "status": "Lifetime Emeritus",
+      "date": "2000-02-08",
+      "linkedin": "https://www.linkedin.com/in/murat-candeger-2b63802/"
+    },
+    {
+      "name": "MURAT CANDEGER",
+      "certification": "CCIE",
+      "number": "5551",
+      "track": "SNA IP",
+      "status": "Lifetime Emeritus",
+      "date": "2000-08-23",
+      "linkedin": "https://www.linkedin.com/in/murat-candeger-2b63802/"
+    },
+    {
+      "name": "MURAT CANDEGER",
+      "certification": "CCIE",
+      "number": "5551",
+      "track": "CCIE Storage Networking",
+      "status": "Lifetime Emeritus",
+      "date": "2006-07-26",
+      "linkedin": "https://www.linkedin.com/in/murat-candeger-2b63802/"
+    },
+    {
+      "name": "OZDEN KARAKOK",
+      "certification": "CCIE",
+      "number": "6331",
+      "track": "SNA IP",
+      "status": "Re-certified",
+      "date": "2000-10-18",
+      "linkedin": "https://www.linkedin.com/in/okarakok/"
+    },
+    {
+      "name": "OZDEN KARAKOK",
+      "certification": "CCIE",
+      "number": "6331",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2001-08-21",
+      "linkedin": "https://www.linkedin.com/in/okarakok/"
+    },
+    {
+      "name": "OZDEN KARAKOK",
+      "certification": "CCIE",
+      "number": "6331",
+      "track": "CCIE Storage Networking",
+      "status": "Re-certified",
+      "date": "2005-09-27",
+      "linkedin": "https://www.linkedin.com/in/okarakok/"
+    },
+    {
+      "name": "MAZHAR KARAGULLE",
+      "certification": "CCIE",
+      "number": "6683",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2001-01-09",
+      "linkedin": "https://www.linkedin.com/in/mazhar-karagulle-5145a94/"
+    },
+    {
+      "name": "MAZHAR KARAGULLE",
+      "certification": "CCIE",
+      "number": "6683",
+      "track": "Service Provider",
+      "status": "Inactive",
+      "date": "2002-07-22",
+      "linkedin": "https://www.linkedin.com/in/mazhar-karagulle-5145a94/"
+    },
+    {
+      "name": "HALIT USTUNDAG",
+      "certification": "CCIE",
+      "number": "6768",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2001-01-23",
+      "linkedin": "https://www.linkedin.com/in/halit-ustundag-99929614/"
+    },
+    {
+      "name": "MURAT TIRYAKIOGLU",
+      "certification": "CCIE",
+      "number": "7611",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2001-06-15",
+      "linkedin": "https://www.linkedin.com/in/murattiryakioglu/"
+    },
+    {
+      "name": "MURAT TIRYAKIOGLU",
+      "certification": "CCIE",
+      "number": "7611",
+      "track": "Collaboration",
+      "status": "Inactive",
+      "date": "2004-10-14",
+      "linkedin": "https://www.linkedin.com/in/murattiryakioglu/"
+    },
+    {
+      "name": "MURAT OZDEMIR",
+      "certification": "CCIE",
+      "number": "7677",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2001-06-24",
+      "linkedin": ""
+    },
+    {
+      "name": "ORHAN DUZ",
+      "certification": "CCIE",
+      "number": "7689",
+      "track": "Enterprise Infrastructure",
+      "status": "Lifetime Emeritus",
+      "date": "2001-06-26",
+      "linkedin": "https://www.linkedin.com/in/orhanduz/"
+    },
+    {
+      "name": "LEVENT IRKILMEZ",
+      "certification": "CCIE",
+      "number": "7716",
+      "track": "SNA IP",
+      "status": "Lifetime Emeritus",
+      "date": "2001-06-29",
+      "linkedin": "https://www.linkedin.com/in/levent-irkilmez-86779b2b/"
+    },
+    {
+      "name": "LEVENT IRKILMEZ",
+      "certification": "CCIE",
+      "number": "7716",
+      "track": "CCIE Storage Networking",
+      "status": "Lifetime Emeritus",
+      "date": "2007-05-14",
+      "linkedin": "https://www.linkedin.com/in/levent-irkilmez-86779b2b/"
+    },
+    {
+      "name": "ATAKAN SAN",
+      "certification": "CCIE",
+      "number": "8152",
+      "track": "Enterprise Infrastructure",
+      "status": "Lifetime Emeritus",
+      "date": "2001-09-09",
+      "linkedin": "https://www.linkedin.com/in/atakan-s-1301405/"
+    },
+    {
+      "name": "ATAKAN SAN",
+      "certification": "CCIE",
+      "number": "8152",
+      "track": "Service Provider",
+      "status": "Lifetime Emeritus",
+      "date": "2002-10-16",
+      "linkedin": "https://www.linkedin.com/in/atakan-s-1301405/"
+    },
+    {
+      "name": "TAYLAN AKIN",
+      "certification": "CCIE",
+      "number": "8251",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2001-10-04",
+      "linkedin": ""
+    },
+    {
+      "name": "ILKER TEMIR",
+      "certification": "CCIE",
+      "number": "8312",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2001-10-29",
+      "linkedin": "https://www.linkedin.com/in/ilkertemir/"
+    },
+    {
+      "name": "MEHMET CETIN",
+      "certification": "CCIE",
+      "number": "8383",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2001-11-12",
+      "linkedin": ""
+    },
+    {
+      "name": "FETULLAH ERDINC",
+      "certification": "CCIE",
+      "number": "8688",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2002-01-24",
+      "linkedin": ""
+    },
+    {
+      "name": "SERCAN AKTAS",
+      "certification": "CCIE",
+      "number": "9221",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2002-04-25",
+      "linkedin": "https://www.linkedin.com/in/sercan-akta%C5%9F-b218251/"
+    },
+    {
+      "name": "SERCAN AKTAS",
+      "certification": "CCIE",
+      "number": "9221",
+      "track": "Security",
+      "status": "Inactive",
+      "date": "2008-08-11",
+      "linkedin": "https://www.linkedin.com/in/sercan-akta%C5%9F-b218251/"
+    },
+    {
+      "name": "HAKAN TAGMAC",
+      "certification": "CCIE",
+      "number": "9233",
+      "track": "Enterprise Infrastructure",
+      "status": "Lifetime Emeritus",
+      "date": "2002-04-26",
+      "linkedin": "https://www.linkedin.com/in/hakantagmac/"
+    },
+    {
+      "name": "ABIDIN KAHRAMAN",
+      "certification": "CCIE",
+      "number": "10149",
+      "track": "Enterprise Infrastructure",
+      "status": "Lifetime Emeritus",
+      "date": "2002-09-09",
+      "linkedin": "https://www.linkedin.com/in/abidink/"
+    },
+    {
+      "name": "EBRU TOKER",
+      "certification": "CCIE",
+      "number": "10894",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2002-12-19",
+      "linkedin": ""
+    },
+    {
+      "name": "EMRE KOYUNCU",
+      "certification": "CCIE",
+      "number": "10916",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2003-01-06",
+      "linkedin": ""
+    },
+    {
+      "name": "ISMAIL ERHAN KURT",
+      "certification": "CCIE",
+      "number": "11195",
+      "track": "Enterprise Infrastructure",
+      "status": "Lifetime Emeritus",
+      "date": "2003-03-03",
+      "linkedin": "https://www.linkedin.com/in/erhankurt/"
+    },
+    {
+      "name": "OSMAN VEYSEL ERDAG",
+      "certification": "CCIE",
+      "number": "11211",
+      "track": "Security",
+      "status": "Inactive",
+      "date": "2003-03-04",
+      "linkedin": "https://www.linkedin.com/in/veyselerdag/"
+    },
+    {
+      "name": "OZAN OCAL",
+      "certification": "CCIE",
+      "number": "11318",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2003-03-22",
+      "linkedin": "https://www.linkedin.com/in/ozan-ocal-4b1941/"
+    },
+    {
+      "name": "OZAN OCAL",
+      "certification": "CCIE",
+      "number": "11318",
+      "track": "Security",
+      "status": "Inactive",
+      "date": "2006-11-15",
+      "linkedin": "https://www.linkedin.com/in/ozan-ocal-4b1941/"
+    },
+    {
+      "name": "MUSTAFA CAGIR",
+      "certification": "CCIE",
+      "number": "11634",
+      "track": "Enterprise Infrastructure",
+      "status": "Lifetime Emeritus",
+      "date": "2003-05-14",
+      "linkedin": "https://www.linkedin.com/in/mustafa-cagir-4490a87b/"
+    },
+    {
+      "name": "MUSTAFA CAGIR",
+      "certification": "CCIE",
+      "number": "11634",
+      "track": "Collaboration",
+      "status": "Lifetime Emeritus",
+      "date": "2007-01-16",
+      "linkedin": "https://www.linkedin.com/in/mustafa-cagir-4490a87b/"
+    },
+    {
+      "name": "DEVRIM YENER KUCUK",
+      "certification": "CCIE",
+      "number": "11847",
+      "track": "Service Provider",
+      "status": "Inactive",
+      "date": "2003-06-16",
+      "linkedin": "https://www.linkedin.com/in/devrim-yener-kucuk-211388/"
+    },
+    {
+      "name": "DEVRIM YENER KUCUK",
+      "certification": "CCIE",
+      "number": "11847",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2009-07-09",
+      "linkedin": "https://www.linkedin.com/in/devrim-yener-kucuk-211388/"
+    },
+    {
+      "name": "ZAFER POLAT",
+      "certification": "CCIE",
+      "number": "11988",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2003-07-11",
+      "linkedin": "https://www.linkedin.com/in/zafer-polat-2866a83/"
+    },
+    {
+      "name": "GOKHAN SURUCU",
+      "certification": "CCIE",
+      "number": "12161",
+      "track": "Enterprise Infrastructure",
+      "status": "Lifetime Emeritus",
+      "date": "2003-08-19",
+      "linkedin": "https://www.linkedin.com/in/gokhan-surucu/"
+    },
+    {
+      "name": "KURSAD DEMIRAY",
+      "certification": "CCIE",
+      "number": "12719",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2004-01-06",
+      "linkedin": "https://www.linkedin.com/in/kursaddemiray/"
+    },
+    {
+      "name": "OSMAN HAKAN ERKAN",
+      "certification": "CCIE",
+      "number": "13202",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2004-04-22",
+      "linkedin": "https://www.linkedin.com/in/hakan-erkan-b7aa0310/"
+    },
+    {
+      "name": "OSMAN HAKAN ERKAN",
+      "certification": "CCIE",
+      "number": "13202",
+      "track": "Service Provider",
+      "status": "Inactive",
+      "date": "2005-02-17",
+      "linkedin": "https://www.linkedin.com/in/hakan-erkan-b7aa0310/"
+    },
+    {
+      "name": "OSMAN HAKAN ERKAN",
+      "certification": "CCIE",
+      "number": "13202",
+      "track": "CCIE Storage Networking",
+      "status": "Inactive",
+      "date": "2006-07-28",
+      "linkedin": "https://www.linkedin.com/in/hakan-erkan-b7aa0310/"
+    },
+    {
+      "name": "YILMAZ ACAR",
+      "certification": "CCIE",
+      "number": "13209",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2004-04-23",
+      "linkedin": "https://www.linkedin.com/in/y%C4%B1lmaz-acar-0484411a/"
+    },
+    {
+      "name": "GOKHAN KULE",
+      "certification": "CCIE",
+      "number": "13503",
+      "track": "Enterprise Infrastructure",
+      "status": "Lifetime Emeritus",
+      "date": "2004-06-24",
+      "linkedin": "https://www.linkedin.com/in/mgk2023/"
+    },
+    {
+      "name": "MEHMET MORTEN",
+      "certification": "CCIE",
+      "number": "13738",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2004-07-30",
+      "linkedin": "https://www.linkedin.com/in/bulent-morten-2064651/"
+    },
+    {
+      "name": "KENAN TAHSIN HERSAN",
+      "certification": "CCIE",
+      "number": "14251",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2004-12-09",
+      "linkedin": "https://www.linkedin.com/in/tahsin/"
+    },
+    {
+      "name": "AKGUN OZSOY",
+      "certification": "CCIE",
+      "number": "14346",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2005-01-18",
+      "linkedin": "https://www.linkedin.com/in/akgunozsoy/"
+    },
+    {
+      "name": "ALPER SAVAS",
+      "certification": "CCIE",
+      "number": "14538",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2005-04-05",
+      "linkedin": "https://www.linkedin.com/in/alper-savas-0278753/"
+    },
+    {
+      "name": "ALI ONDER ERGUN",
+      "certification": "CCIE",
+      "number": "14746",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2005-06-08",
+      "linkedin": "https://www.linkedin.com/in/onder-ergun-78312032/"
+    },
+    {
+      "name": "ALI ONDER ERGUN",
+      "certification": "CCIE",
+      "number": "14746",
+      "track": "Service Provider",
+      "status": "Inactive",
+      "date": "2006-10-05",
+      "linkedin": "https://www.linkedin.com/in/onder-ergun-78312032/"
+    },
+    {
+      "name": "BULENT KONUK",
+      "certification": "CCIE",
+      "number": "16584",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2006-07-20",
+      "linkedin": "https://www.linkedin.com/in/bulent-konuk-842b299/"
+    },
+    {
+      "name": "AHMET BURAK GOCMEN",
+      "certification": "CCIE",
+      "number": "16777",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2006-08-28",
+      "linkedin": "https://www.linkedin.com/in/burak/"
+    },
+    {
+      "name": "UGUR OKTAY",
+      "certification": "CCIE",
+      "number": "16829",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2006-09-04",
+      "linkedin": "https://www.linkedin.com/in/ugur-oktay-4866b31/"
+    },
+    {
+      "name": "KEMAL HAYDAR YILDIRIM",
+      "certification": "CCIE",
+      "number": "17474",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2007-02-23",
+      "linkedin": "https://www.linkedin.com/in/kemal-haydar-yildirim-58560737/"
+    },
+    {
+      "name": "METIN YILDIZLI",
+      "certification": "CCIE",
+      "number": "17544",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2007-03-12",
+      "linkedin": "https://www.linkedin.com/in/metinyildizli/"
+    },
+    {
+      "name": "YIGIT ZORLU",
+      "certification": "CCIE",
+      "number": "17722",
+      "track": "Collaboration",
+      "status": "Inactive",
+      "date": "2007-04-06",
+      "linkedin": "https://www.linkedin.com/in/yigit-zorlu/"
+    },
+    {
+      "name": "AYTAC KARAMESEOGLU",
+      "certification": "CCIE",
+      "number": "18102",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2007-06-04",
+      "linkedin": "https://www.linkedin.com/in/akarameseoglu/"
+    },
+    {
+      "name": "SERDAR KUT",
+      "certification": "CCIE",
+      "number": "18130",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2007-06-06",
+      "linkedin": "https://www.linkedin.com/in/serdar-k-b8283039/"
+    },
+    {
+      "name": "SERDAR KUT",
+      "certification": "CCIE",
+      "number": "18130",
+      "track": "Service Provider",
+      "status": "Re-certified",
+      "date": "2008-04-29",
+      "linkedin": "https://www.linkedin.com/in/serdar-k-b8283039/"
+    },
+    {
+      "name": "TAHIR POLAT",
+      "certification": "CCIE",
+      "number": "18193",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2007-06-12",
+      "linkedin": "https://www.linkedin.com/in/tahirpolat/"
+    },
+    {
+      "name": "TAHIR POLAT",
+      "certification": "CCIE",
+      "number": "18193",
+      "track": "Service Provider",
+      "status": "Re-certified",
+      "date": "2008-06-03",
+      "linkedin": "https://www.linkedin.com/in/tahirpolat/"
+    },
+    {
+      "name": "YAVUZ SABUNCUOGLU",
+      "certification": "CCIE",
+      "number": "18573",
+      "track": "Collaboration",
+      "status": "Inactive",
+      "date": "2007-08-08",
+      "linkedin": "https://www.linkedin.com/in/yavuz-sabuncuoglu-b758656/"
+    },
+    {
+      "name": "HAKAN CICEKCI",
+      "certification": "CCIE",
+      "number": "18628",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2007-08-16",
+      "linkedin": "https://www.linkedin.com/in/hakan-cicekci-6361235/"
+    },
+    {
+      "name": "ENGIN KARTAL",
+      "certification": "CCIE",
+      "number": "18727",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2007-08-30",
+      "linkedin": "https://www.linkedin.com/in/engin-kartal-69b3b89/"
+    },
+    {
+      "name": "METIN OZBEK",
+      "certification": "CCIE",
+      "number": "19030",
+      "track": "Security",
+      "status": "Inactive",
+      "date": "2007-10-05",
+      "linkedin": "https://www.linkedin.com/in/metin-ozbek-8a52b847/"
+    },
+    {
+      "name": "OZAN AKDEMIR",
+      "certification": "CCIE",
+      "number": "19298",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2007-11-08",
+      "linkedin": "https://www.linkedin.com/in/ozan-akdemir/"
+    },
+    {
+      "name": "ARSLAN COSKUN",
+      "certification": "CCIE",
+      "number": "19404",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2007-11-20",
+      "linkedin": "https://www.linkedin.com/in/arslan-coskun-1238402/"
+    },
+    {
+      "name": "MEMET ERCUMENT KOLAY",
+      "certification": "CCIE",
+      "number": "19641",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2007-12-14",
+      "linkedin": "https://www.linkedin.com/in/ercument-kolay-5bab989/"
+    },
+    {
+      "name": "MEMET ERCUMENT KOLAY",
+      "certification": "CCIE",
+      "number": "19641",
+      "track": "Service Provider",
+      "status": "Inactive",
+      "date": "2008-06-20",
+      "linkedin": "https://www.linkedin.com/in/ercument-kolay-5bab989/"
+    },
+    {
+      "name": "MEMET ERCUMENT KOLAY",
+      "certification": "CCIE",
+      "number": "19641",
+      "track": "Security",
+      "status": "Inactive",
+      "date": "2008-07-08",
+      "linkedin": "https://www.linkedin.com/in/ercument-kolay-5bab989/"
+    },
+    {
+      "name": "OGUZ ANADOLU",
+      "certification": "CCIE",
+      "number": "19679",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2007-12-19",
+      "linkedin": "https://www.linkedin.com/in/oguz-anadolu-631a2629/"
+    },
+    {
+      "name": "OGUZ ANADOLU",
+      "certification": "CCIE",
+      "number": "19679",
+      "track": "Security",
+      "status": "Re-certified",
+      "date": "2008-06-30",
+      "linkedin": "https://www.linkedin.com/in/oguz-anadolu-631a2629/"
+    },
+    {
+      "name": "KENAN KESER",
+      "certification": "CCIE",
+      "number": "20062",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2008-02-19",
+      "linkedin": "https://www.linkedin.com/in/kenan-keser-4296747/"
+    },
+    {
+      "name": "KENAN KESER",
+      "certification": "CCIE",
+      "number": "20062",
+      "track": "Service Provider",
+      "status": "Inactive",
+      "date": "2009-06-10",
+      "linkedin": "https://www.linkedin.com/in/kenan-keser-4296747/"
+    },
+    {
+      "name": "UTKU ER",
+      "certification": "CCIE",
+      "number": "20222",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2008-03-09",
+      "linkedin": "https://www.linkedin.com/in/utkuer/"
+    },
+    {
+      "name": "SERKAN OZDEN",
+      "certification": "CCIE",
+      "number": "20280",
+      "track": "Security",
+      "status": "Inactive",
+      "date": "2008-03-13",
+      "linkedin": "https://www.linkedin.com/in/serkanozden/"
+    },
+    {
+      "name": "SINAN ILKIZ",
+      "certification": "CCIE",
+      "number": "20544",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2008-04-16",
+      "linkedin": "https://www.linkedin.com/in/sinanilkiz/"
+    },
+    {
+      "name": "MURAT HATIPOGLU",
+      "certification": "CCIE",
+      "number": "20597",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2008-04-22",
+      "linkedin": "https://www.linkedin.com/in/murathatipoglu/"
+    },
+    {
+      "name": "SAYAN PEKER",
+      "certification": "CCIE",
+      "number": "20792",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2008-05-13",
+      "linkedin": "https://www.linkedin.com/in/peker/"
+    },
+    {
+      "name": "TUNA TAKTAK",
+      "certification": "CCIE",
+      "number": "21011",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2008-05-30",
+      "linkedin": "https://www.linkedin.com/in/tuna-taktak-869a64/"
+    },
+    {
+      "name": "TURAN ERCAN",
+      "certification": "CCIE",
+      "number": "21098",
+      "track": "Security",
+      "status": "Inactive",
+      "date": "2008-06-06",
+      "linkedin": "https://www.linkedin.com/in/turan-ercan-8b470b2b/"
+    },
+    {
+      "name": "FUAT KILIC",
+      "certification": "CCIE",
+      "number": "21150",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2008-06-12",
+      "linkedin": "https://www.linkedin.com/in/fkilic/"
+    },
+    {
+      "name": "SERDAR ERSOY",
+      "certification": "CCIE",
+      "number": "21206",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2008-06-17",
+      "linkedin": "https://www.linkedin.com/in/serdar-ersoy-ccie-21206-93b13a5/"
+    },
+    {
+      "name": "TURHAN OZYER",
+      "certification": "CCIE",
+      "number": "21328",
+      "track": "Security",
+      "status": "Emeritus",
+      "date": "2008-06-27",
+      "linkedin": "https://www.linkedin.com/in/turhanozyer/"
+    },
+    {
+      "name": "OZGUR CAY",
+      "certification": "CCIE",
+      "number": "21433",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2008-07-09",
+      "linkedin": "https://www.linkedin.com/in/ozgur-cay-86b61191/"
+    },
+    {
+      "name": "OZGUR CAY",
+      "certification": "CCIE",
+      "number": "21433",
+      "track": "Security",
+      "status": "Inactive",
+      "date": "2010-04-20",
+      "linkedin": "https://www.linkedin.com/in/ozgur-cay-86b61191/"
+    },
+    {
+      "name": "ENGIN ZEREN",
+      "certification": "CCIE",
+      "number": "21938",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2008-09-03",
+      "linkedin": ""
+    },
+    {
+      "name": "ATINC BAYTAN",
+      "certification": "CCIE",
+      "number": "22006",
+      "track": "Collaboration",
+      "status": "Emeritus",
+      "date": "2008-09-09",
+      "linkedin": "https://www.linkedin.com/in/atincbaytan/"
+    },
+    {
+      "name": "TANER GENCER",
+      "certification": "CCIE",
+      "number": "22022",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2008-09-11",
+      "linkedin": ""
+    },
+    {
+      "name": "ILYAS CELIK",
+      "certification": "CCIE",
+      "number": "22199",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2008-09-29",
+      "linkedin": "https://www.linkedin.com/in/ilyas-celik-203a1721/"
+    },
+    {
+      "name": "OZAN OGUZ",
+      "certification": "CCIE",
+      "number": "22559",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2008-11-04",
+      "linkedin": "https://www.linkedin.com/in/ozanoguz82/"
+    },
+    {
+      "name": "MUSTAFA KEREM GURSU",
+      "certification": "CCIE",
+      "number": "22560",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2008-11-04",
+      "linkedin": "https://www.linkedin.com/in/kerem-gursu-13ab912/"
+    },
+    {
+      "name": "AHMET KALAYCI",
+      "certification": "CCIE",
+      "number": "22561",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2008-11-04",
+      "linkedin": "https://www.linkedin.com/in/ahmet-kalayci-23394a5/"
+    },
+    {
+      "name": "EDIZ BURAK KIRIM",
+      "certification": "CCIE",
+      "number": "22562",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2008-11-04",
+      "linkedin": "https://www.linkedin.com/in/ediz-burak-k%C4%B1r%C4%B1m-a4880568/"
+    },
+    {
+      "name": "GOKHAN SENOL",
+      "certification": "CCIE",
+      "number": "22570",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2008-11-05",
+      "linkedin": "https://www.linkedin.com/in/gokhan-senol-b9a53547/"
+    },
+    {
+      "name": "ERDEM ARSLAN",
+      "certification": "CCIE",
+      "number": "22584",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2008-11-06",
+      "linkedin": "https://www.linkedin.com/in/erdemarslan/"
+    },
+    {
+      "name": "TAYFUN EDIZ",
+      "certification": "CCIE",
+      "number": "23599",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2009-02-23",
+      "linkedin": "https://www.linkedin.com/in/tayfun-ediz-abb3a029/"
+    },
+    {
+      "name": "TAYFUN EDIZ",
+      "certification": "CCIE",
+      "number": "23599",
+      "track": "Service Provider",
+      "status": "Emeritus",
+      "date": "2014-05-13",
+      "linkedin": "https://www.linkedin.com/in/tayfun-ediz-abb3a029/"
+    },
+    {
+      "name": "TAYFUN EDIZ",
+      "certification": "CCIE",
+      "number": "23599",
+      "track": "Security",
+      "status": "Emeritus",
+      "date": "2015-11-29",
+      "linkedin": "https://www.linkedin.com/in/tayfun-ediz-abb3a029/"
+    },
+    {
+      "name": "MESUT CAN",
+      "certification": "CCIE",
+      "number": "23776",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2009-03-09",
+      "linkedin": "https://www.linkedin.com/in/mesutcap/"
+    },
+    {
+      "name": "ALI FERSAK",
+      "certification": "CCIE",
+      "number": "23933",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2009-03-25",
+      "linkedin": "https://www.linkedin.com/in/ali-f-55a69115/"
+    },
+    {
+      "name": "ALI FERSAK",
+      "certification": "CCIE",
+      "number": "23933",
+      "track": "Service Provider",
+      "status": "Inactive",
+      "date": "2009-07-13",
+      "linkedin": "https://www.linkedin.com/in/ali-f-55a69115/"
+    },
+    {
+      "name": "ENIZ AKSOY",
+      "certification": "CCIE",
+      "number": "23970",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2009-03-30",
+      "linkedin": "https://www.linkedin.com/in/enizaksoy/"
+    },
+    {
+      "name": "HAKAN TAS",
+      "certification": "CCIE",
+      "number": "24067",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2009-04-09",
+      "linkedin": "https://www.linkedin.com/in/hakan-tas83/"
+    },
+    {
+      "name": "TOLGA SEZGIN",
+      "certification": "CCIE",
+      "number": "24173",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2009-04-20",
+      "linkedin": "https://www.linkedin.com/in/tolga-sezgin-3608a6b/"
+    },
+    {
+      "name": "MUHAMMED AKYUZ",
+      "certification": "CCIE",
+      "number": "24276",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2009-05-03",
+      "linkedin": "https://www.linkedin.com/in/muhammedakyuz/"
+    },
+    {
+      "name": "ANIL ALIBEYOGLU",
+      "certification": "CCIE",
+      "number": "24974",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2009-07-26",
+      "linkedin": "https://www.linkedin.com/in/anilalibeyoglu/"
+    },
+    {
+      "name": "EMRE SONMEZ",
+      "certification": "CCIE",
+      "number": "24975",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2009-07-26",
+      "linkedin": "https://www.linkedin.com/in/emre-s%C3%B6nmez-b4515017/"
+    },
+    {
+      "name": "UFUK CAKIR",
+      "certification": "CCIE",
+      "number": "25088",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2009-08-06",
+      "linkedin": "https://www.linkedin.com/in/ufuk-cakir-11912b42/"
+    },
+    {
+      "name": "ERTUGRUL KURKLU",
+      "certification": "CCIE",
+      "number": "25131",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2009-08-11",
+      "linkedin": "https://www.linkedin.com/in/ertugrulkurklu/"
+    },
+    {
+      "name": "MERT DEMIRER",
+      "certification": "CCIE",
+      "number": "25161",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2009-08-13",
+      "linkedin": "https://www.linkedin.com/in/mert-demirer-16061127/"
+    },
+    {
+      "name": "ISKENDER UZ",
+      "certification": "CCIE",
+      "number": "25287",
+      "track": "Service Provider",
+      "status": "Emeritus",
+      "date": "2009-08-31",
+      "linkedin": "https://www.linkedin.com/in/iskenderuz/"
+    },
+    {
+      "name": "SEMIH USTUN",
+      "certification": "CCIE",
+      "number": "25511",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2009-09-23",
+      "linkedin": "https://www.linkedin.com/in/semihustun/"
+    },
+    {
+      "name": "UMIT BURAK SAHIN",
+      "certification": "CCIE",
+      "number": "25749",
+      "track": "Security",
+      "status": "Re-certified",
+      "date": "2009-12-01",
+      "linkedin": "https://www.linkedin.com/in/buraksahin/"
+    },
+    {
+      "name": "MEHMET YILMAZ",
+      "certification": "CCIE",
+      "number": "25766",
+      "track": "Service Provider",
+      "status": "Re-certified",
+      "date": "2009-12-08",
+      "linkedin": ""
+    },
+    {
+      "name": "AHMET CAN KETEN",
+      "certification": "CCIE",
+      "number": "25836",
+      "track": "Collaboration",
+      "status": "Emeritus",
+      "date": "2010-01-11",
+      "linkedin": "https://www.linkedin.com/in/ahmet-can-keten-2671141b/"
+    },
+    {
+      "name": "AHMET CAN KETEN",
+      "certification": "CCIE",
+      "number": "25836",
+      "track": "Data Center",
+      "status": "Emeritus",
+      "date": "2016-06-03",
+      "linkedin": "https://www.linkedin.com/in/ahmet-can-keten-2671141b/"
+    },
+    {
+      "name": "TAYLAN KUCUK",
+      "certification": "CCIE",
+      "number": "25858",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2010-01-19",
+      "linkedin": "https://www.linkedin.com/in/takucuk/"
+    },
+    {
+      "name": "AYBALA CIHAN SULTAN TUT",
+      "certification": "CCIE",
+      "number": "26226",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2010-06-15",
+      "linkedin": "https://www.linkedin.com/in/aybalatut/"
+    },
+    {
+      "name": "OZCAN YILDIZ",
+      "certification": "CCIE",
+      "number": "26239",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2010-06-17",
+      "linkedin": "https://www.linkedin.com/in/ozcanyildiz/"
+    },
+    {
+      "name": "BURAK BICAKHAN",
+      "certification": "CCIE",
+      "number": "26338",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2010-06-30",
+      "linkedin": "https://www.linkedin.com/in/bicakhan/"
+    },
+    {
+      "name": "ORHAN ERGUN",
+      "certification": "CCIE",
+      "number": "26567",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2010-07-27",
+      "linkedin": "https://www.linkedin.com/in/orhanergun/"
+    },
+    {
+      "name": "ORHAN ERGUN",
+      "certification": "CCDE",
+      "number": "20140017",
+      "track": "CCDE Practical",
+      "status": "Re-certified",
+      "date": "2014-02-20",
+      "linkedin": "https://www.linkedin.com/in/orhanergun/"
+    },
+    {
+      "name": "OZGUR GULER",
+      "certification": "CCIE",
+      "number": "26847",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2010-08-31",
+      "linkedin": "https://www.linkedin.com/in/gulerozgur/"
+    },
+    {
+      "name": "AHMET KAAN USTUN",
+      "certification": "CCIE",
+      "number": "26848",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2010-08-31",
+      "linkedin": "https://www.linkedin.com/in/kaan-ustun/"
+    },
+    {
+      "name": "MURAT HALIDI",
+      "certification": "CCIE",
+      "number": "27282",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2010-10-21",
+      "linkedin": "https://www.linkedin.com/in/murat-halidi/"
+    },
+    {
+      "name": "SUNAY MUSAOGLU",
+      "certification": "CCIE",
+      "number": "27284",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2010-10-21",
+      "linkedin": "https://www.linkedin.com/in/sunay-musao%C4%9Flu-656bb77/"
+    },
+    {
+      "name": "ALI TADIR",
+      "certification": "CCIE",
+      "number": "27301",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2010-10-22",
+      "linkedin": "https://www.linkedin.com/in/alitadir/"
+    },
+    {
+      "name": "BARIS GENC",
+      "certification": "CCIE",
+      "number": "27940",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2011-01-13",
+      "linkedin": "https://www.linkedin.com/in/baris-genc-8965b831/"
+    },
+    {
+      "name": "GUVEN GUCUYENER",
+      "certification": "CCIE",
+      "number": "27971",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2011-01-14",
+      "linkedin": "https://www.linkedin.com/in/guven-gucuyener-6b1b9732/"
+    },
+    {
+      "name": "GUVEN GUCUYENER",
+      "certification": "CCIE",
+      "number": "27971",
+      "track": "Service Provider",
+      "status": "Re-certified",
+      "date": "2014-06-22",
+      "linkedin": "https://www.linkedin.com/in/guven-gucuyener-6b1b9732/"
+    },
+    {
+      "name": "MURTEZA YILMAZ",
+      "certification": "CCIE",
+      "number": "28082",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2011-01-28",
+      "linkedin": "https://www.linkedin.com/in/murteza-yilmaz-5821553a/"
+    },
+    {
+      "name": "OMER KETENE",
+      "certification": "CCIE",
+      "number": "28209",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2011-02-17",
+      "linkedin": "https://www.linkedin.com/in/omerketene/"
+    },
+    {
+      "name": "MEHMET OZDEM",
+      "certification": "CCIE",
+      "number": "28670",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2011-04-17",
+      "linkedin": "https://www.linkedin.com/in/dr-mehmet-%C3%B6zdem-0739056/"
+    },
+    {
+      "name": "AHMET YALCIN",
+      "certification": "CCIE",
+      "number": "28711",
+      "track": "Security",
+      "status": "Emeritus",
+      "date": "2011-04-21",
+      "linkedin": "https://www.linkedin.com/in/ahmetgokhanyalcin/"
+    },
+    {
+      "name": "MEHMET AKYOL",
+      "certification": "CCIE",
+      "number": "28712",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2011-04-21",
+      "linkedin": "https://www.linkedin.com/in/mehmetferitakyol/"
+    },
+    {
+      "name": "SEMIH DURU",
+      "certification": "CCIE",
+      "number": "28715",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2011-04-21",
+      "linkedin": "https://www.linkedin.com/in/semihduru/"
+    },
+    {
+      "name": "ISMAIL KURNAZ",
+      "certification": "CCIE",
+      "number": "28721",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2011-04-22",
+      "linkedin": "https://www.linkedin.com/in/ismail-kurnaz-136b2833/"
+    },
+    {
+      "name": "SINAN YILMAZ",
+      "certification": "CCIE",
+      "number": "28722",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2011-04-22",
+      "linkedin": "https://www.linkedin.com/in/sinan-yilmaz-1723a516/"
+    },
+    {
+      "name": "AYHAN CELIK",
+      "certification": "CCIE",
+      "number": "28966",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2011-05-19",
+      "linkedin": "https://www.linkedin.com/in/ayhanc/"
+    },
+    {
+      "name": "MUHAMMET SAHIN",
+      "certification": "CCIE",
+      "number": "29331",
+      "track": "Security",
+      "status": "Emeritus",
+      "date": "2011-06-20",
+      "linkedin": "https://www.linkedin.com/in/muhammetsahin/"
+    },
+    {
+      "name": "RIZA YILMAZ",
+      "certification": "CCIE",
+      "number": "29340",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2011-06-20",
+      "linkedin": "https://www.linkedin.com/in/ryilmaz/"
+    },
+    {
+      "name": "KUBILAY AKGUL",
+      "certification": "CCIE",
+      "number": "29500",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2011-07-01",
+      "linkedin": "https://www.linkedin.com/in/kubilayakgul/"
+    },
+    {
+      "name": "MERAL YILMAZ",
+      "certification": "CCIE",
+      "number": "29706",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2011-07-26",
+      "linkedin": "https://www.linkedin.com/in/meral-yilmaz-a3210739/"
+    },
+    {
+      "name": "ANIL ERGUNSAH",
+      "certification": "CCIE",
+      "number": "29761",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2011-07-28",
+      "linkedin": "https://www.linkedin.com/in/anilergunsah/"
+    },
+    {
+      "name": "ERCAN EL",
+      "certification": "CCIE",
+      "number": "29787",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2011-07-29",
+      "linkedin": "https://www.linkedin.com/in/ercan-el-3015786a/"
+    },
+    {
+      "name": "ALI CAVIT DAVUTOGLU",
+      "certification": "CCIE",
+      "number": "29792",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2011-07-29",
+      "linkedin": "https://www.linkedin.com/in/ali-cavit-davutoglu-b014bb5/"
+    },
+    {
+      "name": "MEHMET BIRGUL",
+      "certification": "CCIE",
+      "number": "29864",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2011-08-08",
+      "linkedin": "https://www.linkedin.com/in/mehmet-s%C4%B1d%C4%B1k-birg%C3%BCl-66bb8639/"
+    },
+    {
+      "name": "ALI SAMIOGLU",
+      "certification": "CCIE",
+      "number": "29893",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2011-08-09",
+      "linkedin": "https://www.linkedin.com/in/alisamioglu/"
+    },
+    {
+      "name": "ALI SAMIOGLU",
+      "certification": "CCIE",
+      "number": "29893",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2016-03-09",
+      "linkedin": "https://www.linkedin.com/in/alisamioglu/"
+    },
+    {
+      "name": "MAHMUT EMRAH GULKAC",
+      "certification": "CCIE",
+      "number": "30038",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2011-08-31",
+      "linkedin": "https://www.linkedin.com/in/m-emrah-g%C3%BClka%C3%A7-a0941440/"
+    },
+    {
+      "name": "OKAN ONRAT",
+      "certification": "CCIE",
+      "number": "31037",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2011-10-19",
+      "linkedin": "https://www.linkedin.com/in/okan-onrat-98b94043/"
+    },
+    {
+      "name": "VURAL SANAL",
+      "certification": "CCIE",
+      "number": "31074",
+      "track": "Security",
+      "status": "Inactive",
+      "date": "2011-10-20",
+      "linkedin": "https://www.linkedin.com/in/vuralsanal/"
+    },
+    {
+      "name": "OMER SAYGILI",
+      "certification": "CCIE",
+      "number": "31129",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2011-10-21",
+      "linkedin": "https://www.linkedin.com/in/omersaygili/"
+    },
+    {
+      "name": "OMER SAYGILI",
+      "certification": "CCIE",
+      "number": "31129",
+      "track": "Service Provider",
+      "status": "Re-certified",
+      "date": "2015-04-13",
+      "linkedin": "https://www.linkedin.com/in/omersaygili/"
+    },
+    {
+      "name": "CENGIZ TUNCEL",
+      "certification": "CCIE",
+      "number": "34470",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2012-02-01",
+      "linkedin": "https://www.linkedin.com/in/cengiztuncel/"
+    },
+    {
+      "name": "CENGIZ TUNCEL",
+      "certification": "CCIE",
+      "number": "34470",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2014-08-04",
+      "linkedin": "https://www.linkedin.com/in/cengiztuncel/"
+    },
+    {
+      "name": "CENGIZ TUNCEL",
+      "certification": "CCIE",
+      "number": "34470",
+      "track": "Security",
+      "status": "Re-certified",
+      "date": "2019-09-27",
+      "linkedin": "https://www.linkedin.com/in/cengiztuncel/"
+    },
+    {
+      "name": "MEHMET OZGUR BAYRAK",
+      "certification": "CCIE",
+      "number": "35256",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2012-04-16",
+      "linkedin": "https://www.linkedin.com/in/mehmet-ozgur-bayrak-5b9b7b22/"
+    },
+    {
+      "name": "GUNAL TURAL",
+      "certification": "CCIE",
+      "number": "35257",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2012-04-16",
+      "linkedin": "https://www.linkedin.com/in/gunaltural/"
+    },
+    {
+      "name": "ILKIN TURKOGLU",
+      "certification": "CCIE",
+      "number": "35258",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2012-04-16",
+      "linkedin": "https://www.linkedin.com/in/ilkin-turkoglu-39b6598/"
+    },
+    {
+      "name": "ALI HAYDAR SUSLU",
+      "certification": "CCIE",
+      "number": "35274",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2012-04-17",
+      "linkedin": "https://www.linkedin.com/in/ali-haydar-suslu-53650726/"
+    },
+    {
+      "name": "MEHMET KARAGOL",
+      "certification": "CCIE",
+      "number": "35628",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2012-06-07",
+      "linkedin": "https://www.linkedin.com/in/malikaragol/"
+    },
+    {
+      "name": "ALP ISIK",
+      "certification": "CCIE",
+      "number": "35668",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2012-06-12",
+      "linkedin": ""
+    },
+    {
+      "name": "ONSEL KULUK",
+      "certification": "CCIE",
+      "number": "35727",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2012-06-19",
+      "linkedin": "https://www.linkedin.com/in/onselkuluk/"
+    },
+    {
+      "name": "MEHMET HALIL YENI",
+      "certification": "CCIE",
+      "number": "35762",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2012-06-22",
+      "linkedin": "https://www.linkedin.com/in/mehmetyeni/"
+    },
+    {
+      "name": "EMRE YUKSEL",
+      "certification": "CCIE",
+      "number": "35763",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2012-06-22",
+      "linkedin": "https://www.linkedin.com/in/emre-yuksel-4285473/"
+    },
+    {
+      "name": "ASKIN CAKIR",
+      "certification": "CCIE",
+      "number": "35909",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2012-07-05",
+      "linkedin": "https://www.linkedin.com/in/askin-cakir-9398301/"
+    },
+    {
+      "name": "ASKIN CAKIR",
+      "certification": "CCIE",
+      "number": "35909",
+      "track": "Data Center",
+      "status": "Emeritus",
+      "date": "2016-02-08",
+      "linkedin": "https://www.linkedin.com/in/askin-cakir-9398301/"
+    },
+    {
+      "name": "ASKIN CAKIR",
+      "certification": "CCIE",
+      "number": "35909",
+      "track": "Security",
+      "status": "Emeritus",
+      "date": "2019-08-28",
+      "linkedin": "https://www.linkedin.com/in/askin-cakir-9398301/"
+    },
+    {
+      "name": "AYDIN AKAY",
+      "certification": "CCIE",
+      "number": "36131",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2012-07-24",
+      "linkedin": "https://www.linkedin.com/in/ayd%C4%B1n-akay-13a34739/"
+    },
+    {
+      "name": "SERHAT SELMAN",
+      "certification": "CCIE",
+      "number": "36132",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2012-07-24",
+      "linkedin": ""
+    },
+    {
+      "name": "GOKAY KAYA",
+      "certification": "CCIE",
+      "number": "37316",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2012-11-05",
+      "linkedin": "https://www.linkedin.com/in/gokaykaya/"
+    },
+    {
+      "name": "BURCU SAGAN",
+      "certification": "CCIE",
+      "number": "37374",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2012-11-08",
+      "linkedin": "https://www.linkedin.com/in/burcu-sagan-07098222/"
+    },
+    {
+      "name": "CAGATAY AVSAR",
+      "certification": "CCIE",
+      "number": "37383",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2012-11-09",
+      "linkedin": "https://www.linkedin.com/in/cagatay-avsar-1070405/"
+    },
+    {
+      "name": "SINMAZ KETENCI",
+      "certification": "CCIE",
+      "number": "37384",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2012-11-09",
+      "linkedin": "https://www.linkedin.com/in/sinmazketenci/"
+    },
+    {
+      "name": "ONUR KARACA",
+      "certification": "CCIE",
+      "number": "37386",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2012-11-09",
+      "linkedin": "https://www.linkedin.com/in/onur-karaca-35b16753/"
+    },
+    {
+      "name": "BARIS OZAY",
+      "certification": "CCIE",
+      "number": "37570",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2012-11-25",
+      "linkedin": "https://www.linkedin.com/in/baris-ozay-87b5062a/"
+    },
+    {
+      "name": "MERT OZKUL",
+      "certification": "CCIE",
+      "number": "37900",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2013-01-07",
+      "linkedin": "https://www.linkedin.com/in/mertozkul/"
+    },
+    {
+      "name": "GUN GOKCEARSLAN",
+      "certification": "CCIE",
+      "number": "38428",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-03-04",
+      "linkedin": "https://www.linkedin.com/in/gungokcearslan/"
+    },
+    {
+      "name": "GUN GOKCEARSLAN",
+      "certification": "CCIE",
+      "number": "38428",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2016-03-08",
+      "linkedin": "https://www.linkedin.com/in/gungokcearslan/"
+    },
+    {
+      "name": "SUPHI YILDIZ",
+      "certification": "CCIE",
+      "number": "38471",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-03-07",
+      "linkedin": "https://www.linkedin.com/in/suphi-yildiz-2a0ba625/"
+    },
+    {
+      "name": "ALI YILMAZ",
+      "certification": "CCIE",
+      "number": "38573",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-03-15",
+      "linkedin": "https://www.linkedin.com/in/aliyilmaz-netit/"
+    },
+    {
+      "name": "GOKHAN AKIN",
+      "certification": "CCIE",
+      "number": "38627",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-03-20",
+      "linkedin": "https://www.linkedin.com/in/gakin/"
+    },
+    {
+      "name": "MAHIR SENTIN",
+      "certification": "CCIE",
+      "number": "38972",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2013-04-16",
+      "linkedin": "https://www.linkedin.com/in/mahir-sentin-b8b4a640/"
+    },
+    {
+      "name": "OZAN BUK",
+      "certification": "CCIE",
+      "number": "39061",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-04-22",
+      "linkedin": "https://www.linkedin.com/in/ozanbuk/"
+    },
+    {
+      "name": "SINAN ASIG",
+      "certification": "CCIE",
+      "number": "39239",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-05-10",
+      "linkedin": "https://www.linkedin.com/in/usasig/"
+    },
+    {
+      "name": "CAGDAS KURT",
+      "certification": "CCIE",
+      "number": "39261",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-05-13",
+      "linkedin": "https://www.linkedin.com/in/cagdaskurt/"
+    },
+    {
+      "name": "FATIH YURTTAS",
+      "certification": "CCIE",
+      "number": "39268",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2013-05-14",
+      "linkedin": "https://www.linkedin.com/in/fatih-yurtta%C5%9F-5850b16/"
+    },
+    {
+      "name": "FERZAN UNLU",
+      "certification": "CCIE",
+      "number": "39556",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-06-17",
+      "linkedin": "https://www.linkedin.com/in/ferzanunlu/"
+    },
+    {
+      "name": "ARDA EKINCI",
+      "certification": "CCIE",
+      "number": "39587",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-06-19",
+      "linkedin": "https://www.linkedin.com/in/arda-ekinci-72100747/"
+    },
+    {
+      "name": "OKTAY KIRMIZI",
+      "certification": "CCIE",
+      "number": "39588",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2013-06-19",
+      "linkedin": "https://www.linkedin.com/in/oktay-k%C4%B1rm%C4%B1z%C4%B1-88a05a67/"
+    },
+    {
+      "name": "SALIH GENC",
+      "certification": "CCIE",
+      "number": "39614",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-06-21",
+      "linkedin": "https://www.linkedin.com/in/salih-genc/"
+    },
+    {
+      "name": "ENDER PIYALE",
+      "certification": "CCIE",
+      "number": "39932",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-07-23",
+      "linkedin": "https://www.linkedin.com/in/enderpiyale/"
+    },
+    {
+      "name": "ENDER PIYALE",
+      "certification": "CCIE",
+      "number": "39932",
+      "track": "Service Provider",
+      "status": "Re-certified",
+      "date": "2014-12-04",
+      "linkedin": "https://www.linkedin.com/in/enderpiyale/"
+    },
+    {
+      "name": "HUSEYIN ONAL",
+      "certification": "CCIE",
+      "number": "39933",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-07-23",
+      "linkedin": "https://www.linkedin.com/in/huseyin-onal-2b35b05/"
+    },
+    {
+      "name": "AYTEKIN OKSUZ",
+      "certification": "CCIE",
+      "number": "40331",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-08-26",
+      "linkedin": "https://www.linkedin.com/in/aytekinoksuz/"
+    },
+    {
+      "name": "AYTEKIN OKSUZ",
+      "certification": "CCIE",
+      "number": "40331",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2023-05-15",
+      "linkedin": "https://www.linkedin.com/in/aytekinoksuz/"
+    },
+    {
+      "name": "FERDI BULBUL",
+      "certification": "CCIE",
+      "number": "40495",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-09-09",
+      "linkedin": "https://www.linkedin.com/in/ferdibulbul/"
+    },
+    {
+      "name": "SEBAHATTIN CAGRI SENGUL",
+      "certification": "CCIE",
+      "number": "40496",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-09-09",
+      "linkedin": "https://www.linkedin.com/in/cagri-sengul-a0023869/"
+    },
+    {
+      "name": "SEBAHATTIN CAGRI SENGUL",
+      "certification": "CCIE",
+      "number": "40496",
+      "track": "Security",
+      "status": "Re-certified",
+      "date": "2017-11-20",
+      "linkedin": "https://www.linkedin.com/in/cagri-sengul-a0023869/"
+    },
+    {
+      "name": "ARIFE KALELI",
+      "certification": "CCIE",
+      "number": "41255",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-11-12",
+      "linkedin": "https://www.linkedin.com/in/arife-kaleli-49b94686/"
+    },
+    {
+      "name": "MELIH TEKE",
+      "certification": "CCIE",
+      "number": "41383",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-11-22",
+      "linkedin": "https://www.linkedin.com/in/melih-teke/"
+    },
+    {
+      "name": "SADETTIN SAHINER",
+      "certification": "CCIE",
+      "number": "41659",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2013-12-10",
+      "linkedin": "https://www.linkedin.com/in/ssahiner/"
+    },
+    {
+      "name": "SAFTER ARSLAN",
+      "certification": "CCIE",
+      "number": "41697",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2013-12-12",
+      "linkedin": "https://www.linkedin.com/in/safter-arslan-b0b19b3/"
+    },
+    {
+      "name": "GUNER KUS",
+      "certification": "CCIE",
+      "number": "41848",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2014-01-05",
+      "linkedin": "https://www.linkedin.com/in/guner-kus-6879849/"
+    },
+    {
+      "name": "OMER KAVLAK",
+      "certification": "CCIE",
+      "number": "41878",
+      "track": "Voice",
+      "status": "Re-certified",
+      "date": "2014-01-06",
+      "linkedin": "https://www.linkedin.com/in/omer-sonmez-kavlak-95382431/"
+    },
+    {
+      "name": "BULENT KIZILKAR",
+      "certification": "CCIE",
+      "number": "41980",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2014-01-10",
+      "linkedin": "https://www.linkedin.com/in/bulent-kizilkar-5457379/"
+    },
+    {
+      "name": "ABDULLAH LIV",
+      "certification": "CCIE",
+      "number": "42226",
+      "track": "Enterprise Infrastructure",
+      "status": "Emeritus",
+      "date": "2014-01-27",
+      "linkedin": "https://www.linkedin.com/in/abdullah-liv-3252175b/"
+    },
+    {
+      "name": "HARUN KILINC",
+      "certification": "CCIE",
+      "number": "42644",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2014-01-30",
+      "linkedin": "https://www.linkedin.com/in/harunkilinc/"
+    },
+    {
+      "name": "EVREN OZDES",
+      "certification": "CCIE",
+      "number": "42654",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2014-01-30",
+      "linkedin": "https://www.linkedin.com/in/evren-k%C3%BCr%C5%9Fat-%C3%B6zde%C5%9F-bb1b81ab/"
+    },
+    {
+      "name": "OMER HARMANCI",
+      "certification": "CCIE",
+      "number": "42774",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2014-03-11",
+      "linkedin": "https://www.linkedin.com/in/omer-faruk-harmanci-04213244/"
+    },
+    {
+      "name": "ERKAN DAL",
+      "certification": "CCIE",
+      "number": "42801",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2014-03-12",
+      "linkedin": "https://www.linkedin.com/in/erkan-dal-a06a6653/"
+    },
+    {
+      "name": "AHMET ERIS",
+      "certification": "CCIE",
+      "number": "42980",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2014-03-24",
+      "linkedin": "https://www.linkedin.com/in/ahmet-eri%C5%9F-78b73435/"
+    },
+    {
+      "name": "MERIC TILEYLIOGLU",
+      "certification": "CCIE",
+      "number": "43307",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2014-04-11",
+      "linkedin": "https://www.linkedin.com/in/meri%C3%A7-tileylio%C4%9Flu-a592145a/"
+    },
+    {
+      "name": "EBUBEKIR KOCA",
+      "certification": "CCIE",
+      "number": "43965",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2014-05-29",
+      "linkedin": "https://www.linkedin.com/in/ebubekirkoca/"
+    },
+    {
+      "name": "EBUBEKIR KOCA",
+      "certification": "CCIE",
+      "number": "43965",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2018-01-25",
+      "linkedin": "https://www.linkedin.com/in/ebubekirkoca/"
+    },
+    {
+      "name": "TURGUT ERDOGAN",
+      "certification": "CCIE",
+      "number": "44005",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2014-06-01",
+      "linkedin": "https://www.linkedin.com/in/turgut-erdogan-39589570/"
+    },
+    {
+      "name": "KADIR POLAT",
+      "certification": "CCIE",
+      "number": "44147",
+      "track": "Service Provider",
+      "status": "Inactive",
+      "date": "2014-06-19",
+      "linkedin": "https://www.linkedin.com/in/kadir-polat-6a9649155/"
+    },
+    {
+      "name": "BURAK BOZEZEL",
+      "certification": "CCIE",
+      "number": "45445",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2014-11-10",
+      "linkedin": "https://www.linkedin.com/in/burak-bozezel-937a2b57/"
+    },
+    {
+      "name": "MAHMUT AKALIN",
+      "certification": "CCIE",
+      "number": "46368",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2015-01-15",
+      "linkedin": "https://www.linkedin.com/in/mahmut-akalin-26a0554a/"
+    },
+    {
+      "name": "MURAT GENC",
+      "certification": "CCIE",
+      "number": "46789",
+      "track": "Service Provider",
+      "status": "Inactive",
+      "date": "2015-02-05",
+      "linkedin": "https://www.linkedin.com/in/muratgenc09/"
+    },
+    {
+      "name": "ALI SUAYB AYDEMIR",
+      "certification": "CCIE",
+      "number": "47287",
+      "track": "Service Provider",
+      "status": "Re-certified",
+      "date": "2015-03-02",
+      "linkedin": "https://www.linkedin.com/in/ali-aydemir-ipcompro/"
+    },
+    {
+      "name": "ALI SUAYB AYDEMIR",
+      "certification": "CCIE",
+      "number": "47287",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-11-24",
+      "linkedin": "https://www.linkedin.com/in/ali-aydemir-ipcompro/"
+    },
+    {
+      "name": "MEHMET KAAN DOYRAN",
+      "certification": "CCIE",
+      "number": "47776",
+      "track": "Service Provider",
+      "status": "Re-certified",
+      "date": "2015-03-27",
+      "linkedin": "https://www.linkedin.com/in/mehmet-kaan-doyran-8ba16845/"
+    },
+    {
+      "name": "MEHMET KAAN DOYRAN",
+      "certification": "CCIE",
+      "number": "47776",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2020-03-06",
+      "linkedin": "https://www.linkedin.com/in/mehmet-kaan-doyran-8ba16845/"
+    },
+    {
+      "name": "KURSAD EKER",
+      "certification": "CCIE",
+      "number": "47778",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-03-27",
+      "linkedin": "https://www.linkedin.com/in/kursadeker/"
+    },
+    {
+      "name": "AHMET UNCU",
+      "certification": "CCIE",
+      "number": "48342",
+      "track": "Service Provider",
+      "status": "Re-certified",
+      "date": "2015-04-30",
+      "linkedin": "https://www.linkedin.com/in/ahmetuncu/"
+    },
+    {
+      "name": "SINAN OZTEKIN",
+      "certification": "CCIE",
+      "number": "48771",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-05-26",
+      "linkedin": "https://www.linkedin.com/in/sinan-%C3%B6ztekin-85370a65/"
+    },
+    {
+      "name": "PIRI KAYMAKCIOGLU",
+      "certification": "CCIE",
+      "number": "48772",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-05-26",
+      "linkedin": "https://www.linkedin.com/in/pirikaymakcioglu/"
+    },
+    {
+      "name": "SERHAN GULER",
+      "certification": "CCIE",
+      "number": "48773",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2015-05-26",
+      "linkedin": ""
+    },
+    {
+      "name": "ESER SEKIZINCI",
+      "certification": "CCIE",
+      "number": "48844",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-05-29",
+      "linkedin": "https://www.linkedin.com/in/eser8th/"
+    },
+    {
+      "name": "BURAK GUCLU",
+      "certification": "CCIE",
+      "number": "49150",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-06-25",
+      "linkedin": "https://www.linkedin.com/in/burak-nuri-g%C3%BC%C3%A7l%C3%BC-87540658/"
+    },
+    {
+      "name": "ONUR CICEK",
+      "certification": "CCIE",
+      "number": "49171",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2015-06-26",
+      "linkedin": "https://www.linkedin.com/in/onur-cicek-b6192725/"
+    },
+    {
+      "name": "MEHMET OZAN",
+      "certification": "CCIE",
+      "number": "49362",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2015-07-13",
+      "linkedin": "https://www.linkedin.com/in/mehmet-ozan-2527a739/"
+    },
+    {
+      "name": "YILMAZ BILGEN",
+      "certification": "CCIE",
+      "number": "49850",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-08-17",
+      "linkedin": "https://www.linkedin.com/in/yilmaz-bilgen/"
+    },
+    {
+      "name": "TANER KOC",
+      "certification": "CCIE",
+      "number": "49851",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2015-08-17",
+      "linkedin": "https://www.linkedin.com/in/koctaner/"
+    },
+    {
+      "name": "HAYRI SEZER",
+      "certification": "CCIE",
+      "number": "49876",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-08-18",
+      "linkedin": "https://www.linkedin.com/in/hayrisezer/"
+    },
+    {
+      "name": "ZAFER BULUT",
+      "certification": "CCIE",
+      "number": "49892",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-08-19",
+      "linkedin": "https://www.linkedin.com/in/zafer-b-b3a8b521/"
+    },
+    {
+      "name": "HALIL IBRAHIM COBAN",
+      "certification": "CCIE",
+      "number": "49893",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-08-19",
+      "linkedin": "https://www.linkedin.com/in/coban/"
+    },
+    {
+      "name": "CENK ALI METE",
+      "certification": "CCIE",
+      "number": "49895",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-08-19",
+      "linkedin": "https://www.linkedin.com/in/cenkmete/"
+    },
+    {
+      "name": "ERINC MEHMET SOYLU",
+      "certification": "CCIE",
+      "number": "49897",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-08-18",
+      "linkedin": "https://www.linkedin.com/in/erinc-mehmet-soylu/"
+    },
+    {
+      "name": "UMUR ARSLAN",
+      "certification": "CCIE",
+      "number": "49910",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-08-20",
+      "linkedin": "https://www.linkedin.com/in/umurarslan/"
+    },
+    {
+      "name": "MUHARREM NEDIRLI",
+      "certification": "CCIE",
+      "number": "49911",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-08-20",
+      "linkedin": "https://www.linkedin.com/in/mnedirli/"
+    },
+    {
+      "name": "HUSEYIN YUCEL",
+      "certification": "CCIE",
+      "number": "49912",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-08-20",
+      "linkedin": "https://www.linkedin.com/in/h%C3%BCseyin-y%C3%BCcel-31547231/"
+    },
+    {
+      "name": "YUNUS EMRE TORTAMIS",
+      "certification": "CCIE",
+      "number": "50148",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2015-09-07",
+      "linkedin": ""
+    },
+    {
+      "name": "ALI MURAT KARAOGLU",
+      "certification": "CCIE",
+      "number": "50186",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-09-09",
+      "linkedin": "https://www.linkedin.com/in/ali-murat-karaoglu-8672902a/"
+    },
+    {
+      "name": "CIHAN GURSUN",
+      "certification": "CCIE",
+      "number": "50332",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-09-23",
+      "linkedin": ""
+    },
+    {
+      "name": "ZEKAI VEYHURDAM DIKMEN",
+      "certification": "CCIE",
+      "number": "50376",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-09-25",
+      "linkedin": "https://www.linkedin.com/in/veyhurdam/"
+    },
+    {
+      "name": "ZEKAI VEYHURDAM DIKMEN",
+      "certification": "CCIE",
+      "number": "50376",
+      "track": "Enterprise Wireless",
+      "status": "Re-certified",
+      "date": "2017-09-08",
+      "linkedin": "https://www.linkedin.com/in/veyhurdam/"
+    },
+    {
+      "name": "GOKHAN KAYMAK",
+      "certification": "CCIE",
+      "number": "50527",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-10-08",
+      "linkedin": "https://www.linkedin.com/in/g%C3%B6khan-kaymak-aab77b54/"
+    },
+    {
+      "name": "GOKHAN KAYMAK",
+      "certification": "CCIE",
+      "number": "50527",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2018-07-20",
+      "linkedin": "https://www.linkedin.com/in/g%C3%B6khan-kaymak-aab77b54/"
+    },
+    {
+      "name": "BURAK YAVUZ",
+      "certification": "CCIE",
+      "number": "50528",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-10-08",
+      "linkedin": "https://www.linkedin.com/in/burak-yavuz-2a970333/"
+    },
+    {
+      "name": "BURAK YAVUZ",
+      "certification": "CCIE",
+      "number": "50528",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2018-06-08",
+      "linkedin": "https://www.linkedin.com/in/burak-yavuz-2a970333/"
+    },
+    {
+      "name": "OGUL CELIKSOYDAN",
+      "certification": "CCIE",
+      "number": "50658",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2015-10-16",
+      "linkedin": "https://www.linkedin.com/in/ogulceliksoydan/"
+    },
+    {
+      "name": "EGEMEN CELIK",
+      "certification": "CCIE",
+      "number": "52230",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2016-03-28",
+      "linkedin": "https://www.linkedin.com/in/celikeg/"
+    },
+    {
+      "name": "DAVUT DOGANTEKIN",
+      "certification": "CCIE",
+      "number": "52239",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2016-03-29",
+      "linkedin": "https://www.linkedin.com/in/dgntkn/"
+    },
+    {
+      "name": "YASIN KILINCOGLU",
+      "certification": "CCIE",
+      "number": "52240",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2016-03-29",
+      "linkedin": "https://www.linkedin.com/in/yasin-k%C4%B1l%C4%B1n%C3%A7o%C4%9Flu-b0596124/"
+    },
+    {
+      "name": "UGUR ERSOY",
+      "certification": "CCIE",
+      "number": "52257",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2016-03-30",
+      "linkedin": "https://www.linkedin.com/in/ugur-ersoy-6648918a/"
+    },
+    {
+      "name": "CELAL MILLETINISEVER",
+      "certification": "CCIE",
+      "number": "52271",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2016-03-31",
+      "linkedin": "https://www.linkedin.com/in/celalmilletinisever52271/"
+    },
+    {
+      "name": "CELAL MILLETINISEVER",
+      "certification": "CCIE",
+      "number": "52271",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2017-12-12",
+      "linkedin": "https://www.linkedin.com/in/celalmilletinisever52271/"
+    },
+    {
+      "name": "MAHMUT KAVAK",
+      "certification": "CCIE",
+      "number": "52576",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2016-04-27",
+      "linkedin": "https://www.linkedin.com/in/mahmut-kavak-056648/"
+    },
+    {
+      "name": "HUSEYIN EFE EVYAPAN",
+      "certification": "CCIE",
+      "number": "53137",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2016-06-13",
+      "linkedin": "https://www.linkedin.com/in/efe-evyapan/"
+    },
+    {
+      "name": "AHMET KILIC",
+      "certification": "CCIE",
+      "number": "53138",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2016-06-13",
+      "linkedin": "https://www.linkedin.com/in/ahmetkilic53138/"
+    },
+    {
+      "name": "ONUR TEKIN",
+      "certification": "CCIE",
+      "number": "53968",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2016-09-01",
+      "linkedin": "https://www.linkedin.com/in/onur-tekin-msc-a5251556/"
+    },
+    {
+      "name": "MAHMUT TOPRAK",
+      "certification": "CCIE",
+      "number": "54533",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2016-10-24",
+      "linkedin": "https://www.linkedin.com/in/mahmuttoprak/"
+    },
+    {
+      "name": "BURAK BAHADIR BILGIN",
+      "certification": "CCIE",
+      "number": "54548",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2016-10-25",
+      "linkedin": "https://www.linkedin.com/in/burak-bahadir-bilgin-6b7592a/"
+    },
+    {
+      "name": "BURAK BAHADIR BILGIN",
+      "certification": "CCIE",
+      "number": "54548",
+      "track": "Security",
+      "status": "Re-certified",
+      "date": "2019-11-13",
+      "linkedin": "https://www.linkedin.com/in/burak-bahadir-bilgin-6b7592a/"
+    },
+    {
+      "name": "SEVKET GULHAN",
+      "certification": "CCIE",
+      "number": "54850",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2016-11-24",
+      "linkedin": "https://www.linkedin.com/in/sevket-gulhan-0204524/"
+    },
+    {
+      "name": "SEMIH YIGIT",
+      "certification": "CCIE",
+      "number": "55409",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-01-13",
+      "linkedin": "https://www.linkedin.com/in/semih-yi%C4%9Fit-a596605/"
+    },
+    {
+      "name": "ERKAN BAL",
+      "certification": "CCIE",
+      "number": "55431",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-01-16",
+      "linkedin": "https://www.linkedin.com/in/erkan-bal/"
+    },
+    {
+      "name": "ERKAN BAL",
+      "certification": "CCIE",
+      "number": "55431",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2019-09-12",
+      "linkedin": "https://www.linkedin.com/in/erkan-bal/"
+    },
+    {
+      "name": "ERKAN BAL",
+      "certification": "DEVNET",
+      "number": "20240023",
+      "track": "DevNet Expert",
+      "status": "Certified",
+      "date": "2024-05-01",
+      "linkedin": "https://www.linkedin.com/in/erkan-bal/"
+    },
+    {
+      "name": "OZAN KUCUK",
+      "certification": "CCIE",
+      "number": "55562",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-01-24",
+      "linkedin": "https://www.linkedin.com/in/ozankucuk/"
+    },
+    {
+      "name": "BURHAN KARA",
+      "certification": "CCIE",
+      "number": "55763",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-02-20",
+      "linkedin": "https://www.linkedin.com/in/burhankara/"
+    },
+    {
+      "name": "MURAT OZ",
+      "certification": "CCIE",
+      "number": "55764",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-02-20",
+      "linkedin": "https://www.linkedin.com/in/murat-oz-18585740/"
+    },
+    {
+      "name": "ERSEN SAHINER",
+      "certification": "CCIE",
+      "number": "55813",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2017-02-27",
+      "linkedin": "https://www.linkedin.com/in/ersen-sahiner-76175038/"
+    },
+    {
+      "name": "HASAN ONAT",
+      "certification": "CCIE",
+      "number": "55910",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-03-13",
+      "linkedin": "https://www.linkedin.com/in/hasan-onat/"
+    },
+    {
+      "name": "BARIS AVTAN",
+      "certification": "CCIE",
+      "number": "56162",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-04-13",
+      "linkedin": "https://www.linkedin.com/in/barisavtan/"
+    },
+    {
+      "name": "EGEMEN BAKIRCI",
+      "certification": "CCIE",
+      "number": "56283",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2017-05-05",
+      "linkedin": "https://www.linkedin.com/in/egemen-bakirci/"
+    },
+    {
+      "name": "DINCER GULTEKIN",
+      "certification": "CCIE",
+      "number": "56575",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2017-06-14",
+      "linkedin": "https://www.linkedin.com/in/din%C3%A7er-g%C3%BCltekin-1695676a/"
+    },
+    {
+      "name": "BANU DIDEM ALKAS",
+      "certification": "CCIE",
+      "number": "56592",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2017-06-16",
+      "linkedin": "https://www.linkedin.com/in/banudidemalkas/"
+    },
+    {
+      "name": "CAGATAY DOGAN",
+      "certification": "CCIE",
+      "number": "56707",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-07-05",
+      "linkedin": "https://www.linkedin.com/in/cagatay-dogan-ccie-56707/"
+    },
+    {
+      "name": "OMER KARA",
+      "certification": "CCIE",
+      "number": "56764",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2017-07-12",
+      "linkedin": "https://www.linkedin.com/in/omer-kara-16929648/"
+    },
+    {
+      "name": "BURAK CANDAN",
+      "certification": "CCIE",
+      "number": "56869",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-07-26",
+      "linkedin": "https://www.linkedin.com/in/burakcandan/"
+    },
+    {
+      "name": "BURAK CANDAN",
+      "certification": "CCIE",
+      "number": "56869",
+      "track": "Service Provider",
+      "status": "Re-certified",
+      "date": "2019-12-16",
+      "linkedin": "https://www.linkedin.com/in/burakcandan/"
+    },
+    {
+      "name": "MEHMET KAVI",
+      "certification": "CCIE",
+      "number": "56907",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-07-30",
+      "linkedin": "https://www.linkedin.com/in/mehmet-onur-kavi-1154b7b5/"
+    },
+    {
+      "name": "HUSEYIN TEZER",
+      "certification": "CCIE",
+      "number": "56910",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2017-07-31",
+      "linkedin": "https://www.linkedin.com/in/h%C3%BCseyin-tezer-79a9b849/"
+    },
+    {
+      "name": "SEMIH TIGLI",
+      "certification": "CCIE",
+      "number": "57116",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2017-08-21",
+      "linkedin": "https://www.linkedin.com/in/semih-tigli-1425ba23/"
+    },
+    {
+      "name": "SAMET CULHA",
+      "certification": "CCIE",
+      "number": "57153",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-08-24",
+      "linkedin": "https://www.linkedin.com/in/samet-%C3%A7ulha/"
+    },
+    {
+      "name": "ALI OSMAN BUYUKAVSAR",
+      "certification": "CCIE",
+      "number": "57157",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2017-08-24",
+      "linkedin": "https://www.linkedin.com/in/ali-osman-b%C3%BCy%C3%BCkav%C5%9Far-mba-pmp%C2%AE-74145635/"
+    },
+    {
+      "name": "SERHAN SEZGIN",
+      "certification": "CCIE",
+      "number": "57270",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-09-10",
+      "linkedin": "https://www.linkedin.com/in/serhan-sezgin-a629a910/"
+    },
+    {
+      "name": "SERHAN SEZGIN",
+      "certification": "CCIE",
+      "number": "57270",
+      "track": "Security",
+      "status": "Re-certified",
+      "date": "2019-12-09",
+      "linkedin": "https://www.linkedin.com/in/serhan-sezgin-a629a910/"
+    },
+    {
+      "name": "HASAN DEMIR OLMEZSES",
+      "certification": "CCIE",
+      "number": "57429",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-09-25",
+      "linkedin": "https://www.linkedin.com/in/olmezses/"
+    },
+    {
+      "name": "BURCIN DURSUN",
+      "certification": "CCIE",
+      "number": "57611",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2017-10-13",
+      "linkedin": "https://www.linkedin.com/in/bur%C3%A7in-dursun-347a6a38/"
+    },
+    {
+      "name": "BILGE GOKOZAN",
+      "certification": "CCIE",
+      "number": "58272",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2018-01-25",
+      "linkedin": "https://www.linkedin.com/in/bilge-gokozan/"
+    },
+    {
+      "name": "ARAS PALUYAN",
+      "certification": "CCIE",
+      "number": "58305",
+      "track": "Service Provider",
+      "status": "Re-certified",
+      "date": "2018-01-31",
+      "linkedin": "https://www.linkedin.com/in/araspaluyan/"
+    },
+    {
+      "name": "ARAS PALUYAN",
+      "certification": "CCDE",
+      "number": "20230040",
+      "track": "CCDE Practical",
+      "status": "Certified",
+      "date": "2023-08-22",
+      "linkedin": "https://www.linkedin.com/in/araspaluyan/"
+    },
+    {
+      "name": "MEHMET ULUS",
+      "certification": "CCIE",
+      "number": "58502",
+      "track": "Collaboration",
+      "status": "Inactive",
+      "date": "2018-02-26",
+      "linkedin": "https://www.linkedin.com/in/mehmet-ulus/"
+    },
+    {
+      "name": "BERKAY ERGEN",
+      "certification": "CCIE",
+      "number": "58973",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2018-04-24",
+      "linkedin": "https://www.linkedin.com/in/berkay-ergen-391457b9/"
+    },
+    {
+      "name": "ERCAN ERDOGMUS",
+      "certification": "CCIE",
+      "number": "59263",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2018-05-27",
+      "linkedin": "https://www.linkedin.com/in/ercanerdogmus/"
+    },
+    {
+      "name": "UTKAN VURAL",
+      "certification": "CCIE",
+      "number": "59264",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2018-05-27",
+      "linkedin": "https://www.linkedin.com/in/utkan-vural-6a75b487/"
+    },
+    {
+      "name": "ALI CAN KARABAS",
+      "certification": "CCIE",
+      "number": "59272",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2018-05-28",
+      "linkedin": "https://www.linkedin.com/in/alikarabas/"
+    },
+    {
+      "name": "EMINE IBIS",
+      "certification": "CCIE",
+      "number": "59365",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2018-06-06",
+      "linkedin": "https://www.linkedin.com/in/emine-ibi%C5%9F-55178b53/"
+    },
+    {
+      "name": "ZEYNEP PULAT",
+      "certification": "CCIE",
+      "number": "59601",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2018-07-04",
+      "linkedin": "https://www.linkedin.com/in/zeynep-pulat-4a7253132/"
+    },
+    {
+      "name": "BORA OZVER",
+      "certification": "CCIE",
+      "number": "59705",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2018-07-16",
+      "linkedin": "https://www.linkedin.com/in/boraozver/"
+    },
+    {
+      "name": "SEFIK KARATAYLI",
+      "certification": "CCIE",
+      "number": "60902",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2018-12-12",
+      "linkedin": "https://www.linkedin.com/in/%C5%9Fefik-karatayl%C4%B1-49bb9342/"
+    },
+    {
+      "name": "AVNI GERMAN",
+      "certification": "CCIE",
+      "number": "61306",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-02-08",
+      "linkedin": "https://www.linkedin.com/in/avni-german-bba02524/"
+    },
+    {
+      "name": "MERT IYIGUN",
+      "certification": "CCIE",
+      "number": "61530",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-03-14",
+      "linkedin": "https://www.linkedin.com/in/ihsan-mert-iyigun/"
+    },
+    {
+      "name": "MAHMUT TAC",
+      "certification": "CCIE",
+      "number": "61636",
+      "track": "Security",
+      "status": "Re-certified",
+      "date": "2019-03-26",
+      "linkedin": "https://www.linkedin.com/in/mahmuttac/"
+    },
+    {
+      "name": "EMRAH KONUR",
+      "certification": "CCIE",
+      "number": "61936",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-05-07",
+      "linkedin": "https://www.linkedin.com/in/emrah-konur-82883098/"
+    },
+    {
+      "name": "ERCAN ZER",
+      "certification": "CCIE",
+      "number": "62247",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2019-06-17",
+      "linkedin": "https://www.linkedin.com/in/ercan-zer-4304933b/"
+    },
+    {
+      "name": "ERAY KUSMEZ",
+      "certification": "CCIE",
+      "number": "62497",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-07-16",
+      "linkedin": "https://www.linkedin.com/in/eray-kusmez-0574ba174/"
+    },
+    {
+      "name": "ORUC AKPINAR",
+      "certification": "CCIE",
+      "number": "62955",
+      "track": "Collaboration",
+      "status": "Inactive",
+      "date": "2019-08-28",
+      "linkedin": "https://www.linkedin.com/in/orucakpinar/"
+    },
+    {
+      "name": "MEHMET AKCA",
+      "certification": "CCIE",
+      "number": "63104",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-09-09",
+      "linkedin": "https://www.linkedin.com/in/mehmet-bu%C4%9Fra-akca-3697a161/"
+    },
+    {
+      "name": "SAMET CESUR",
+      "certification": "CCIE",
+      "number": "63105",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-09-09",
+      "linkedin": "https://www.linkedin.com/in/samet-cesur-70186445/"
+    },
+    {
+      "name": "ADEM ATIKTURK",
+      "certification": "CCIE",
+      "number": "63378",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-10-01",
+      "linkedin": "https://www.linkedin.com/in/adematikturk/"
+    },
+    {
+      "name": "AHMED FURKAN NAZLIGUL",
+      "certification": "CCIE",
+      "number": "63379",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-10-01",
+      "linkedin": "https://www.linkedin.com/in/ahmed-furkan-nazligul/"
+    },
+    {
+      "name": "KAAN BAYKUL",
+      "certification": "CCIE",
+      "number": "63389",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-10-02",
+      "linkedin": "https://www.linkedin.com/in/kaan-baykul-a5694b11a/"
+    },
+    {
+      "name": "MAHMUT AYDIN",
+      "certification": "CCIE",
+      "number": "63405",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-10-03",
+      "linkedin": "https://www.linkedin.com/in/mahmut-aydin/"
+    },
+    {
+      "name": "ILKER MANSUR",
+      "certification": "CCIE",
+      "number": "63555",
+      "track": "Collaboration",
+      "status": "Re-certified",
+      "date": "2019-10-16",
+      "linkedin": "https://www.linkedin.com/in/ilker-mansur-1514b969/"
+    },
+    {
+      "name": "MURAT YILMAZ",
+      "certification": "CCIE",
+      "number": "63556",
+      "track": "Enterprise Wireless",
+      "status": "Re-certified",
+      "date": "2019-10-16",
+      "linkedin": "https://www.linkedin.com/in/murat-y-b4083627/"
+    },
+    {
+      "name": "VOLKAN BAYKAN",
+      "certification": "CCIE",
+      "number": "63772",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-10-31",
+      "linkedin": "https://www.linkedin.com/in/volkanbaykan/"
+    },
+    {
+      "name": "SERCAN SAYKAL",
+      "certification": "CCIE",
+      "number": "63915",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-11-13",
+      "linkedin": "https://www.linkedin.com/in/sercan-saykal/"
+    },
+    {
+      "name": "FATIH FENNI",
+      "certification": "CCIE",
+      "number": "64048",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-11-22",
+      "linkedin": "https://www.linkedin.com/in/fatih-fenni-6b50bab6/"
+    },
+    {
+      "name": "EMRAH OZMEN",
+      "certification": "CCIE",
+      "number": "64087",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-11-26",
+      "linkedin": "https://www.linkedin.com/in/emrahozmen2018/"
+    },
+    {
+      "name": "EMRAH OZMEN",
+      "certification": "CCIE",
+      "number": "64087",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2022-02-01",
+      "linkedin": "https://www.linkedin.com/in/emrahozmen2018/"
+    },
+    {
+      "name": "BURHAN YUCEL",
+      "certification": "CCIE",
+      "number": "64351",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2019-12-12",
+      "linkedin": "https://www.linkedin.com/in/burhan-y%C3%BCcel-93a67415/"
+    },
+    {
+      "name": "SELCUK KARABACAK",
+      "certification": "CCIE",
+      "number": "64608",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2020-01-08",
+      "linkedin": "https://www.linkedin.com/in/selcuk-karabacak-9b9274159/"
+    },
+    {
+      "name": "UMUT COKBILIR",
+      "certification": "CCIE",
+      "number": "64738",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2020-01-14",
+      "linkedin": "https://www.linkedin.com/in/umutcokbilir/"
+    },
+    {
+      "name": "MERT ATIL",
+      "certification": "CCIE",
+      "number": "64770",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2020-01-15",
+      "linkedin": "https://www.linkedin.com/in/mert-atil-9a42379b/"
+    },
+    {
+      "name": "BEKIR BUGRA KIYMAZ",
+      "certification": "CCIE",
+      "number": "64801",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2020-01-16",
+      "linkedin": "https://www.linkedin.com/in/bbkiymaz/"
+    },
+    {
+      "name": "ISA GOK",
+      "certification": "CCIE",
+      "number": "64806",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2020-01-16",
+      "linkedin": "https://www.linkedin.com/in/isa-gok-9541887a/"
+    },
+    {
+      "name": "MURAT UNAL",
+      "certification": "CCIE",
+      "number": "65184",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2020-02-05",
+      "linkedin": "https://www.linkedin.com/in/murat-%C3%BCnal-7667351ab/"
+    },
+    {
+      "name": "ERTAN ATILA",
+      "certification": "CCIE",
+      "number": "65276",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2020-02-12",
+      "linkedin": "https://www.linkedin.com/in/ertanatila/"
+    },
+    {
+      "name": "BURAK DARTAR",
+      "certification": "CCIE",
+      "number": "65348",
+      "track": "Security",
+      "status": "Re-certified",
+      "date": "2020-02-17",
+      "linkedin": "https://www.linkedin.com/in/burak-dartar-58995098/"
+    },
+    {
+      "name": "ERKAN ERCAN",
+      "certification": "CCIE",
+      "number": "65386",
+      "track": "Enterprise Infrastructure",
+      "status": "Inactive",
+      "date": "2020-02-19",
+      "linkedin": "https://www.linkedin.com/in/erkanercan-networkarchitect/"
+    },
+    {
+      "name": "CIHAN METE",
+      "certification": "CCIE",
+      "number": "65417",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2020-02-21",
+      "linkedin": "https://www.linkedin.com/in/cihan-mete-276607a1/"
+    },
+    {
+      "name": "CIHAN YILMAZER",
+      "certification": "CCIE",
+      "number": "65426",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2020-02-21",
+      "linkedin": "https://www.linkedin.com/in/cihanyilmazer/"
+    },
+    {
+      "name": "AHMET TUNCOK",
+      "certification": "CCIE",
+      "number": "65540",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2021-08-26",
+      "linkedin": "https://www.linkedin.com/in/ahmettuncok/"
+    },
+    {
+      "name": "AHMET TUNCOK",
+      "certification": "CCIE",
+      "number": "65540",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2021-10-25",
+      "linkedin": "https://www.linkedin.com/in/ahmettuncok/"
+    },
+    {
+      "name": "CIHANGIR SEYYAR",
+      "certification": "CCIE",
+      "number": "65803",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2022-01-13",
+      "linkedin": "https://www.linkedin.com/in/cihangir-seyyar-65b26a77/"
+    },
+    {
+      "name": "FURKAN AKTUG",
+      "certification": "CCIE",
+      "number": "65828",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2022-01-20",
+      "linkedin": "https://www.linkedin.com/in/furkan-aktu%C4%9F-66185474/"
+    },
+    {
+      "name": "ERDAL KALAYCI",
+      "certification": "CCIE",
+      "number": "66517",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2022-11-02",
+      "linkedin": "https://www.linkedin.com/in/erdalkalayci/"
+    },
+    {
+      "name": "EMRAH KURNAZ",
+      "certification": "CCIE",
+      "number": "66569",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2022-11-15",
+      "linkedin": "https://www.linkedin.com/in/emrah-kurnaz-860385320/"
+    },
+    {
+      "name": "MURAT TOPAL",
+      "certification": "CCIE",
+      "number": "66722",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2022-12-20",
+      "linkedin": "https://www.linkedin.com/in/murat-topal-35901948/"
+    },
+    {
+      "name": "YIGIT FIRAT",
+      "certification": "CCIE",
+      "number": "66827",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2023-01-23",
+      "linkedin": "https://www.linkedin.com/in/yigit-f%C4%B1rat-52530a38/"
+    },
+    {
+      "name": "ORHAN BERKAY DEMIR",
+      "certification": "CCIE",
+      "number": "66117",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2022-07-05",
+      "linkedin": "https://www.linkedin.com/in/berkay-demir-msc-259413102/"
+    },
+    {
+      "name": "ORHAN BERKAY DEMIR",
+      "certification": "CCIE",
+      "number": "66117",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2023-08-21",
+      "linkedin": "https://www.linkedin.com/in/berkay-demir-msc-259413102/"
+    },
+    {
+      "name": "BARIS KUMAS",
+      "certification": "CCIE",
+      "number": "66124",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2022-07-06",
+      "linkedin": "https://www.linkedin.com/in/baris-kumas/"
+    },
+    {
+      "name": "BARIS KUMAS",
+      "certification": "CCIE",
+      "number": "66124",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2023-08-04",
+      "linkedin": "https://www.linkedin.com/in/baris-kumas/"
+    },
+    {
+      "name": "MUHAMMET BICER",
+      "certification": "CCIE",
+      "number": "66213",
+      "track": "Security",
+      "status": "Re-certified",
+      "date": "2022-08-05",
+      "linkedin": "https://www.linkedin.com/in/kadirbicer/"
+    },
+    {
+      "name": "BATUHAN DULGEROGLU",
+      "certification": "CCIE",
+      "number": "66318",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2022-09-05",
+      "linkedin": "https://www.linkedin.com/in/batuhan-eylem-d%C3%BClgero%C4%9Flu-55a107324/"
+    },
+    {
+      "name": "FATIH KACMAZ",
+      "certification": "CCIE",
+      "number": "66682",
+      "track": "Service Provider",
+      "status": "Certified",
+      "date": "2022-12-12",
+      "linkedin": "https://www.linkedin.com/in/fatih-kacmaz-22128614/"
+    },
+    {
+      "name": "NURULLAH YILMAZ",
+      "certification": "CCIE",
+      "number": "66786",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2023-01-16",
+      "linkedin": "https://www.linkedin.com/in/nurullah-yilmaz-b7482144/"
+    },
+    {
+      "name": "MELIH OZTURK",
+      "certification": "CCIE",
+      "number": "66813",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2023-01-19",
+      "linkedin": "https://www.linkedin.com/in/melihoztrk/"
+    },
+    {
+      "name": "BURAK SALIHOGLU",
+      "certification": "CCIE",
+      "number": "66942",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2023-02-22",
+      "linkedin": "https://www.linkedin.com/in/burak-salihoglu-96883157/"
+    },
+    {
+      "name": "METIN OZ",
+      "certification": "CCIE",
+      "number": "67255",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2023-05-05",
+      "linkedin": "https://www.linkedin.com/in/metin-%C3%B6z-8758b012b/"
+    },
+    {
+      "name": "ATLAS BORAP",
+      "certification": "CCIE",
+      "number": "67754",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2023-08-02",
+      "linkedin": "https://www.linkedin.com/in/atlasborap/"
+    },
+    {
+      "name": "OMER DARTAR",
+      "certification": "CCIE",
+      "number": "67926",
+      "track": "Security",
+      "status": "Certified",
+      "date": "2023-08-31",
+      "linkedin": "https://www.linkedin.com/in/%C3%B6mer-dartar-134344144/"
+    },
+    {
+      "name": "HUSEYIN BURAK TASKESEN",
+      "certification": "CCIE",
+      "number": "68199",
+      "track": "Enterprise Infrastructure",
+      "status": "Re-certified",
+      "date": "2024-04-08",
+      "linkedin": "https://www.linkedin.com/in/taskesen/"
+    },
+    {
+      "name": "HUSEYIN BURAK TASKESEN",
+      "certification": "CCIE",
+      "number": "68199",
+      "track": "Data Center",
+      "status": "Re-certified",
+      "date": "2025-02-24",
+      "linkedin": "https://www.linkedin.com/in/taskesen/"
+    },
+    {
+      "name": "BURAK ISIK",
+      "certification": "DEVNET",
+      "number": "20240027",
+      "track": "DevNet Expert",
+      "status": "Certified",
+      "date": "2024-05-07",
+      "linkedin": "https://www.linkedin.com/in/burak-isik-a7448340/"
+    },
+    {
+      "name": "CAN OZBAS",
+      "certification": "DEVNET",
+      "number": "20240057",
+      "track": "DevNet Expert",
+      "status": "Certified",
+      "date": "2024-07-19",
+      "linkedin": "https://www.linkedin.com/in/can-ozbas/"
+    },
+    {
+      "name": "GOKHAN GENCAL",
+      "certification": "CCIE",
+      "number": "68439",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2024-08-02",
+      "linkedin": "https://www.linkedin.com/in/gkhngncl/"
+    },
+    {
+      "name": "SALIH U DOGAN",
+      "certification": "CCIE",
+      "number": "68678",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2024-11-13",
+      "linkedin": "https://www.linkedin.com/in/salihugurdogan/"
+    },
+    {
+      "name": "MERT KULA",
+      "certification": "CCIE",
+      "number": "68679",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2024-11-13",
+      "linkedin": "https://www.linkedin.com/in/mert-kula-35b00ba2/"
+    },
+    {
+      "name": "MERT KERIM TOPAL",
+      "certification": "CCIE",
+      "number": "68680",
+      "track": "Security",
+      "status": "Certified",
+      "date": "2024-11-13",
+      "linkedin": "https://www.linkedin.com/in/mert-kerim-topal/"
+    },
+    {
+      "name": "MUHAMMET SAID TEMELLI",
+      "certification": "CCIE",
+      "number": "68689",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2024-11-14",
+      "linkedin": "https://www.linkedin.com/in/mstemelli/"
+    },
+    {
+      "name": "CANER TEKIN",
+      "certification": "CCIE",
+      "number": "68691",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2024-11-15",
+      "linkedin": "https://www.linkedin.com/in/canertekinn/"
+    },
+    {
+      "name": "ANIL AGCA",
+      "certification": "CCIE",
+      "number": "68724",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2024-11-22",
+      "linkedin": "https://www.linkedin.com/in/anilagca/"
+    },
+    {
+      "name": "ATAKAN ATAK",
+      "certification": "CCIE",
+      "number": "68781",
+      "track": "Security",
+      "status": "Certified",
+      "date": "2024-12-03",
+      "linkedin": "https://www.linkedin.com/in/atakan-atak-aa1909146/"
+    },
+    {
+      "name": "ABDURRAHIM AYAR",
+      "certification": "CCIE",
+      "number": "68850",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2024-12-19",
+      "linkedin": "https://www.linkedin.com/in/abdurrahim-ayar-309248108/"
+    },
+    {
+      "name": "RAUF ONUR EVRANOS",
+      "certification": "CCIE",
+      "number": "68851",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2024-12-19",
+      "linkedin": "https://www.linkedin.com/in/onurevranos/"
+    },
+    {
+      "name": "KURSAT KURT",
+      "certification": "CCIE",
+      "number": "68873",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2025-01-10",
+      "linkedin": "https://www.linkedin.com/in/k%C3%BCr%C5%9Fat-k-4a4b01207/"
+    },
+    {
+      "name": "ZAFER TIGLI",
+      "certification": "CCIE",
+      "number": "68934",
+      "track": "Enterprise Infrastructure",
+      "status": "Certified",
+      "date": "2025-02-09",
+      "linkedin": "https://www.linkedin.com/in/zafertigli/"
+    }
+  ]
+
+} 

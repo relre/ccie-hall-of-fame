@@ -7,7 +7,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "1997-02-28",
-      "linkedin": "https://www.linkedin.com/in/ugur-koken-88919447/"
+      "linkedin": "https://www.linkedin.com/in/ugur-koken-88919447/",
+      "normalRowNumber": 1
     },
     {
       "name": "IBRAHIM BAC",
@@ -16,7 +17,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Lifetime Emeritus",
       "date": "1999-03-02",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 2,
+      "activeRowNumber": 1
     },
     {
       "name": "MURAT CANDEGER",
@@ -25,7 +28,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Lifetime Emeritus",
       "date": "2000-02-08",
-      "linkedin": "https://www.linkedin.com/in/murat-candeger-2b63802/"
+      "linkedin": "https://www.linkedin.com/in/murat-candeger-2b63802/",
+      "normalRowNumber": 3,
+      "activeRowNumber": 2
     },
     {
       "name": "MURAT CANDEGER",
@@ -34,7 +39,9 @@
       "track": "SNA IP",
       "status": "Lifetime Emeritus",
       "date": "2000-08-23",
-      "linkedin": "https://www.linkedin.com/in/murat-candeger-2b63802/"
+      "linkedin": "https://www.linkedin.com/in/murat-candeger-2b63802/",
+      "normalRowNumber": 3,
+      "activeRowNumber": 2
     },
     {
       "name": "MURAT CANDEGER",
@@ -43,7 +50,9 @@
       "track": "CCIE Storage Networking",
       "status": "Lifetime Emeritus",
       "date": "2006-07-26",
-      "linkedin": "https://www.linkedin.com/in/murat-candeger-2b63802/"
+      "linkedin": "https://www.linkedin.com/in/murat-candeger-2b63802/",
+      "normalRowNumber": 3,
+      "activeRowNumber": 2
     },
     {
       "name": "OZDEN KARAKOK",
@@ -52,7 +61,9 @@
       "track": "SNA IP",
       "status": "Re-certified",
       "date": "2000-10-18",
-      "linkedin": "https://www.linkedin.com/in/okarakok/"
+      "linkedin": "https://www.linkedin.com/in/okarakok/",
+      "normalRowNumber": 4,
+      "activeRowNumber": 3
     },
     {
       "name": "OZDEN KARAKOK",
@@ -61,7 +72,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2001-08-21",
-      "linkedin": "https://www.linkedin.com/in/okarakok/"
+      "linkedin": "https://www.linkedin.com/in/okarakok/",
+      "normalRowNumber": 4,
+      "activeRowNumber": 3
     },
     {
       "name": "OZDEN KARAKOK",
@@ -70,7 +83,9 @@
       "track": "CCIE Storage Networking",
       "status": "Re-certified",
       "date": "2005-09-27",
-      "linkedin": "https://www.linkedin.com/in/okarakok/"
+      "linkedin": "https://www.linkedin.com/in/okarakok/",
+      "normalRowNumber": 4,
+      "activeRowNumber": 3
     },
     {
       "name": "MAZHAR KARAGULLE",
@@ -79,7 +94,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2001-01-09",
-      "linkedin": "https://www.linkedin.com/in/mazhar-karagulle-5145a94/"
+      "linkedin": "https://www.linkedin.com/in/mazhar-karagulle-5145a94/",
+      "normalRowNumber": 5
     },
     {
       "name": "MAZHAR KARAGULLE",
@@ -88,7 +104,8 @@
       "track": "Service Provider",
       "status": "Inactive",
       "date": "2002-07-22",
-      "linkedin": "https://www.linkedin.com/in/mazhar-karagulle-5145a94/"
+      "linkedin": "https://www.linkedin.com/in/mazhar-karagulle-5145a94/",
+      "normalRowNumber": 5
     },
     {
       "name": "HALIT USTUNDAG",
@@ -97,7 +114,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2001-01-23",
-      "linkedin": "https://www.linkedin.com/in/halit-ustundag-99929614/"
+      "linkedin": "https://www.linkedin.com/in/halit-ustundag-99929614/",
+      "normalRowNumber": 6
     },
     {
       "name": "MURAT TIRYAKIOGLU",
@@ -106,7 +124,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2001-06-15",
-      "linkedin": "https://www.linkedin.com/in/murattiryakioglu/"
+      "linkedin": "https://www.linkedin.com/in/murattiryakioglu/",
+      "normalRowNumber": 7
     },
     {
       "name": "MURAT TIRYAKIOGLU",
@@ -115,7 +134,8 @@
       "track": "Collaboration",
       "status": "Inactive",
       "date": "2004-10-14",
-      "linkedin": "https://www.linkedin.com/in/murattiryakioglu/"
+      "linkedin": "https://www.linkedin.com/in/murattiryakioglu/",
+      "normalRowNumber": 7
     },
     {
       "name": "MURAT OZDEMIR",
@@ -124,7 +144,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2001-06-24",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 8
     },
     {
       "name": "ORHAN DUZ",
@@ -133,7 +154,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Lifetime Emeritus",
       "date": "2001-06-26",
-      "linkedin": "https://www.linkedin.com/in/orhanduz/"
+      "linkedin": "https://www.linkedin.com/in/orhanduz/",
+      "normalRowNumber": 9,
+      "activeRowNumber": 4
     },
     {
       "name": "LEVENT IRKILMEZ",
@@ -142,7 +165,9 @@
       "track": "SNA IP",
       "status": "Lifetime Emeritus",
       "date": "2001-06-29",
-      "linkedin": "https://www.linkedin.com/in/levent-irkilmez-86779b2b/"
+      "linkedin": "https://www.linkedin.com/in/levent-irkilmez-86779b2b/",
+      "normalRowNumber": 10,
+      "activeRowNumber": 5
     },
     {
       "name": "LEVENT IRKILMEZ",
@@ -151,7 +176,9 @@
       "track": "CCIE Storage Networking",
       "status": "Lifetime Emeritus",
       "date": "2007-05-14",
-      "linkedin": "https://www.linkedin.com/in/levent-irkilmez-86779b2b/"
+      "linkedin": "https://www.linkedin.com/in/levent-irkilmez-86779b2b/",
+      "normalRowNumber": 10,
+      "activeRowNumber": 5
     },
     {
       "name": "ATAKAN SAN",
@@ -160,7 +187,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Lifetime Emeritus",
       "date": "2001-09-09",
-      "linkedin": "https://www.linkedin.com/in/atakan-s-1301405/"
+      "linkedin": "https://www.linkedin.com/in/atakan-s-1301405/",
+      "normalRowNumber": 11,
+      "activeRowNumber": 6
     },
     {
       "name": "ATAKAN SAN",
@@ -169,7 +198,9 @@
       "track": "Service Provider",
       "status": "Lifetime Emeritus",
       "date": "2002-10-16",
-      "linkedin": "https://www.linkedin.com/in/atakan-s-1301405/"
+      "linkedin": "https://www.linkedin.com/in/atakan-s-1301405/",
+      "normalRowNumber": 11,
+      "activeRowNumber": 6
     },
     {
       "name": "TAYLAN AKIN",
@@ -178,7 +209,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2001-10-04",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 12
     },
     {
       "name": "ILKER TEMIR",
@@ -187,7 +219,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2001-10-29",
-      "linkedin": "https://www.linkedin.com/in/ilkertemir/"
+      "linkedin": "https://www.linkedin.com/in/ilkertemir/",
+      "normalRowNumber": 13
     },
     {
       "name": "MEHMET CETIN",
@@ -196,7 +229,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2001-11-12",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 14
     },
     {
       "name": "FETULLAH ERDINC",
@@ -205,7 +239,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2002-01-24",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 15
     },
     {
       "name": "SERCAN AKTAS",
@@ -214,7 +249,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2002-04-25",
-      "linkedin": "https://www.linkedin.com/in/sercan-akta%C5%9F-b218251/"
+      "linkedin": "https://www.linkedin.com/in/sercan-akta%C5%9F-b218251/",
+      "normalRowNumber": 16
     },
     {
       "name": "SERCAN AKTAS",
@@ -223,7 +259,8 @@
       "track": "Security",
       "status": "Inactive",
       "date": "2008-08-11",
-      "linkedin": "https://www.linkedin.com/in/sercan-akta%C5%9F-b218251/"
+      "linkedin": "https://www.linkedin.com/in/sercan-akta%C5%9F-b218251/",
+      "normalRowNumber": 16
     },
     {
       "name": "HAKAN TAGMAC",
@@ -232,7 +269,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Lifetime Emeritus",
       "date": "2002-04-26",
-      "linkedin": "https://www.linkedin.com/in/hakantagmac/"
+      "linkedin": "https://www.linkedin.com/in/hakantagmac/",
+      "normalRowNumber": 17,
+      "activeRowNumber": 7
     },
     {
       "name": "ABIDIN KAHRAMAN",
@@ -241,7 +280,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Lifetime Emeritus",
       "date": "2002-09-09",
-      "linkedin": "https://www.linkedin.com/in/abidink/"
+      "linkedin": "https://www.linkedin.com/in/abidink/",
+      "normalRowNumber": 18,
+      "activeRowNumber": 8
     },
     {
       "name": "EBRU TOKER",
@@ -250,7 +291,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2002-12-19",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 19
     },
     {
       "name": "EMRE KOYUNCU",
@@ -259,7 +301,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2003-01-06",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 20
     },
     {
       "name": "ISMAIL ERHAN KURT",
@@ -268,7 +311,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Lifetime Emeritus",
       "date": "2003-03-03",
-      "linkedin": "https://www.linkedin.com/in/erhankurt/"
+      "linkedin": "https://www.linkedin.com/in/erhankurt/",
+      "normalRowNumber": 21,
+      "activeRowNumber": 9
     },
     {
       "name": "OSMAN VEYSEL ERDAG",
@@ -277,7 +322,8 @@
       "track": "Security",
       "status": "Inactive",
       "date": "2003-03-04",
-      "linkedin": "https://www.linkedin.com/in/veyselerdag/"
+      "linkedin": "https://www.linkedin.com/in/veyselerdag/",
+      "normalRowNumber": 22
     },
     {
       "name": "OZAN OCAL",
@@ -286,7 +332,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2003-03-22",
-      "linkedin": "https://www.linkedin.com/in/ozan-ocal-4b1941/"
+      "linkedin": "https://www.linkedin.com/in/ozan-ocal-4b1941/",
+      "normalRowNumber": 23
     },
     {
       "name": "OZAN OCAL",
@@ -295,7 +342,8 @@
       "track": "Security",
       "status": "Inactive",
       "date": "2006-11-15",
-      "linkedin": "https://www.linkedin.com/in/ozan-ocal-4b1941/"
+      "linkedin": "https://www.linkedin.com/in/ozan-ocal-4b1941/",
+      "normalRowNumber": 23
     },
     {
       "name": "MUSTAFA CAGIR",
@@ -304,7 +352,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Lifetime Emeritus",
       "date": "2003-05-14",
-      "linkedin": "https://www.linkedin.com/in/mustafa-cagir-4490a87b/"
+      "linkedin": "https://www.linkedin.com/in/mustafa-cagir-4490a87b/",
+      "normalRowNumber": 24,
+      "activeRowNumber": 10
     },
     {
       "name": "MUSTAFA CAGIR",
@@ -313,7 +363,9 @@
       "track": "Collaboration",
       "status": "Lifetime Emeritus",
       "date": "2007-01-16",
-      "linkedin": "https://www.linkedin.com/in/mustafa-cagir-4490a87b/"
+      "linkedin": "https://www.linkedin.com/in/mustafa-cagir-4490a87b/",
+      "normalRowNumber": 24,
+      "activeRowNumber": 10
     },
     {
       "name": "DEVRIM YENER KUCUK",
@@ -322,7 +374,8 @@
       "track": "Service Provider",
       "status": "Inactive",
       "date": "2003-06-16",
-      "linkedin": "https://www.linkedin.com/in/devrim-yener-kucuk-211388/"
+      "linkedin": "https://www.linkedin.com/in/devrim-yener-kucuk-211388/",
+      "normalRowNumber": 25
     },
     {
       "name": "DEVRIM YENER KUCUK",
@@ -331,7 +384,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2009-07-09",
-      "linkedin": "https://www.linkedin.com/in/devrim-yener-kucuk-211388/"
+      "linkedin": "https://www.linkedin.com/in/devrim-yener-kucuk-211388/",
+      "normalRowNumber": 25
     },
     {
       "name": "ZAFER POLAT",
@@ -340,7 +394,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2003-07-11",
-      "linkedin": "https://www.linkedin.com/in/zafer-polat-2866a83/"
+      "linkedin": "https://www.linkedin.com/in/zafer-polat-2866a83/",
+      "normalRowNumber": 26
     },
     {
       "name": "GOKHAN SURUCU",
@@ -349,7 +404,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Lifetime Emeritus",
       "date": "2003-08-19",
-      "linkedin": "https://www.linkedin.com/in/gokhan-surucu/"
+      "linkedin": "https://www.linkedin.com/in/gokhan-surucu/",
+      "normalRowNumber": 27,
+      "activeRowNumber": 11
     },
     {
       "name": "KURSAD DEMIRAY",
@@ -358,7 +415,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2004-01-06",
-      "linkedin": "https://www.linkedin.com/in/kursaddemiray/"
+      "linkedin": "https://www.linkedin.com/in/kursaddemiray/",
+      "normalRowNumber": 28
     },
     {
       "name": "OSMAN HAKAN ERKAN",
@@ -367,7 +425,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2004-04-22",
-      "linkedin": "https://www.linkedin.com/in/hakan-erkan-b7aa0310/"
+      "linkedin": "https://www.linkedin.com/in/hakan-erkan-b7aa0310/",
+      "normalRowNumber": 29
     },
     {
       "name": "OSMAN HAKAN ERKAN",
@@ -376,7 +435,8 @@
       "track": "Service Provider",
       "status": "Inactive",
       "date": "2005-02-17",
-      "linkedin": "https://www.linkedin.com/in/hakan-erkan-b7aa0310/"
+      "linkedin": "https://www.linkedin.com/in/hakan-erkan-b7aa0310/",
+      "normalRowNumber": 29
     },
     {
       "name": "OSMAN HAKAN ERKAN",
@@ -385,7 +445,8 @@
       "track": "CCIE Storage Networking",
       "status": "Inactive",
       "date": "2006-07-28",
-      "linkedin": "https://www.linkedin.com/in/hakan-erkan-b7aa0310/"
+      "linkedin": "https://www.linkedin.com/in/hakan-erkan-b7aa0310/",
+      "normalRowNumber": 29
     },
     {
       "name": "YILMAZ ACAR",
@@ -394,7 +455,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2004-04-23",
-      "linkedin": "https://www.linkedin.com/in/y%C4%B1lmaz-acar-0484411a/"
+      "linkedin": "https://www.linkedin.com/in/y%C4%B1lmaz-acar-0484411a/",
+      "normalRowNumber": 30,
+      "activeRowNumber": 12
     },
     {
       "name": "GOKHAN KULE",
@@ -403,7 +466,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Lifetime Emeritus",
       "date": "2004-06-24",
-      "linkedin": "https://www.linkedin.com/in/mgk2023/"
+      "linkedin": "https://www.linkedin.com/in/mgk2023/",
+      "normalRowNumber": 31,
+      "activeRowNumber": 13
     },
     {
       "name": "MEHMET MORTEN",
@@ -412,7 +477,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2004-07-30",
-      "linkedin": "https://www.linkedin.com/in/bulent-morten-2064651/"
+      "linkedin": "https://www.linkedin.com/in/bulent-morten-2064651/",
+      "normalRowNumber": 32
     },
     {
       "name": "KENAN TAHSIN HERSAN",
@@ -421,7 +487,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2004-12-09",
-      "linkedin": "https://www.linkedin.com/in/tahsin/"
+      "linkedin": "https://www.linkedin.com/in/tahsin/",
+      "normalRowNumber": 33,
+      "activeRowNumber": 14
     },
     {
       "name": "AKGUN OZSOY",
@@ -430,7 +498,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2005-01-18",
-      "linkedin": "https://www.linkedin.com/in/akgunozsoy/"
+      "linkedin": "https://www.linkedin.com/in/akgunozsoy/",
+      "normalRowNumber": 34
     },
     {
       "name": "ALPER SAVAS",
@@ -439,7 +508,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2005-04-05",
-      "linkedin": "https://www.linkedin.com/in/alper-savas-0278753/"
+      "linkedin": "https://www.linkedin.com/in/alper-savas-0278753/",
+      "normalRowNumber": 35
     },
     {
       "name": "ALI ONDER ERGUN",
@@ -448,7 +518,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2005-06-08",
-      "linkedin": "https://www.linkedin.com/in/onder-ergun-78312032/"
+      "linkedin": "https://www.linkedin.com/in/onder-ergun-78312032/",
+      "normalRowNumber": 36
     },
     {
       "name": "ALI ONDER ERGUN",
@@ -457,7 +528,8 @@
       "track": "Service Provider",
       "status": "Inactive",
       "date": "2006-10-05",
-      "linkedin": "https://www.linkedin.com/in/onder-ergun-78312032/"
+      "linkedin": "https://www.linkedin.com/in/onder-ergun-78312032/",
+      "normalRowNumber": 36
     },
     {
       "name": "BULENT KONUK",
@@ -466,7 +538,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2006-07-20",
-      "linkedin": "https://www.linkedin.com/in/bulent-konuk-842b299/"
+      "linkedin": "https://www.linkedin.com/in/bulent-konuk-842b299/",
+      "normalRowNumber": 37
     },
     {
       "name": "AHMET BURAK GOCMEN",
@@ -475,7 +548,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2006-08-28",
-      "linkedin": "https://www.linkedin.com/in/burak/"
+      "linkedin": "https://www.linkedin.com/in/burak/",
+      "normalRowNumber": 38
     },
     {
       "name": "UGUR OKTAY",
@@ -484,7 +558,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2006-09-04",
-      "linkedin": "https://www.linkedin.com/in/ugur-oktay-4866b31/"
+      "linkedin": "https://www.linkedin.com/in/ugur-oktay-4866b31/",
+      "normalRowNumber": 39,
+      "activeRowNumber": 15
     },
     {
       "name": "KEMAL HAYDAR YILDIRIM",
@@ -493,7 +569,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2007-02-23",
-      "linkedin": "https://www.linkedin.com/in/kemal-haydar-yildirim-58560737/"
+      "linkedin": "https://www.linkedin.com/in/kemal-haydar-yildirim-58560737/",
+      "normalRowNumber": 40
     },
     {
       "name": "METIN YILDIZLI",
@@ -502,7 +579,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2007-03-12",
-      "linkedin": "https://www.linkedin.com/in/metinyildizli/"
+      "linkedin": "https://www.linkedin.com/in/metinyildizli/",
+      "normalRowNumber": 41
     },
     {
       "name": "YIGIT ZORLU",
@@ -511,7 +589,8 @@
       "track": "Collaboration",
       "status": "Inactive",
       "date": "2007-04-06",
-      "linkedin": "https://www.linkedin.com/in/yigit-zorlu/"
+      "linkedin": "https://www.linkedin.com/in/yigit-zorlu/",
+      "normalRowNumber": 42
     },
     {
       "name": "AYTAC KARAMESEOGLU",
@@ -520,7 +599,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2007-06-04",
-      "linkedin": "https://www.linkedin.com/in/akarameseoglu/"
+      "linkedin": "https://www.linkedin.com/in/akarameseoglu/",
+      "normalRowNumber": 43,
+      "activeRowNumber": 16
     },
     {
       "name": "SERDAR KUT",
@@ -529,7 +610,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2007-06-06",
-      "linkedin": "https://www.linkedin.com/in/serdar-k-b8283039/"
+      "linkedin": "https://www.linkedin.com/in/serdar-k-b8283039/",
+      "normalRowNumber": 44,
+      "activeRowNumber": 17
     },
     {
       "name": "SERDAR KUT",
@@ -538,7 +621,9 @@
       "track": "Service Provider",
       "status": "Re-certified",
       "date": "2008-04-29",
-      "linkedin": "https://www.linkedin.com/in/serdar-k-b8283039/"
+      "linkedin": "https://www.linkedin.com/in/serdar-k-b8283039/",
+      "normalRowNumber": 44,
+      "activeRowNumber": 17
     },
     {
       "name": "TAHIR POLAT",
@@ -547,7 +632,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2007-06-12",
-      "linkedin": "https://www.linkedin.com/in/tahirpolat/"
+      "linkedin": "https://www.linkedin.com/in/tahirpolat/",
+      "normalRowNumber": 45,
+      "activeRowNumber": 18
     },
     {
       "name": "TAHIR POLAT",
@@ -556,7 +643,9 @@
       "track": "Service Provider",
       "status": "Re-certified",
       "date": "2008-06-03",
-      "linkedin": "https://www.linkedin.com/in/tahirpolat/"
+      "linkedin": "https://www.linkedin.com/in/tahirpolat/",
+      "normalRowNumber": 45,
+      "activeRowNumber": 18
     },
     {
       "name": "YAVUZ SABUNCUOGLU",
@@ -565,7 +654,8 @@
       "track": "Collaboration",
       "status": "Inactive",
       "date": "2007-08-08",
-      "linkedin": "https://www.linkedin.com/in/yavuz-sabuncuoglu-b758656/"
+      "linkedin": "https://www.linkedin.com/in/yavuz-sabuncuoglu-b758656/",
+      "normalRowNumber": 46
     },
     {
       "name": "HAKAN CICEKCI",
@@ -574,7 +664,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2007-08-16",
-      "linkedin": "https://www.linkedin.com/in/hakan-cicekci-6361235/"
+      "linkedin": "https://www.linkedin.com/in/hakan-cicekci-6361235/",
+      "normalRowNumber": 47
     },
     {
       "name": "ENGIN KARTAL",
@@ -583,7 +674,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2007-08-30",
-      "linkedin": "https://www.linkedin.com/in/engin-kartal-69b3b89/"
+      "linkedin": "https://www.linkedin.com/in/engin-kartal-69b3b89/",
+      "normalRowNumber": 48,
+      "activeRowNumber": 19
     },
     {
       "name": "METIN OZBEK",
@@ -592,7 +685,8 @@
       "track": "Security",
       "status": "Inactive",
       "date": "2007-10-05",
-      "linkedin": "https://www.linkedin.com/in/metin-ozbek-8a52b847/"
+      "linkedin": "https://www.linkedin.com/in/metin-ozbek-8a52b847/",
+      "normalRowNumber": 49
     },
     {
       "name": "OZAN AKDEMIR",
@@ -601,7 +695,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2007-11-08",
-      "linkedin": "https://www.linkedin.com/in/ozan-akdemir/"
+      "linkedin": "https://www.linkedin.com/in/ozan-akdemir/",
+      "normalRowNumber": 50,
+      "activeRowNumber": 20
     },
     {
       "name": "ARSLAN COSKUN",
@@ -610,7 +706,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2007-11-20",
-      "linkedin": "https://www.linkedin.com/in/arslan-coskun-1238402/"
+      "linkedin": "https://www.linkedin.com/in/arslan-coskun-1238402/",
+      "normalRowNumber": 51,
+      "activeRowNumber": 21
     },
     {
       "name": "MEMET ERCUMENT KOLAY",
@@ -619,7 +717,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2007-12-14",
-      "linkedin": "https://www.linkedin.com/in/ercument-kolay-5bab989/"
+      "linkedin": "https://www.linkedin.com/in/ercument-kolay-5bab989/",
+      "normalRowNumber": 52
     },
     {
       "name": "MEMET ERCUMENT KOLAY",
@@ -628,7 +727,8 @@
       "track": "Service Provider",
       "status": "Inactive",
       "date": "2008-06-20",
-      "linkedin": "https://www.linkedin.com/in/ercument-kolay-5bab989/"
+      "linkedin": "https://www.linkedin.com/in/ercument-kolay-5bab989/",
+      "normalRowNumber": 52
     },
     {
       "name": "MEMET ERCUMENT KOLAY",
@@ -637,7 +737,8 @@
       "track": "Security",
       "status": "Inactive",
       "date": "2008-07-08",
-      "linkedin": "https://www.linkedin.com/in/ercument-kolay-5bab989/"
+      "linkedin": "https://www.linkedin.com/in/ercument-kolay-5bab989/",
+      "normalRowNumber": 52
     },
     {
       "name": "OGUZ ANADOLU",
@@ -646,7 +747,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2007-12-19",
-      "linkedin": "https://www.linkedin.com/in/oguz-anadolu-631a2629/"
+      "linkedin": "https://www.linkedin.com/in/oguz-anadolu-631a2629/",
+      "normalRowNumber": 53,
+      "activeRowNumber": 22
     },
     {
       "name": "OGUZ ANADOLU",
@@ -655,7 +758,9 @@
       "track": "Security",
       "status": "Re-certified",
       "date": "2008-06-30",
-      "linkedin": "https://www.linkedin.com/in/oguz-anadolu-631a2629/"
+      "linkedin": "https://www.linkedin.com/in/oguz-anadolu-631a2629/",
+      "normalRowNumber": 53,
+      "activeRowNumber": 22
     },
     {
       "name": "KENAN KESER",
@@ -664,7 +769,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2008-02-19",
-      "linkedin": "https://www.linkedin.com/in/kenan-keser-4296747/"
+      "linkedin": "https://www.linkedin.com/in/kenan-keser-4296747/",
+      "normalRowNumber": 54
     },
     {
       "name": "KENAN KESER",
@@ -673,7 +779,8 @@
       "track": "Service Provider",
       "status": "Inactive",
       "date": "2009-06-10",
-      "linkedin": "https://www.linkedin.com/in/kenan-keser-4296747/"
+      "linkedin": "https://www.linkedin.com/in/kenan-keser-4296747/",
+      "normalRowNumber": 54
     },
     {
       "name": "UTKU ER",
@@ -682,7 +789,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2008-03-09",
-      "linkedin": "https://www.linkedin.com/in/utkuer/"
+      "linkedin": "https://www.linkedin.com/in/utkuer/",
+      "normalRowNumber": 55,
+      "activeRowNumber": 23
     },
     {
       "name": "SERKAN OZDEN",
@@ -691,7 +800,8 @@
       "track": "Security",
       "status": "Inactive",
       "date": "2008-03-13",
-      "linkedin": "https://www.linkedin.com/in/serkanozden/"
+      "linkedin": "https://www.linkedin.com/in/serkanozden/",
+      "normalRowNumber": 56
     },
     {
       "name": "SINAN ILKIZ",
@@ -700,7 +810,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2008-04-16",
-      "linkedin": "https://www.linkedin.com/in/sinanilkiz/"
+      "linkedin": "https://www.linkedin.com/in/sinanilkiz/",
+      "normalRowNumber": 57
     },
     {
       "name": "MURAT HATIPOGLU",
@@ -709,7 +820,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2008-04-22",
-      "linkedin": "https://www.linkedin.com/in/murathatipoglu/"
+      "linkedin": "https://www.linkedin.com/in/murathatipoglu/",
+      "normalRowNumber": 58
     },
     {
       "name": "SAYAN PEKER",
@@ -718,7 +830,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2008-05-13",
-      "linkedin": "https://www.linkedin.com/in/peker/"
+      "linkedin": "https://www.linkedin.com/in/peker/",
+      "normalRowNumber": 59,
+      "activeRowNumber": 24
     },
     {
       "name": "TUNA TAKTAK",
@@ -727,7 +841,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2008-05-30",
-      "linkedin": "https://www.linkedin.com/in/tuna-taktak-869a64/"
+      "linkedin": "https://www.linkedin.com/in/tuna-taktak-869a64/",
+      "normalRowNumber": 60
     },
     {
       "name": "TURAN ERCAN",
@@ -736,7 +851,8 @@
       "track": "Security",
       "status": "Inactive",
       "date": "2008-06-06",
-      "linkedin": "https://www.linkedin.com/in/turan-ercan-8b470b2b/"
+      "linkedin": "https://www.linkedin.com/in/turan-ercan-8b470b2b/",
+      "normalRowNumber": 61
     },
     {
       "name": "FUAT KILIC",
@@ -745,7 +861,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2008-06-12",
-      "linkedin": "https://www.linkedin.com/in/fkilic/"
+      "linkedin": "https://www.linkedin.com/in/fkilic/",
+      "normalRowNumber": 62
     },
     {
       "name": "SERDAR ERSOY",
@@ -754,7 +871,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2008-06-17",
-      "linkedin": "https://www.linkedin.com/in/serdar-ersoy-ccie-21206-93b13a5/"
+      "linkedin": "https://www.linkedin.com/in/serdar-ersoy-ccie-21206-93b13a5/",
+      "normalRowNumber": 63
     },
     {
       "name": "TURHAN OZYER",
@@ -763,7 +881,9 @@
       "track": "Security",
       "status": "Emeritus",
       "date": "2008-06-27",
-      "linkedin": "https://www.linkedin.com/in/turhanozyer/"
+      "linkedin": "https://www.linkedin.com/in/turhanozyer/",
+      "normalRowNumber": 64,
+      "activeRowNumber": 25
     },
     {
       "name": "OZGUR CAY",
@@ -772,7 +892,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2008-07-09",
-      "linkedin": "https://www.linkedin.com/in/ozgur-cay-86b61191/"
+      "linkedin": "https://www.linkedin.com/in/ozgur-cay-86b61191/",
+      "normalRowNumber": 65
     },
     {
       "name": "OZGUR CAY",
@@ -781,7 +902,8 @@
       "track": "Security",
       "status": "Inactive",
       "date": "2010-04-20",
-      "linkedin": "https://www.linkedin.com/in/ozgur-cay-86b61191/"
+      "linkedin": "https://www.linkedin.com/in/ozgur-cay-86b61191/",
+      "normalRowNumber": 65
     },
     {
       "name": "ENGIN ZEREN",
@@ -790,7 +912,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2008-09-03",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 66,
+      "activeRowNumber": 26
     },
     {
       "name": "ATINC BAYTAN",
@@ -799,7 +923,9 @@
       "track": "Collaboration",
       "status": "Emeritus",
       "date": "2008-09-09",
-      "linkedin": "https://www.linkedin.com/in/atincbaytan/"
+      "linkedin": "https://www.linkedin.com/in/atincbaytan/",
+      "normalRowNumber": 67,
+      "activeRowNumber": 27
     },
     {
       "name": "TANER GENCER",
@@ -808,7 +934,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2008-09-11",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 68
     },
     {
       "name": "ILYAS CELIK",
@@ -817,7 +944,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2008-09-29",
-      "linkedin": "https://www.linkedin.com/in/ilyas-celik-203a1721/"
+      "linkedin": "https://www.linkedin.com/in/ilyas-celik-203a1721/",
+      "normalRowNumber": 69
     },
     {
       "name": "OZAN OGUZ",
@@ -826,7 +954,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2008-11-04",
-      "linkedin": "https://www.linkedin.com/in/ozanoguz82/"
+      "linkedin": "https://www.linkedin.com/in/ozanoguz82/",
+      "normalRowNumber": 70,
+      "activeRowNumber": 28
     },
     {
       "name": "MUSTAFA KEREM GURSU",
@@ -835,7 +965,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2008-11-04",
-      "linkedin": "https://www.linkedin.com/in/kerem-gursu-13ab912/"
+      "linkedin": "https://www.linkedin.com/in/kerem-gursu-13ab912/",
+      "normalRowNumber": 71,
+      "activeRowNumber": 29
     },
     {
       "name": "AHMET KALAYCI",
@@ -844,7 +976,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2008-11-04",
-      "linkedin": "https://www.linkedin.com/in/ahmet-kalayci-23394a5/"
+      "linkedin": "https://www.linkedin.com/in/ahmet-kalayci-23394a5/",
+      "normalRowNumber": 72,
+      "activeRowNumber": 30
     },
     {
       "name": "EDIZ BURAK KIRIM",
@@ -853,7 +987,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2008-11-04",
-      "linkedin": "https://www.linkedin.com/in/ediz-burak-k%C4%B1r%C4%B1m-a4880568/"
+      "linkedin": "https://www.linkedin.com/in/ediz-burak-k%C4%B1r%C4%B1m-a4880568/",
+      "normalRowNumber": 73,
+      "activeRowNumber": 31
     },
     {
       "name": "GOKHAN SENOL",
@@ -862,7 +998,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2008-11-05",
-      "linkedin": "https://www.linkedin.com/in/gokhan-senol-b9a53547/"
+      "linkedin": "https://www.linkedin.com/in/gokhan-senol-b9a53547/",
+      "normalRowNumber": 74,
+      "activeRowNumber": 32
     },
     {
       "name": "ERDEM ARSLAN",
@@ -871,7 +1009,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2008-11-06",
-      "linkedin": "https://www.linkedin.com/in/erdemarslan/"
+      "linkedin": "https://www.linkedin.com/in/erdemarslan/",
+      "normalRowNumber": 75,
+      "activeRowNumber": 33
     },
     {
       "name": "TAYFUN EDIZ",
@@ -880,7 +1020,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2009-02-23",
-      "linkedin": "https://www.linkedin.com/in/tayfun-ediz-abb3a029/"
+      "linkedin": "https://www.linkedin.com/in/tayfun-ediz-abb3a029/",
+      "normalRowNumber": 76,
+      "activeRowNumber": 34
     },
     {
       "name": "TAYFUN EDIZ",
@@ -889,7 +1031,9 @@
       "track": "Service Provider",
       "status": "Emeritus",
       "date": "2014-05-13",
-      "linkedin": "https://www.linkedin.com/in/tayfun-ediz-abb3a029/"
+      "linkedin": "https://www.linkedin.com/in/tayfun-ediz-abb3a029/",
+      "normalRowNumber": 76,
+      "activeRowNumber": 34
     },
     {
       "name": "TAYFUN EDIZ",
@@ -898,7 +1042,9 @@
       "track": "Security",
       "status": "Emeritus",
       "date": "2015-11-29",
-      "linkedin": "https://www.linkedin.com/in/tayfun-ediz-abb3a029/"
+      "linkedin": "https://www.linkedin.com/in/tayfun-ediz-abb3a029/",
+      "normalRowNumber": 76,
+      "activeRowNumber": 34
     },
     {
       "name": "MESUT CAN",
@@ -907,7 +1053,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2009-03-09",
-      "linkedin": "https://www.linkedin.com/in/mesutcap/"
+      "linkedin": "https://www.linkedin.com/in/mesutcap/",
+      "normalRowNumber": 77,
+      "activeRowNumber": 35
     },
     {
       "name": "ALI FERSAK",
@@ -916,7 +1064,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2009-03-25",
-      "linkedin": "https://www.linkedin.com/in/ali-f-55a69115/"
+      "linkedin": "https://www.linkedin.com/in/ali-f-55a69115/",
+      "normalRowNumber": 78
     },
     {
       "name": "ALI FERSAK",
@@ -925,7 +1074,8 @@
       "track": "Service Provider",
       "status": "Inactive",
       "date": "2009-07-13",
-      "linkedin": "https://www.linkedin.com/in/ali-f-55a69115/"
+      "linkedin": "https://www.linkedin.com/in/ali-f-55a69115/",
+      "normalRowNumber": 78
     },
     {
       "name": "ENIZ AKSOY",
@@ -934,7 +1084,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2009-03-30",
-      "linkedin": "https://www.linkedin.com/in/enizaksoy/"
+      "linkedin": "https://www.linkedin.com/in/enizaksoy/",
+      "normalRowNumber": 79,
+      "activeRowNumber": 36
     },
     {
       "name": "HAKAN TAS",
@@ -943,7 +1095,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2009-04-09",
-      "linkedin": "https://www.linkedin.com/in/hakan-tas83/"
+      "linkedin": "https://www.linkedin.com/in/hakan-tas83/",
+      "normalRowNumber": 80,
+      "activeRowNumber": 37
     },
     {
       "name": "TOLGA SEZGIN",
@@ -952,7 +1106,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2009-04-20",
-      "linkedin": "https://www.linkedin.com/in/tolga-sezgin-3608a6b/"
+      "linkedin": "https://www.linkedin.com/in/tolga-sezgin-3608a6b/",
+      "normalRowNumber": 81,
+      "activeRowNumber": 38
     },
     {
       "name": "MUHAMMED AKYUZ",
@@ -961,7 +1117,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2009-05-03",
-      "linkedin": "https://www.linkedin.com/in/muhammedakyuz/"
+      "linkedin": "https://www.linkedin.com/in/muhammedakyuz/",
+      "normalRowNumber": 82,
+      "activeRowNumber": 39
     },
     {
       "name": "ANIL ALIBEYOGLU",
@@ -970,7 +1128,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2009-07-26",
-      "linkedin": "https://www.linkedin.com/in/anilalibeyoglu/"
+      "linkedin": "https://www.linkedin.com/in/anilalibeyoglu/",
+      "normalRowNumber": 83,
+      "activeRowNumber": 40
     },
     {
       "name": "EMRE SONMEZ",
@@ -979,7 +1139,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2009-07-26",
-      "linkedin": "https://www.linkedin.com/in/emre-s%C3%B6nmez-b4515017/"
+      "linkedin": "https://www.linkedin.com/in/emre-s%C3%B6nmez-b4515017/",
+      "normalRowNumber": 84,
+      "activeRowNumber": 41
     },
     {
       "name": "UFUK CAKIR",
@@ -988,7 +1150,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2009-08-06",
-      "linkedin": "https://www.linkedin.com/in/ufuk-cakir-11912b42/"
+      "linkedin": "https://www.linkedin.com/in/ufuk-cakir-11912b42/",
+      "normalRowNumber": 85,
+      "activeRowNumber": 42
     },
     {
       "name": "ERTUGRUL KURKLU",
@@ -997,7 +1161,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2009-08-11",
-      "linkedin": "https://www.linkedin.com/in/ertugrulkurklu/"
+      "linkedin": "https://www.linkedin.com/in/ertugrulkurklu/",
+      "normalRowNumber": 86,
+      "activeRowNumber": 43
     },
     {
       "name": "MERT DEMIRER",
@@ -1006,7 +1172,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2009-08-13",
-      "linkedin": "https://www.linkedin.com/in/mert-demirer-16061127/"
+      "linkedin": "https://www.linkedin.com/in/mert-demirer-16061127/",
+      "normalRowNumber": 87,
+      "activeRowNumber": 44
     },
     {
       "name": "ISKENDER UZ",
@@ -1015,7 +1183,9 @@
       "track": "Service Provider",
       "status": "Emeritus",
       "date": "2009-08-31",
-      "linkedin": "https://www.linkedin.com/in/iskenderuz/"
+      "linkedin": "https://www.linkedin.com/in/iskenderuz/",
+      "normalRowNumber": 88,
+      "activeRowNumber": 45
     },
     {
       "name": "SEMIH USTUN",
@@ -1024,7 +1194,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2009-09-23",
-      "linkedin": "https://www.linkedin.com/in/semihustun/"
+      "linkedin": "https://www.linkedin.com/in/semihustun/",
+      "normalRowNumber": 89,
+      "activeRowNumber": 46
     },
     {
       "name": "UMIT BURAK SAHIN",
@@ -1033,7 +1205,9 @@
       "track": "Security",
       "status": "Re-certified",
       "date": "2009-12-01",
-      "linkedin": "https://www.linkedin.com/in/buraksahin/"
+      "linkedin": "https://www.linkedin.com/in/buraksahin/",
+      "normalRowNumber": 90,
+      "activeRowNumber": 47
     },
     {
       "name": "MEHMET YILMAZ",
@@ -1042,7 +1216,9 @@
       "track": "Service Provider",
       "status": "Re-certified",
       "date": "2009-12-08",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 91,
+      "activeRowNumber": 48
     },
     {
       "name": "AHMET CAN KETEN",
@@ -1051,7 +1227,9 @@
       "track": "Collaboration",
       "status": "Emeritus",
       "date": "2010-01-11",
-      "linkedin": "https://www.linkedin.com/in/ahmet-can-keten-2671141b/"
+      "linkedin": "https://www.linkedin.com/in/ahmet-can-keten-2671141b/",
+      "normalRowNumber": 92,
+      "activeRowNumber": 49
     },
     {
       "name": "AHMET CAN KETEN",
@@ -1060,7 +1238,9 @@
       "track": "Data Center",
       "status": "Emeritus",
       "date": "2016-06-03",
-      "linkedin": "https://www.linkedin.com/in/ahmet-can-keten-2671141b/"
+      "linkedin": "https://www.linkedin.com/in/ahmet-can-keten-2671141b/",
+      "normalRowNumber": 92,
+      "activeRowNumber": 49
     },
     {
       "name": "TAYLAN KUCUK",
@@ -1069,7 +1249,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2010-01-19",
-      "linkedin": "https://www.linkedin.com/in/takucuk/"
+      "linkedin": "https://www.linkedin.com/in/takucuk/",
+      "normalRowNumber": 93,
+      "activeRowNumber": 50
     },
     {
       "name": "AYBALA CIHAN SULTAN TUT",
@@ -1078,7 +1260,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2010-06-15",
-      "linkedin": "https://www.linkedin.com/in/aybalatut/"
+      "linkedin": "https://www.linkedin.com/in/aybalatut/",
+      "normalRowNumber": 94,
+      "activeRowNumber": 51
     },
     {
       "name": "OZCAN YILDIZ",
@@ -1087,7 +1271,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2010-06-17",
-      "linkedin": "https://www.linkedin.com/in/ozcanyildiz/"
+      "linkedin": "https://www.linkedin.com/in/ozcanyildiz/",
+      "normalRowNumber": 95
     },
     {
       "name": "BURAK BICAKHAN",
@@ -1096,7 +1281,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2010-06-30",
-      "linkedin": "https://www.linkedin.com/in/bicakhan/"
+      "linkedin": "https://www.linkedin.com/in/bicakhan/",
+      "normalRowNumber": 96
     },
     {
       "name": "ORHAN ERGUN",
@@ -1105,7 +1291,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2010-07-27",
-      "linkedin": "https://www.linkedin.com/in/orhanergun/"
+      "linkedin": "https://www.linkedin.com/in/orhanergun/",
+      "normalRowNumber": 97,
+      "activeRowNumber": 52
     },
     {
       "name": "ORHAN ERGUN",
@@ -1114,7 +1302,9 @@
       "track": "CCDE Practical",
       "status": "Re-certified",
       "date": "2014-02-20",
-      "linkedin": "https://www.linkedin.com/in/orhanergun/"
+      "linkedin": "https://www.linkedin.com/in/orhanergun/",
+      "normalRowNumber": 98,
+      "activeRowNumber": 53
     },
     {
       "name": "OZGUR GULER",
@@ -1123,7 +1313,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2010-08-31",
-      "linkedin": "https://www.linkedin.com/in/gulerozgur/"
+      "linkedin": "https://www.linkedin.com/in/gulerozgur/",
+      "normalRowNumber": 99
     },
     {
       "name": "AHMET KAAN USTUN",
@@ -1132,7 +1323,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2010-08-31",
-      "linkedin": "https://www.linkedin.com/in/kaan-ustun/"
+      "linkedin": "https://www.linkedin.com/in/kaan-ustun/",
+      "normalRowNumber": 100,
+      "activeRowNumber": 54
     },
     {
       "name": "MURAT HALIDI",
@@ -1141,7 +1334,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2010-10-21",
-      "linkedin": "https://www.linkedin.com/in/murat-halidi/"
+      "linkedin": "https://www.linkedin.com/in/murat-halidi/",
+      "normalRowNumber": 101,
+      "activeRowNumber": 55
     },
     {
       "name": "SUNAY MUSAOGLU",
@@ -1150,7 +1345,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2010-10-21",
-      "linkedin": "https://www.linkedin.com/in/sunay-musao%C4%9Flu-656bb77/"
+      "linkedin": "https://www.linkedin.com/in/sunay-musao%C4%9Flu-656bb77/",
+      "normalRowNumber": 102,
+      "activeRowNumber": 56
     },
     {
       "name": "ALI TADIR",
@@ -1159,7 +1356,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2010-10-22",
-      "linkedin": "https://www.linkedin.com/in/alitadir/"
+      "linkedin": "https://www.linkedin.com/in/alitadir/",
+      "normalRowNumber": 103,
+      "activeRowNumber": 57
     },
     {
       "name": "BARIS GENC",
@@ -1168,7 +1367,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2011-01-13",
-      "linkedin": "https://www.linkedin.com/in/baris-genc-8965b831/"
+      "linkedin": "https://www.linkedin.com/in/baris-genc-8965b831/",
+      "normalRowNumber": 104
     },
     {
       "name": "GUVEN GUCUYENER",
@@ -1177,7 +1377,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2011-01-14",
-      "linkedin": "https://www.linkedin.com/in/guven-gucuyener-6b1b9732/"
+      "linkedin": "https://www.linkedin.com/in/guven-gucuyener-6b1b9732/",
+      "normalRowNumber": 105,
+      "activeRowNumber": 58
     },
     {
       "name": "GUVEN GUCUYENER",
@@ -1186,7 +1388,9 @@
       "track": "Service Provider",
       "status": "Re-certified",
       "date": "2014-06-22",
-      "linkedin": "https://www.linkedin.com/in/guven-gucuyener-6b1b9732/"
+      "linkedin": "https://www.linkedin.com/in/guven-gucuyener-6b1b9732/",
+      "normalRowNumber": 105,
+      "activeRowNumber": 58
     },
     {
       "name": "MURTEZA YILMAZ",
@@ -1195,7 +1399,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2011-01-28",
-      "linkedin": "https://www.linkedin.com/in/murteza-yilmaz-5821553a/"
+      "linkedin": "https://www.linkedin.com/in/murteza-yilmaz-5821553a/",
+      "normalRowNumber": 106
     },
     {
       "name": "OMER KETENE",
@@ -1204,7 +1409,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2011-02-17",
-      "linkedin": "https://www.linkedin.com/in/omerketene/"
+      "linkedin": "https://www.linkedin.com/in/omerketene/",
+      "normalRowNumber": 107,
+      "activeRowNumber": 59
     },
     {
       "name": "MEHMET OZDEM",
@@ -1213,7 +1420,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2011-04-17",
-      "linkedin": "https://www.linkedin.com/in/dr-mehmet-%C3%B6zdem-0739056/"
+      "linkedin": "https://www.linkedin.com/in/dr-mehmet-%C3%B6zdem-0739056/",
+      "normalRowNumber": 108
     },
     {
       "name": "AHMET YALCIN",
@@ -1222,7 +1430,9 @@
       "track": "Security",
       "status": "Emeritus",
       "date": "2011-04-21",
-      "linkedin": "https://www.linkedin.com/in/ahmetgokhanyalcin/"
+      "linkedin": "https://www.linkedin.com/in/ahmetgokhanyalcin/",
+      "normalRowNumber": 109,
+      "activeRowNumber": 60
     },
     {
       "name": "MEHMET AKYOL",
@@ -1231,7 +1441,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2011-04-21",
-      "linkedin": "https://www.linkedin.com/in/mehmetferitakyol/"
+      "linkedin": "https://www.linkedin.com/in/mehmetferitakyol/",
+      "normalRowNumber": 110
     },
     {
       "name": "SEMIH DURU",
@@ -1240,7 +1451,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2011-04-21",
-      "linkedin": "https://www.linkedin.com/in/semihduru/"
+      "linkedin": "https://www.linkedin.com/in/semihduru/",
+      "normalRowNumber": 111
     },
     {
       "name": "ISMAIL KURNAZ",
@@ -1249,7 +1461,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2011-04-22",
-      "linkedin": "https://www.linkedin.com/in/ismail-kurnaz-136b2833/"
+      "linkedin": "https://www.linkedin.com/in/ismail-kurnaz-136b2833/",
+      "normalRowNumber": 112,
+      "activeRowNumber": 61
     },
     {
       "name": "SINAN YILMAZ",
@@ -1258,7 +1472,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2011-04-22",
-      "linkedin": "https://www.linkedin.com/in/sinan-yilmaz-1723a516/"
+      "linkedin": "https://www.linkedin.com/in/sinan-yilmaz-1723a516/",
+      "normalRowNumber": 113,
+      "activeRowNumber": 62
     },
     {
       "name": "AYHAN CELIK",
@@ -1267,7 +1483,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2011-05-19",
-      "linkedin": "https://www.linkedin.com/in/ayhanc/"
+      "linkedin": "https://www.linkedin.com/in/ayhanc/",
+      "normalRowNumber": 114,
+      "activeRowNumber": 63
     },
     {
       "name": "MUHAMMET SAHIN",
@@ -1276,7 +1494,9 @@
       "track": "Security",
       "status": "Emeritus",
       "date": "2011-06-20",
-      "linkedin": "https://www.linkedin.com/in/muhammetsahin/"
+      "linkedin": "https://www.linkedin.com/in/muhammetsahin/",
+      "normalRowNumber": 115,
+      "activeRowNumber": 64
     },
     {
       "name": "RIZA YILMAZ",
@@ -1285,7 +1505,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2011-06-20",
-      "linkedin": "https://www.linkedin.com/in/ryilmaz/"
+      "linkedin": "https://www.linkedin.com/in/ryilmaz/",
+      "normalRowNumber": 116
     },
     {
       "name": "KUBILAY AKGUL",
@@ -1294,7 +1515,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2011-07-01",
-      "linkedin": "https://www.linkedin.com/in/kubilayakgul/"
+      "linkedin": "https://www.linkedin.com/in/kubilayakgul/",
+      "normalRowNumber": 117
     },
     {
       "name": "MERAL YILMAZ",
@@ -1303,7 +1525,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2011-07-26",
-      "linkedin": "https://www.linkedin.com/in/meral-yilmaz-a3210739/"
+      "linkedin": "https://www.linkedin.com/in/meral-yilmaz-a3210739/",
+      "normalRowNumber": 118
     },
     {
       "name": "ANIL ERGUNSAH",
@@ -1312,7 +1535,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2011-07-28",
-      "linkedin": "https://www.linkedin.com/in/anilergunsah/"
+      "linkedin": "https://www.linkedin.com/in/anilergunsah/",
+      "normalRowNumber": 119,
+      "activeRowNumber": 65
     },
     {
       "name": "ERCAN EL",
@@ -1321,7 +1546,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2011-07-29",
-      "linkedin": "https://www.linkedin.com/in/ercan-el-3015786a/"
+      "linkedin": "https://www.linkedin.com/in/ercan-el-3015786a/",
+      "normalRowNumber": 120
     },
     {
       "name": "ALI CAVIT DAVUTOGLU",
@@ -1330,7 +1556,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2011-07-29",
-      "linkedin": "https://www.linkedin.com/in/ali-cavit-davutoglu-b014bb5/"
+      "linkedin": "https://www.linkedin.com/in/ali-cavit-davutoglu-b014bb5/",
+      "normalRowNumber": 121
     },
     {
       "name": "MEHMET BIRGUL",
@@ -1339,7 +1566,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2011-08-08",
-      "linkedin": "https://www.linkedin.com/in/mehmet-s%C4%B1d%C4%B1k-birg%C3%BCl-66bb8639/"
+      "linkedin": "https://www.linkedin.com/in/mehmet-s%C4%B1d%C4%B1k-birg%C3%BCl-66bb8639/",
+      "normalRowNumber": 122,
+      "activeRowNumber": 66
     },
     {
       "name": "ALI SAMIOGLU",
@@ -1348,7 +1577,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2011-08-09",
-      "linkedin": "https://www.linkedin.com/in/alisamioglu/"
+      "linkedin": "https://www.linkedin.com/in/alisamioglu/",
+      "normalRowNumber": 123,
+      "activeRowNumber": 67
     },
     {
       "name": "ALI SAMIOGLU",
@@ -1357,7 +1588,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2016-03-09",
-      "linkedin": "https://www.linkedin.com/in/alisamioglu/"
+      "linkedin": "https://www.linkedin.com/in/alisamioglu/",
+      "normalRowNumber": 123,
+      "activeRowNumber": 67
     },
     {
       "name": "MAHMUT EMRAH GULKAC",
@@ -1366,7 +1599,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2011-08-31",
-      "linkedin": "https://www.linkedin.com/in/m-emrah-g%C3%BClka%C3%A7-a0941440/"
+      "linkedin": "https://www.linkedin.com/in/m-emrah-g%C3%BClka%C3%A7-a0941440/",
+      "normalRowNumber": 124,
+      "activeRowNumber": 68
     },
     {
       "name": "OKAN ONRAT",
@@ -1375,7 +1610,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2011-10-19",
-      "linkedin": "https://www.linkedin.com/in/okan-onrat-98b94043/"
+      "linkedin": "https://www.linkedin.com/in/okan-onrat-98b94043/",
+      "normalRowNumber": 125,
+      "activeRowNumber": 69
     },
     {
       "name": "VURAL SANAL",
@@ -1384,7 +1621,8 @@
       "track": "Security",
       "status": "Inactive",
       "date": "2011-10-20",
-      "linkedin": "https://www.linkedin.com/in/vuralsanal/"
+      "linkedin": "https://www.linkedin.com/in/vuralsanal/",
+      "normalRowNumber": 126
     },
     {
       "name": "OMER SAYGILI",
@@ -1393,7 +1631,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2011-10-21",
-      "linkedin": "https://www.linkedin.com/in/omersaygili/"
+      "linkedin": "https://www.linkedin.com/in/omersaygili/",
+      "normalRowNumber": 127,
+      "activeRowNumber": 70
     },
     {
       "name": "OMER SAYGILI",
@@ -1402,7 +1642,9 @@
       "track": "Service Provider",
       "status": "Re-certified",
       "date": "2015-04-13",
-      "linkedin": "https://www.linkedin.com/in/omersaygili/"
+      "linkedin": "https://www.linkedin.com/in/omersaygili/",
+      "normalRowNumber": 127,
+      "activeRowNumber": 70
     },
     {
       "name": "CENGIZ TUNCEL",
@@ -1411,7 +1653,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2012-02-01",
-      "linkedin": "https://www.linkedin.com/in/cengiztuncel/"
+      "linkedin": "https://www.linkedin.com/in/cengiztuncel/",
+      "normalRowNumber": 128,
+      "activeRowNumber": 71
     },
     {
       "name": "CENGIZ TUNCEL",
@@ -1420,7 +1664,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2014-08-04",
-      "linkedin": "https://www.linkedin.com/in/cengiztuncel/"
+      "linkedin": "https://www.linkedin.com/in/cengiztuncel/",
+      "normalRowNumber": 128,
+      "activeRowNumber": 71
     },
     {
       "name": "CENGIZ TUNCEL",
@@ -1429,7 +1675,9 @@
       "track": "Security",
       "status": "Re-certified",
       "date": "2019-09-27",
-      "linkedin": "https://www.linkedin.com/in/cengiztuncel/"
+      "linkedin": "https://www.linkedin.com/in/cengiztuncel/",
+      "normalRowNumber": 128,
+      "activeRowNumber": 71
     },
     {
       "name": "MEHMET OZGUR BAYRAK",
@@ -1438,7 +1686,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2012-04-16",
-      "linkedin": "https://www.linkedin.com/in/mehmet-ozgur-bayrak-5b9b7b22/"
+      "linkedin": "https://www.linkedin.com/in/mehmet-ozgur-bayrak-5b9b7b22/",
+      "normalRowNumber": 129,
+      "activeRowNumber": 72
     },
     {
       "name": "GUNAL TURAL",
@@ -1447,7 +1697,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2012-04-16",
-      "linkedin": "https://www.linkedin.com/in/gunaltural/"
+      "linkedin": "https://www.linkedin.com/in/gunaltural/",
+      "normalRowNumber": 130,
+      "activeRowNumber": 73
     },
     {
       "name": "ILKIN TURKOGLU",
@@ -1456,7 +1708,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2012-04-16",
-      "linkedin": "https://www.linkedin.com/in/ilkin-turkoglu-39b6598/"
+      "linkedin": "https://www.linkedin.com/in/ilkin-turkoglu-39b6598/",
+      "normalRowNumber": 131
     },
     {
       "name": "ALI HAYDAR SUSLU",
@@ -1465,7 +1718,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2012-04-17",
-      "linkedin": "https://www.linkedin.com/in/ali-haydar-suslu-53650726/"
+      "linkedin": "https://www.linkedin.com/in/ali-haydar-suslu-53650726/",
+      "normalRowNumber": 132,
+      "activeRowNumber": 74
     },
     {
       "name": "MEHMET KARAGOL",
@@ -1474,7 +1729,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2012-06-07",
-      "linkedin": "https://www.linkedin.com/in/malikaragol/"
+      "linkedin": "https://www.linkedin.com/in/malikaragol/",
+      "normalRowNumber": 133
     },
     {
       "name": "ALP ISIK",
@@ -1483,7 +1739,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2012-06-12",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 134,
+      "activeRowNumber": 75
     },
     {
       "name": "ONSEL KULUK",
@@ -1492,7 +1750,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2012-06-19",
-      "linkedin": "https://www.linkedin.com/in/onselkuluk/"
+      "linkedin": "https://www.linkedin.com/in/onselkuluk/",
+      "normalRowNumber": 135
     },
     {
       "name": "MEHMET HALIL YENI",
@@ -1501,7 +1760,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2012-06-22",
-      "linkedin": "https://www.linkedin.com/in/mehmetyeni/"
+      "linkedin": "https://www.linkedin.com/in/mehmetyeni/",
+      "normalRowNumber": 136,
+      "activeRowNumber": 76
     },
     {
       "name": "EMRE YUKSEL",
@@ -1510,7 +1771,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2012-06-22",
-      "linkedin": "https://www.linkedin.com/in/emre-yuksel-4285473/"
+      "linkedin": "https://www.linkedin.com/in/emre-yuksel-4285473/",
+      "normalRowNumber": 137,
+      "activeRowNumber": 77
     },
     {
       "name": "ASKIN CAKIR",
@@ -1519,7 +1782,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2012-07-05",
-      "linkedin": "https://www.linkedin.com/in/askin-cakir-9398301/"
+      "linkedin": "https://www.linkedin.com/in/askin-cakir-9398301/",
+      "normalRowNumber": 138,
+      "activeRowNumber": 78
     },
     {
       "name": "ASKIN CAKIR",
@@ -1528,7 +1793,9 @@
       "track": "Data Center",
       "status": "Emeritus",
       "date": "2016-02-08",
-      "linkedin": "https://www.linkedin.com/in/askin-cakir-9398301/"
+      "linkedin": "https://www.linkedin.com/in/askin-cakir-9398301/",
+      "normalRowNumber": 138,
+      "activeRowNumber": 78
     },
     {
       "name": "ASKIN CAKIR",
@@ -1537,7 +1804,9 @@
       "track": "Security",
       "status": "Emeritus",
       "date": "2019-08-28",
-      "linkedin": "https://www.linkedin.com/in/askin-cakir-9398301/"
+      "linkedin": "https://www.linkedin.com/in/askin-cakir-9398301/",
+      "normalRowNumber": 138,
+      "activeRowNumber": 78
     },
     {
       "name": "AYDIN AKAY",
@@ -1546,7 +1815,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2012-07-24",
-      "linkedin": "https://www.linkedin.com/in/ayd%C4%B1n-akay-13a34739/"
+      "linkedin": "https://www.linkedin.com/in/ayd%C4%B1n-akay-13a34739/",
+      "normalRowNumber": 139,
+      "activeRowNumber": 79
     },
     {
       "name": "SERHAT SELMAN",
@@ -1555,7 +1826,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2012-07-24",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 140
     },
     {
       "name": "GOKAY KAYA",
@@ -1564,7 +1836,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2012-11-05",
-      "linkedin": "https://www.linkedin.com/in/gokaykaya/"
+      "linkedin": "https://www.linkedin.com/in/gokaykaya/",
+      "normalRowNumber": 141,
+      "activeRowNumber": 80
     },
     {
       "name": "BURCU SAGAN",
@@ -1573,7 +1847,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2012-11-08",
-      "linkedin": "https://www.linkedin.com/in/burcu-sagan-07098222/"
+      "linkedin": "https://www.linkedin.com/in/burcu-sagan-07098222/",
+      "normalRowNumber": 142,
+      "activeRowNumber": 81
     },
     {
       "name": "CAGATAY AVSAR",
@@ -1582,7 +1858,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2012-11-09",
-      "linkedin": "https://www.linkedin.com/in/cagatay-avsar-1070405/"
+      "linkedin": "https://www.linkedin.com/in/cagatay-avsar-1070405/",
+      "normalRowNumber": 143,
+      "activeRowNumber": 82
     },
     {
       "name": "SINMAZ KETENCI",
@@ -1591,7 +1869,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2012-11-09",
-      "linkedin": "https://www.linkedin.com/in/sinmazketenci/"
+      "linkedin": "https://www.linkedin.com/in/sinmazketenci/",
+      "normalRowNumber": 144,
+      "activeRowNumber": 83
     },
     {
       "name": "ONUR KARACA",
@@ -1600,7 +1880,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2012-11-09",
-      "linkedin": "https://www.linkedin.com/in/onur-karaca-35b16753/"
+      "linkedin": "https://www.linkedin.com/in/onur-karaca-35b16753/",
+      "normalRowNumber": 145,
+      "activeRowNumber": 84
     },
     {
       "name": "BARIS OZAY",
@@ -1609,7 +1891,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2012-11-25",
-      "linkedin": "https://www.linkedin.com/in/baris-ozay-87b5062a/"
+      "linkedin": "https://www.linkedin.com/in/baris-ozay-87b5062a/",
+      "normalRowNumber": 146,
+      "activeRowNumber": 85
     },
     {
       "name": "MERT OZKUL",
@@ -1618,7 +1902,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2013-01-07",
-      "linkedin": "https://www.linkedin.com/in/mertozkul/"
+      "linkedin": "https://www.linkedin.com/in/mertozkul/",
+      "normalRowNumber": 147,
+      "activeRowNumber": 86
     },
     {
       "name": "GUN GOKCEARSLAN",
@@ -1627,7 +1913,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-03-04",
-      "linkedin": "https://www.linkedin.com/in/gungokcearslan/"
+      "linkedin": "https://www.linkedin.com/in/gungokcearslan/",
+      "normalRowNumber": 148,
+      "activeRowNumber": 87
     },
     {
       "name": "GUN GOKCEARSLAN",
@@ -1636,7 +1924,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2016-03-08",
-      "linkedin": "https://www.linkedin.com/in/gungokcearslan/"
+      "linkedin": "https://www.linkedin.com/in/gungokcearslan/",
+      "normalRowNumber": 148,
+      "activeRowNumber": 87
     },
     {
       "name": "SUPHI YILDIZ",
@@ -1645,7 +1935,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-03-07",
-      "linkedin": "https://www.linkedin.com/in/suphi-yildiz-2a0ba625/"
+      "linkedin": "https://www.linkedin.com/in/suphi-yildiz-2a0ba625/",
+      "normalRowNumber": 149,
+      "activeRowNumber": 88
     },
     {
       "name": "ALI YILMAZ",
@@ -1654,7 +1946,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-03-15",
-      "linkedin": "https://www.linkedin.com/in/aliyilmaz-netit/"
+      "linkedin": "https://www.linkedin.com/in/aliyilmaz-netit/",
+      "normalRowNumber": 150,
+      "activeRowNumber": 89
     },
     {
       "name": "GOKHAN AKIN",
@@ -1663,7 +1957,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-03-20",
-      "linkedin": "https://www.linkedin.com/in/gakin/"
+      "linkedin": "https://www.linkedin.com/in/gakin/",
+      "normalRowNumber": 151,
+      "activeRowNumber": 90
     },
     {
       "name": "MAHIR SENTIN",
@@ -1672,7 +1968,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2013-04-16",
-      "linkedin": "https://www.linkedin.com/in/mahir-sentin-b8b4a640/"
+      "linkedin": "https://www.linkedin.com/in/mahir-sentin-b8b4a640/",
+      "normalRowNumber": 152
     },
     {
       "name": "OZAN BUK",
@@ -1681,7 +1978,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-04-22",
-      "linkedin": "https://www.linkedin.com/in/ozanbuk/"
+      "linkedin": "https://www.linkedin.com/in/ozanbuk/",
+      "normalRowNumber": 153,
+      "activeRowNumber": 91
     },
     {
       "name": "SINAN ASIG",
@@ -1690,7 +1989,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-05-10",
-      "linkedin": "https://www.linkedin.com/in/usasig/"
+      "linkedin": "https://www.linkedin.com/in/usasig/",
+      "normalRowNumber": 154,
+      "activeRowNumber": 92
     },
     {
       "name": "CAGDAS KURT",
@@ -1699,7 +2000,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-05-13",
-      "linkedin": "https://www.linkedin.com/in/cagdaskurt/"
+      "linkedin": "https://www.linkedin.com/in/cagdaskurt/",
+      "normalRowNumber": 155,
+      "activeRowNumber": 93
     },
     {
       "name": "FATIH YURTTAS",
@@ -1708,7 +2011,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2013-05-14",
-      "linkedin": "https://www.linkedin.com/in/fatih-yurtta%C5%9F-5850b16/"
+      "linkedin": "https://www.linkedin.com/in/fatih-yurtta%C5%9F-5850b16/",
+      "normalRowNumber": 156
     },
     {
       "name": "FERZAN UNLU",
@@ -1717,7 +2021,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-06-17",
-      "linkedin": "https://www.linkedin.com/in/ferzanunlu/"
+      "linkedin": "https://www.linkedin.com/in/ferzanunlu/",
+      "normalRowNumber": 157,
+      "activeRowNumber": 94
     },
     {
       "name": "ARDA EKINCI",
@@ -1726,7 +2032,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-06-19",
-      "linkedin": "https://www.linkedin.com/in/arda-ekinci-72100747/"
+      "linkedin": "https://www.linkedin.com/in/arda-ekinci-72100747/",
+      "normalRowNumber": 158,
+      "activeRowNumber": 95
     },
     {
       "name": "OKTAY KIRMIZI",
@@ -1735,7 +2043,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2013-06-19",
-      "linkedin": "https://www.linkedin.com/in/oktay-k%C4%B1rm%C4%B1z%C4%B1-88a05a67/"
+      "linkedin": "https://www.linkedin.com/in/oktay-k%C4%B1rm%C4%B1z%C4%B1-88a05a67/",
+      "normalRowNumber": 159,
+      "activeRowNumber": 96
     },
     {
       "name": "SALIH GENC",
@@ -1744,7 +2054,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-06-21",
-      "linkedin": "https://www.linkedin.com/in/salih-genc/"
+      "linkedin": "https://www.linkedin.com/in/salih-genc/",
+      "normalRowNumber": 160,
+      "activeRowNumber": 97
     },
     {
       "name": "ENDER PIYALE",
@@ -1753,7 +2065,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-07-23",
-      "linkedin": "https://www.linkedin.com/in/enderpiyale/"
+      "linkedin": "https://www.linkedin.com/in/enderpiyale/",
+      "normalRowNumber": 161,
+      "activeRowNumber": 98
     },
     {
       "name": "ENDER PIYALE",
@@ -1762,7 +2076,9 @@
       "track": "Service Provider",
       "status": "Re-certified",
       "date": "2014-12-04",
-      "linkedin": "https://www.linkedin.com/in/enderpiyale/"
+      "linkedin": "https://www.linkedin.com/in/enderpiyale/",
+      "normalRowNumber": 161,
+      "activeRowNumber": 98
     },
     {
       "name": "HUSEYIN ONAL",
@@ -1771,7 +2087,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-07-23",
-      "linkedin": "https://www.linkedin.com/in/huseyin-onal-2b35b05/"
+      "linkedin": "https://www.linkedin.com/in/huseyin-onal-2b35b05/",
+      "normalRowNumber": 162,
+      "activeRowNumber": 99
     },
     {
       "name": "AYTEKIN OKSUZ",
@@ -1780,7 +2098,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-08-26",
-      "linkedin": "https://www.linkedin.com/in/aytekinoksuz/"
+      "linkedin": "https://www.linkedin.com/in/aytekinoksuz/",
+      "normalRowNumber": 163,
+      "activeRowNumber": 100
     },
     {
       "name": "AYTEKIN OKSUZ",
@@ -1789,7 +2109,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2023-05-15",
-      "linkedin": "https://www.linkedin.com/in/aytekinoksuz/"
+      "linkedin": "https://www.linkedin.com/in/aytekinoksuz/",
+      "normalRowNumber": 163,
+      "activeRowNumber": 100
     },
     {
       "name": "FERDI BULBUL",
@@ -1798,7 +2120,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-09-09",
-      "linkedin": "https://www.linkedin.com/in/ferdibulbul/"
+      "linkedin": "https://www.linkedin.com/in/ferdibulbul/",
+      "normalRowNumber": 164,
+      "activeRowNumber": 101
     },
     {
       "name": "SEBAHATTIN CAGRI SENGUL",
@@ -1807,7 +2131,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-09-09",
-      "linkedin": "https://www.linkedin.com/in/cagri-sengul-a0023869/"
+      "linkedin": "https://www.linkedin.com/in/cagri-sengul-a0023869/",
+      "normalRowNumber": 165,
+      "activeRowNumber": 102
     },
     {
       "name": "SEBAHATTIN CAGRI SENGUL",
@@ -1816,7 +2142,9 @@
       "track": "Security",
       "status": "Re-certified",
       "date": "2017-11-20",
-      "linkedin": "https://www.linkedin.com/in/cagri-sengul-a0023869/"
+      "linkedin": "https://www.linkedin.com/in/cagri-sengul-a0023869/",
+      "normalRowNumber": 165,
+      "activeRowNumber": 102
     },
     {
       "name": "ARIFE KALELI",
@@ -1825,7 +2153,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-11-12",
-      "linkedin": "https://www.linkedin.com/in/arife-kaleli-49b94686/"
+      "linkedin": "https://www.linkedin.com/in/arife-kaleli-49b94686/",
+      "normalRowNumber": 166,
+      "activeRowNumber": 103
     },
     {
       "name": "MELIH TEKE",
@@ -1834,7 +2164,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-11-22",
-      "linkedin": "https://www.linkedin.com/in/melih-teke/"
+      "linkedin": "https://www.linkedin.com/in/melih-teke/",
+      "normalRowNumber": 167,
+      "activeRowNumber": 104
     },
     {
       "name": "SADETTIN SAHINER",
@@ -1843,7 +2175,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2013-12-10",
-      "linkedin": "https://www.linkedin.com/in/ssahiner/"
+      "linkedin": "https://www.linkedin.com/in/ssahiner/",
+      "normalRowNumber": 168,
+      "activeRowNumber": 105
     },
     {
       "name": "SAFTER ARSLAN",
@@ -1852,7 +2186,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2013-12-12",
-      "linkedin": "https://www.linkedin.com/in/safter-arslan-b0b19b3/"
+      "linkedin": "https://www.linkedin.com/in/safter-arslan-b0b19b3/",
+      "normalRowNumber": 169
     },
     {
       "name": "GUNER KUS",
@@ -1861,7 +2196,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2014-01-05",
-      "linkedin": "https://www.linkedin.com/in/guner-kus-6879849/"
+      "linkedin": "https://www.linkedin.com/in/guner-kus-6879849/",
+      "normalRowNumber": 170
     },
     {
       "name": "OMER KAVLAK",
@@ -1870,7 +2206,9 @@
       "track": "Voice",
       "status": "Re-certified",
       "date": "2014-01-06",
-      "linkedin": "https://www.linkedin.com/in/omer-sonmez-kavlak-95382431/"
+      "linkedin": "https://www.linkedin.com/in/omer-sonmez-kavlak-95382431/",
+      "normalRowNumber": 171,
+      "activeRowNumber": 106
     },
     {
       "name": "BULENT KIZILKAR",
@@ -1879,7 +2217,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2014-01-10",
-      "linkedin": "https://www.linkedin.com/in/bulent-kizilkar-5457379/"
+      "linkedin": "https://www.linkedin.com/in/bulent-kizilkar-5457379/",
+      "normalRowNumber": 172,
+      "activeRowNumber": 107
     },
     {
       "name": "ABDULLAH LIV",
@@ -1888,7 +2228,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Emeritus",
       "date": "2014-01-27",
-      "linkedin": "https://www.linkedin.com/in/abdullah-liv-3252175b/"
+      "linkedin": "https://www.linkedin.com/in/abdullah-liv-3252175b/",
+      "normalRowNumber": 173,
+      "activeRowNumber": 108
     },
     {
       "name": "HARUN KILINC",
@@ -1897,7 +2239,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2014-01-30",
-      "linkedin": "https://www.linkedin.com/in/harunkilinc/"
+      "linkedin": "https://www.linkedin.com/in/harunkilinc/",
+      "normalRowNumber": 174,
+      "activeRowNumber": 109
     },
     {
       "name": "EVREN OZDES",
@@ -1906,7 +2250,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2014-01-30",
-      "linkedin": "https://www.linkedin.com/in/evren-k%C3%BCr%C5%9Fat-%C3%B6zde%C5%9F-bb1b81ab/"
+      "linkedin": "https://www.linkedin.com/in/evren-k%C3%BCr%C5%9Fat-%C3%B6zde%C5%9F-bb1b81ab/",
+      "normalRowNumber": 175,
+      "activeRowNumber": 110
     },
     {
       "name": "OMER HARMANCI",
@@ -1915,7 +2261,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2014-03-11",
-      "linkedin": "https://www.linkedin.com/in/omer-faruk-harmanci-04213244/"
+      "linkedin": "https://www.linkedin.com/in/omer-faruk-harmanci-04213244/",
+      "normalRowNumber": 176
     },
     {
       "name": "ERKAN DAL",
@@ -1924,7 +2271,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2014-03-12",
-      "linkedin": "https://www.linkedin.com/in/erkan-dal-a06a6653/"
+      "linkedin": "https://www.linkedin.com/in/erkan-dal-a06a6653/",
+      "normalRowNumber": 177
     },
     {
       "name": "AHMET ERIS",
@@ -1933,7 +2281,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2014-03-24",
-      "linkedin": "https://www.linkedin.com/in/ahmet-eri%C5%9F-78b73435/"
+      "linkedin": "https://www.linkedin.com/in/ahmet-eri%C5%9F-78b73435/",
+      "normalRowNumber": 178,
+      "activeRowNumber": 111
     },
     {
       "name": "MERIC TILEYLIOGLU",
@@ -1942,7 +2292,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2014-04-11",
-      "linkedin": "https://www.linkedin.com/in/meri%C3%A7-tileylio%C4%9Flu-a592145a/"
+      "linkedin": "https://www.linkedin.com/in/meri%C3%A7-tileylio%C4%9Flu-a592145a/",
+      "normalRowNumber": 179,
+      "activeRowNumber": 112
     },
     {
       "name": "EBUBEKIR KOCA",
@@ -1951,7 +2303,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2014-05-29",
-      "linkedin": "https://www.linkedin.com/in/ebubekirkoca/"
+      "linkedin": "https://www.linkedin.com/in/ebubekirkoca/",
+      "normalRowNumber": 180,
+      "activeRowNumber": 113
     },
     {
       "name": "EBUBEKIR KOCA",
@@ -1960,7 +2314,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2018-01-25",
-      "linkedin": "https://www.linkedin.com/in/ebubekirkoca/"
+      "linkedin": "https://www.linkedin.com/in/ebubekirkoca/",
+      "normalRowNumber": 180,
+      "activeRowNumber": 113
     },
     {
       "name": "TURGUT ERDOGAN",
@@ -1969,7 +2325,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2014-06-01",
-      "linkedin": "https://www.linkedin.com/in/turgut-erdogan-39589570/"
+      "linkedin": "https://www.linkedin.com/in/turgut-erdogan-39589570/",
+      "normalRowNumber": 181
     },
     {
       "name": "KADIR POLAT",
@@ -1978,7 +2335,8 @@
       "track": "Service Provider",
       "status": "Inactive",
       "date": "2014-06-19",
-      "linkedin": "https://www.linkedin.com/in/kadir-polat-6a9649155/"
+      "linkedin": "https://www.linkedin.com/in/kadir-polat-6a9649155/",
+      "normalRowNumber": 182
     },
     {
       "name": "BURAK BOZEZEL",
@@ -1987,7 +2345,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2014-11-10",
-      "linkedin": "https://www.linkedin.com/in/burak-bozezel-937a2b57/"
+      "linkedin": "https://www.linkedin.com/in/burak-bozezel-937a2b57/",
+      "normalRowNumber": 183,
+      "activeRowNumber": 114
     },
     {
       "name": "MAHMUT AKALIN",
@@ -1996,7 +2356,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2015-01-15",
-      "linkedin": "https://www.linkedin.com/in/mahmut-akalin-26a0554a/"
+      "linkedin": "https://www.linkedin.com/in/mahmut-akalin-26a0554a/",
+      "normalRowNumber": 184,
+      "activeRowNumber": 115
     },
     {
       "name": "MURAT GENC",
@@ -2005,7 +2367,8 @@
       "track": "Service Provider",
       "status": "Inactive",
       "date": "2015-02-05",
-      "linkedin": "https://www.linkedin.com/in/muratgenc09/"
+      "linkedin": "https://www.linkedin.com/in/muratgenc09/",
+      "normalRowNumber": 185
     },
     {
       "name": "ALI SUAYB AYDEMIR",
@@ -2014,7 +2377,9 @@
       "track": "Service Provider",
       "status": "Re-certified",
       "date": "2015-03-02",
-      "linkedin": "https://www.linkedin.com/in/ali-aydemir-ipcompro/"
+      "linkedin": "https://www.linkedin.com/in/ali-aydemir-ipcompro/",
+      "normalRowNumber": 186,
+      "activeRowNumber": 116
     },
     {
       "name": "ALI SUAYB AYDEMIR",
@@ -2023,7 +2388,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-11-24",
-      "linkedin": "https://www.linkedin.com/in/ali-aydemir-ipcompro/"
+      "linkedin": "https://www.linkedin.com/in/ali-aydemir-ipcompro/",
+      "normalRowNumber": 186,
+      "activeRowNumber": 116
     },
     {
       "name": "MEHMET KAAN DOYRAN",
@@ -2032,7 +2399,9 @@
       "track": "Service Provider",
       "status": "Re-certified",
       "date": "2015-03-27",
-      "linkedin": "https://www.linkedin.com/in/mehmet-kaan-doyran-8ba16845/"
+      "linkedin": "https://www.linkedin.com/in/mehmet-kaan-doyran-8ba16845/",
+      "normalRowNumber": 187,
+      "activeRowNumber": 117
     },
     {
       "name": "MEHMET KAAN DOYRAN",
@@ -2041,7 +2410,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2020-03-06",
-      "linkedin": "https://www.linkedin.com/in/mehmet-kaan-doyran-8ba16845/"
+      "linkedin": "https://www.linkedin.com/in/mehmet-kaan-doyran-8ba16845/",
+      "normalRowNumber": 187,
+      "activeRowNumber": 117
     },
     {
       "name": "KURSAD EKER",
@@ -2050,7 +2421,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-03-27",
-      "linkedin": "https://www.linkedin.com/in/kursadeker/"
+      "linkedin": "https://www.linkedin.com/in/kursadeker/",
+      "normalRowNumber": 188,
+      "activeRowNumber": 118
     },
     {
       "name": "AHMET UNCU",
@@ -2059,7 +2432,9 @@
       "track": "Service Provider",
       "status": "Re-certified",
       "date": "2015-04-30",
-      "linkedin": "https://www.linkedin.com/in/ahmetuncu/"
+      "linkedin": "https://www.linkedin.com/in/ahmetuncu/",
+      "normalRowNumber": 189,
+      "activeRowNumber": 119
     },
     {
       "name": "SINAN OZTEKIN",
@@ -2068,7 +2443,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-05-26",
-      "linkedin": "https://www.linkedin.com/in/sinan-%C3%B6ztekin-85370a65/"
+      "linkedin": "https://www.linkedin.com/in/sinan-%C3%B6ztekin-85370a65/",
+      "normalRowNumber": 190,
+      "activeRowNumber": 120
     },
     {
       "name": "PIRI KAYMAKCIOGLU",
@@ -2077,7 +2454,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-05-26",
-      "linkedin": "https://www.linkedin.com/in/pirikaymakcioglu/"
+      "linkedin": "https://www.linkedin.com/in/pirikaymakcioglu/",
+      "normalRowNumber": 191,
+      "activeRowNumber": 121
     },
     {
       "name": "SERHAN GULER",
@@ -2086,7 +2465,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2015-05-26",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 192
     },
     {
       "name": "ESER SEKIZINCI",
@@ -2095,7 +2475,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-05-29",
-      "linkedin": "https://www.linkedin.com/in/eser8th/"
+      "linkedin": "https://www.linkedin.com/in/eser8th/",
+      "normalRowNumber": 193,
+      "activeRowNumber": 122
     },
     {
       "name": "BURAK GUCLU",
@@ -2104,7 +2486,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-06-25",
-      "linkedin": "https://www.linkedin.com/in/burak-nuri-g%C3%BC%C3%A7l%C3%BC-87540658/"
+      "linkedin": "https://www.linkedin.com/in/burak-nuri-g%C3%BC%C3%A7l%C3%BC-87540658/",
+      "normalRowNumber": 194,
+      "activeRowNumber": 123
     },
     {
       "name": "ONUR CICEK",
@@ -2113,7 +2497,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2015-06-26",
-      "linkedin": "https://www.linkedin.com/in/onur-cicek-b6192725/"
+      "linkedin": "https://www.linkedin.com/in/onur-cicek-b6192725/",
+      "normalRowNumber": 195
     },
     {
       "name": "MEHMET OZAN",
@@ -2122,7 +2507,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2015-07-13",
-      "linkedin": "https://www.linkedin.com/in/mehmet-ozan-2527a739/"
+      "linkedin": "https://www.linkedin.com/in/mehmet-ozan-2527a739/",
+      "normalRowNumber": 196,
+      "activeRowNumber": 124
     },
     {
       "name": "YILMAZ BILGEN",
@@ -2131,7 +2518,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-08-17",
-      "linkedin": "https://www.linkedin.com/in/yilmaz-bilgen/"
+      "linkedin": "https://www.linkedin.com/in/yilmaz-bilgen/",
+      "normalRowNumber": 197,
+      "activeRowNumber": 125
     },
     {
       "name": "TANER KOC",
@@ -2140,7 +2529,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2015-08-17",
-      "linkedin": "https://www.linkedin.com/in/koctaner/"
+      "linkedin": "https://www.linkedin.com/in/koctaner/",
+      "normalRowNumber": 198
     },
     {
       "name": "HAYRI SEZER",
@@ -2149,7 +2539,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-08-18",
-      "linkedin": "https://www.linkedin.com/in/hayrisezer/"
+      "linkedin": "https://www.linkedin.com/in/hayrisezer/",
+      "normalRowNumber": 199,
+      "activeRowNumber": 126
     },
     {
       "name": "ZAFER BULUT",
@@ -2158,7 +2550,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-08-19",
-      "linkedin": "https://www.linkedin.com/in/zafer-b-b3a8b521/"
+      "linkedin": "https://www.linkedin.com/in/zafer-b-b3a8b521/",
+      "normalRowNumber": 200,
+      "activeRowNumber": 127
     },
     {
       "name": "HALIL IBRAHIM COBAN",
@@ -2167,7 +2561,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-08-19",
-      "linkedin": "https://www.linkedin.com/in/coban/"
+      "linkedin": "https://www.linkedin.com/in/coban/",
+      "normalRowNumber": 201,
+      "activeRowNumber": 128
     },
     {
       "name": "CENK ALI METE",
@@ -2176,7 +2572,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-08-19",
-      "linkedin": "https://www.linkedin.com/in/cenkmete/"
+      "linkedin": "https://www.linkedin.com/in/cenkmete/",
+      "normalRowNumber": 202,
+      "activeRowNumber": 129
     },
     {
       "name": "ERINC MEHMET SOYLU",
@@ -2185,7 +2583,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-08-18",
-      "linkedin": "https://www.linkedin.com/in/erinc-mehmet-soylu/"
+      "linkedin": "https://www.linkedin.com/in/erinc-mehmet-soylu/",
+      "normalRowNumber": 203,
+      "activeRowNumber": 130
     },
     {
       "name": "UMUR ARSLAN",
@@ -2194,7 +2594,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-08-20",
-      "linkedin": "https://www.linkedin.com/in/umurarslan/"
+      "linkedin": "https://www.linkedin.com/in/umurarslan/",
+      "normalRowNumber": 204,
+      "activeRowNumber": 131
     },
     {
       "name": "MUHARREM NEDIRLI",
@@ -2203,7 +2605,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-08-20",
-      "linkedin": "https://www.linkedin.com/in/mnedirli/"
+      "linkedin": "https://www.linkedin.com/in/mnedirli/",
+      "normalRowNumber": 205,
+      "activeRowNumber": 132
     },
     {
       "name": "HUSEYIN YUCEL",
@@ -2212,7 +2616,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-08-20",
-      "linkedin": "https://www.linkedin.com/in/h%C3%BCseyin-y%C3%BCcel-31547231/"
+      "linkedin": "https://www.linkedin.com/in/h%C3%BCseyin-y%C3%BCcel-31547231/",
+      "normalRowNumber": 206,
+      "activeRowNumber": 133
     },
     {
       "name": "YUNUS EMRE TORTAMIS",
@@ -2221,7 +2627,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2015-09-07",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 207
     },
     {
       "name": "ALI MURAT KARAOGLU",
@@ -2230,7 +2637,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-09-09",
-      "linkedin": "https://www.linkedin.com/in/ali-murat-karaoglu-8672902a/"
+      "linkedin": "https://www.linkedin.com/in/ali-murat-karaoglu-8672902a/",
+      "normalRowNumber": 208,
+      "activeRowNumber": 134
     },
     {
       "name": "CIHAN GURSUN",
@@ -2239,7 +2648,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-09-23",
-      "linkedin": ""
+      "linkedin": "",
+      "normalRowNumber": 209,
+      "activeRowNumber": 135
     },
     {
       "name": "ZEKAI VEYHURDAM DIKMEN",
@@ -2248,7 +2659,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-09-25",
-      "linkedin": "https://www.linkedin.com/in/veyhurdam/"
+      "linkedin": "https://www.linkedin.com/in/veyhurdam/",
+      "normalRowNumber": 210,
+      "activeRowNumber": 136
     },
     {
       "name": "ZEKAI VEYHURDAM DIKMEN",
@@ -2257,7 +2670,9 @@
       "track": "Enterprise Wireless",
       "status": "Re-certified",
       "date": "2017-09-08",
-      "linkedin": "https://www.linkedin.com/in/veyhurdam/"
+      "linkedin": "https://www.linkedin.com/in/veyhurdam/",
+      "normalRowNumber": 210,
+      "activeRowNumber": 136
     },
     {
       "name": "GOKHAN KAYMAK",
@@ -2266,7 +2681,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-10-08",
-      "linkedin": "https://www.linkedin.com/in/g%C3%B6khan-kaymak-aab77b54/"
+      "linkedin": "https://www.linkedin.com/in/g%C3%B6khan-kaymak-aab77b54/",
+      "normalRowNumber": 211,
+      "activeRowNumber": 137
     },
     {
       "name": "GOKHAN KAYMAK",
@@ -2275,7 +2692,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2018-07-20",
-      "linkedin": "https://www.linkedin.com/in/g%C3%B6khan-kaymak-aab77b54/"
+      "linkedin": "https://www.linkedin.com/in/g%C3%B6khan-kaymak-aab77b54/",
+      "normalRowNumber": 211,
+      "activeRowNumber": 137
     },
     {
       "name": "BURAK YAVUZ",
@@ -2284,7 +2703,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-10-08",
-      "linkedin": "https://www.linkedin.com/in/burak-yavuz-2a970333/"
+      "linkedin": "https://www.linkedin.com/in/burak-yavuz-2a970333/",
+      "normalRowNumber": 212,
+      "activeRowNumber": 138
     },
     {
       "name": "BURAK YAVUZ",
@@ -2293,7 +2714,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2018-06-08",
-      "linkedin": "https://www.linkedin.com/in/burak-yavuz-2a970333/"
+      "linkedin": "https://www.linkedin.com/in/burak-yavuz-2a970333/",
+      "normalRowNumber": 212,
+      "activeRowNumber": 138
     },
     {
       "name": "OGUL CELIKSOYDAN",
@@ -2302,7 +2725,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2015-10-16",
-      "linkedin": "https://www.linkedin.com/in/ogulceliksoydan/"
+      "linkedin": "https://www.linkedin.com/in/ogulceliksoydan/",
+      "normalRowNumber": 213,
+      "activeRowNumber": 139
     },
     {
       "name": "EGEMEN CELIK",
@@ -2311,7 +2736,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2016-03-28",
-      "linkedin": "https://www.linkedin.com/in/celikeg/"
+      "linkedin": "https://www.linkedin.com/in/celikeg/",
+      "normalRowNumber": 214
     },
     {
       "name": "DAVUT DOGANTEKIN",
@@ -2320,7 +2746,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2016-03-29",
-      "linkedin": "https://www.linkedin.com/in/dgntkn/"
+      "linkedin": "https://www.linkedin.com/in/dgntkn/",
+      "normalRowNumber": 215
     },
     {
       "name": "YASIN KILINCOGLU",
@@ -2329,7 +2756,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2016-03-29",
-      "linkedin": "https://www.linkedin.com/in/yasin-k%C4%B1l%C4%B1n%C3%A7o%C4%9Flu-b0596124/"
+      "linkedin": "https://www.linkedin.com/in/yasin-k%C4%B1l%C4%B1n%C3%A7o%C4%9Flu-b0596124/",
+      "normalRowNumber": 216
     },
     {
       "name": "UGUR ERSOY",
@@ -2338,7 +2766,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2016-03-30",
-      "linkedin": "https://www.linkedin.com/in/ugur-ersoy-6648918a/"
+      "linkedin": "https://www.linkedin.com/in/ugur-ersoy-6648918a/",
+      "normalRowNumber": 217,
+      "activeRowNumber": 140
     },
     {
       "name": "CELAL MILLETINISEVER",
@@ -2347,7 +2777,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2016-03-31",
-      "linkedin": "https://www.linkedin.com/in/celalmilletinisever52271/"
+      "linkedin": "https://www.linkedin.com/in/celalmilletinisever52271/",
+      "normalRowNumber": 218,
+      "activeRowNumber": 141
     },
     {
       "name": "CELAL MILLETINISEVER",
@@ -2356,7 +2788,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2017-12-12",
-      "linkedin": "https://www.linkedin.com/in/celalmilletinisever52271/"
+      "linkedin": "https://www.linkedin.com/in/celalmilletinisever52271/",
+      "normalRowNumber": 218,
+      "activeRowNumber": 141
     },
     {
       "name": "MAHMUT KAVAK",
@@ -2365,7 +2799,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2016-04-27",
-      "linkedin": "https://www.linkedin.com/in/mahmut-kavak-056648/"
+      "linkedin": "https://www.linkedin.com/in/mahmut-kavak-056648/",
+      "normalRowNumber": 219,
+      "activeRowNumber": 142
     },
     {
       "name": "HUSEYIN EFE EVYAPAN",
@@ -2374,7 +2810,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2016-06-13",
-      "linkedin": "https://www.linkedin.com/in/efe-evyapan/"
+      "linkedin": "https://www.linkedin.com/in/efe-evyapan/",
+      "normalRowNumber": 220,
+      "activeRowNumber": 143
     },
     {
       "name": "AHMET KILIC",
@@ -2383,7 +2821,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2016-06-13",
-      "linkedin": "https://www.linkedin.com/in/ahmetkilic53138/"
+      "linkedin": "https://www.linkedin.com/in/ahmetkilic53138/",
+      "normalRowNumber": 221,
+      "activeRowNumber": 144
     },
     {
       "name": "ONUR TEKIN",
@@ -2392,7 +2832,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2016-09-01",
-      "linkedin": "https://www.linkedin.com/in/onur-tekin-msc-a5251556/"
+      "linkedin": "https://www.linkedin.com/in/onur-tekin-msc-a5251556/",
+      "normalRowNumber": 222,
+      "activeRowNumber": 145
     },
     {
       "name": "MAHMUT TOPRAK",
@@ -2401,7 +2843,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2016-10-24",
-      "linkedin": "https://www.linkedin.com/in/mahmuttoprak/"
+      "linkedin": "https://www.linkedin.com/in/mahmuttoprak/",
+      "normalRowNumber": 223,
+      "activeRowNumber": 146
     },
     {
       "name": "BURAK BAHADIR BILGIN",
@@ -2410,7 +2854,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2016-10-25",
-      "linkedin": "https://www.linkedin.com/in/burak-bahadir-bilgin-6b7592a/"
+      "linkedin": "https://www.linkedin.com/in/burak-bahadir-bilgin-6b7592a/",
+      "normalRowNumber": 224,
+      "activeRowNumber": 147
     },
     {
       "name": "BURAK BAHADIR BILGIN",
@@ -2419,7 +2865,9 @@
       "track": "Security",
       "status": "Re-certified",
       "date": "2019-11-13",
-      "linkedin": "https://www.linkedin.com/in/burak-bahadir-bilgin-6b7592a/"
+      "linkedin": "https://www.linkedin.com/in/burak-bahadir-bilgin-6b7592a/",
+      "normalRowNumber": 224,
+      "activeRowNumber": 147
     },
     {
       "name": "SEVKET GULHAN",
@@ -2428,7 +2876,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2016-11-24",
-      "linkedin": "https://www.linkedin.com/in/sevket-gulhan-0204524/"
+      "linkedin": "https://www.linkedin.com/in/sevket-gulhan-0204524/",
+      "normalRowNumber": 225,
+      "activeRowNumber": 148
     },
     {
       "name": "SEMIH YIGIT",
@@ -2437,7 +2887,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-01-13",
-      "linkedin": "https://www.linkedin.com/in/semih-yi%C4%9Fit-a596605/"
+      "linkedin": "https://www.linkedin.com/in/semih-yi%C4%9Fit-a596605/",
+      "normalRowNumber": 226,
+      "activeRowNumber": 149
     },
     {
       "name": "ERKAN BAL",
@@ -2446,7 +2898,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-01-16",
-      "linkedin": "https://www.linkedin.com/in/erkan-bal/"
+      "linkedin": "https://www.linkedin.com/in/erkan-bal/",
+      "normalRowNumber": 227,
+      "activeRowNumber": 150
     },
     {
       "name": "ERKAN BAL",
@@ -2455,7 +2909,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2019-09-12",
-      "linkedin": "https://www.linkedin.com/in/erkan-bal/"
+      "linkedin": "https://www.linkedin.com/in/erkan-bal/",
+      "normalRowNumber": 227,
+      "activeRowNumber": 150
     },
     {
       "name": "ERKAN BAL",
@@ -2464,7 +2920,9 @@
       "track": "DevNet Expert",
       "status": "Certified",
       "date": "2024-05-01",
-      "linkedin": "https://www.linkedin.com/in/erkan-bal/"
+      "linkedin": "https://www.linkedin.com/in/erkan-bal/",
+      "normalRowNumber": 228,
+      "activeRowNumber": 151
     },
     {
       "name": "OZAN KUCUK",
@@ -2473,7 +2931,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-01-24",
-      "linkedin": "https://www.linkedin.com/in/ozankucuk/"
+      "linkedin": "https://www.linkedin.com/in/ozankucuk/",
+      "normalRowNumber": 229,
+      "activeRowNumber": 152
     },
     {
       "name": "BURHAN KARA",
@@ -2482,7 +2942,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-02-20",
-      "linkedin": "https://www.linkedin.com/in/burhankara/"
+      "linkedin": "https://www.linkedin.com/in/burhankara/",
+      "normalRowNumber": 230,
+      "activeRowNumber": 153
     },
     {
       "name": "MURAT OZ",
@@ -2491,7 +2953,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-02-20",
-      "linkedin": "https://www.linkedin.com/in/murat-oz-18585740/"
+      "linkedin": "https://www.linkedin.com/in/murat-oz-18585740/",
+      "normalRowNumber": 231,
+      "activeRowNumber": 154
     },
     {
       "name": "ERSEN SAHINER",
@@ -2500,7 +2964,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2017-02-27",
-      "linkedin": "https://www.linkedin.com/in/ersen-sahiner-76175038/"
+      "linkedin": "https://www.linkedin.com/in/ersen-sahiner-76175038/",
+      "normalRowNumber": 232
     },
     {
       "name": "HASAN ONAT",
@@ -2509,7 +2974,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-03-13",
-      "linkedin": "https://www.linkedin.com/in/hasan-onat/"
+      "linkedin": "https://www.linkedin.com/in/hasan-onat/",
+      "normalRowNumber": 233,
+      "activeRowNumber": 155
     },
     {
       "name": "BARIS AVTAN",
@@ -2518,7 +2985,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-04-13",
-      "linkedin": "https://www.linkedin.com/in/barisavtan/"
+      "linkedin": "https://www.linkedin.com/in/barisavtan/",
+      "normalRowNumber": 234,
+      "activeRowNumber": 156
     },
     {
       "name": "EGEMEN BAKIRCI",
@@ -2527,7 +2996,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2017-05-05",
-      "linkedin": "https://www.linkedin.com/in/egemen-bakirci/"
+      "linkedin": "https://www.linkedin.com/in/egemen-bakirci/",
+      "normalRowNumber": 235,
+      "activeRowNumber": 157
     },
     {
       "name": "DINCER GULTEKIN",
@@ -2536,7 +3007,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2017-06-14",
-      "linkedin": "https://www.linkedin.com/in/din%C3%A7er-g%C3%BCltekin-1695676a/"
+      "linkedin": "https://www.linkedin.com/in/din%C3%A7er-g%C3%BCltekin-1695676a/",
+      "normalRowNumber": 236
     },
     {
       "name": "BANU DIDEM ALKAS",
@@ -2545,7 +3017,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2017-06-16",
-      "linkedin": "https://www.linkedin.com/in/banudidemalkas/"
+      "linkedin": "https://www.linkedin.com/in/banudidemalkas/",
+      "normalRowNumber": 237
     },
     {
       "name": "CAGATAY DOGAN",
@@ -2554,7 +3027,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-07-05",
-      "linkedin": "https://www.linkedin.com/in/cagatay-dogan-ccie-56707/"
+      "linkedin": "https://www.linkedin.com/in/cagatay-dogan-ccie-56707/",
+      "normalRowNumber": 238,
+      "activeRowNumber": 158
     },
     {
       "name": "OMER KARA",
@@ -2563,7 +3038,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2017-07-12",
-      "linkedin": "https://www.linkedin.com/in/omer-kara-16929648/"
+      "linkedin": "https://www.linkedin.com/in/omer-kara-16929648/",
+      "normalRowNumber": 239,
+      "activeRowNumber": 159
     },
     {
       "name": "BURAK CANDAN",
@@ -2572,7 +3049,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-07-26",
-      "linkedin": "https://www.linkedin.com/in/burakcandan/"
+      "linkedin": "https://www.linkedin.com/in/burakcandan/",
+      "normalRowNumber": 240,
+      "activeRowNumber": 160
     },
     {
       "name": "BURAK CANDAN",
@@ -2581,7 +3060,9 @@
       "track": "Service Provider",
       "status": "Re-certified",
       "date": "2019-12-16",
-      "linkedin": "https://www.linkedin.com/in/burakcandan/"
+      "linkedin": "https://www.linkedin.com/in/burakcandan/",
+      "normalRowNumber": 240,
+      "activeRowNumber": 160
     },
     {
       "name": "MEHMET KAVI",
@@ -2590,7 +3071,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-07-30",
-      "linkedin": "https://www.linkedin.com/in/mehmet-onur-kavi-1154b7b5/"
+      "linkedin": "https://www.linkedin.com/in/mehmet-onur-kavi-1154b7b5/",
+      "normalRowNumber": 241,
+      "activeRowNumber": 161
     },
     {
       "name": "HUSEYIN TEZER",
@@ -2599,7 +3082,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2017-07-31",
-      "linkedin": "https://www.linkedin.com/in/h%C3%BCseyin-tezer-79a9b849/"
+      "linkedin": "https://www.linkedin.com/in/h%C3%BCseyin-tezer-79a9b849/",
+      "normalRowNumber": 242
     },
     {
       "name": "SEMIH TIGLI",
@@ -2608,7 +3092,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2017-08-21",
-      "linkedin": "https://www.linkedin.com/in/semih-tigli-1425ba23/"
+      "linkedin": "https://www.linkedin.com/in/semih-tigli-1425ba23/",
+      "normalRowNumber": 243,
+      "activeRowNumber": 162
     },
     {
       "name": "SAMET CULHA",
@@ -2617,7 +3103,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-08-24",
-      "linkedin": "https://www.linkedin.com/in/samet-%C3%A7ulha/"
+      "linkedin": "https://www.linkedin.com/in/samet-%C3%A7ulha/",
+      "normalRowNumber": 244,
+      "activeRowNumber": 163
     },
     {
       "name": "ALI OSMAN BUYUKAVSAR",
@@ -2626,7 +3114,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2017-08-24",
-      "linkedin": "https://www.linkedin.com/in/ali-osman-b%C3%BCy%C3%BCkav%C5%9Far-mba-pmp%C2%AE-74145635/"
+      "linkedin": "https://www.linkedin.com/in/ali-osman-b%C3%BCy%C3%BCkav%C5%9Far-mba-pmp%C2%AE-74145635/",
+      "normalRowNumber": 245,
+      "activeRowNumber": 164
     },
     {
       "name": "SERHAN SEZGIN",
@@ -2635,7 +3125,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-09-10",
-      "linkedin": "https://www.linkedin.com/in/serhan-sezgin-a629a910/"
+      "linkedin": "https://www.linkedin.com/in/serhan-sezgin-a629a910/",
+      "normalRowNumber": 246,
+      "activeRowNumber": 165
     },
     {
       "name": "SERHAN SEZGIN",
@@ -2644,7 +3136,9 @@
       "track": "Security",
       "status": "Re-certified",
       "date": "2019-12-09",
-      "linkedin": "https://www.linkedin.com/in/serhan-sezgin-a629a910/"
+      "linkedin": "https://www.linkedin.com/in/serhan-sezgin-a629a910/",
+      "normalRowNumber": 246,
+      "activeRowNumber": 165
     },
     {
       "name": "HASAN DEMIR OLMEZSES",
@@ -2653,7 +3147,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-09-25",
-      "linkedin": "https://www.linkedin.com/in/olmezses/"
+      "linkedin": "https://www.linkedin.com/in/olmezses/",
+      "normalRowNumber": 247,
+      "activeRowNumber": 166
     },
     {
       "name": "BURCIN DURSUN",
@@ -2662,7 +3158,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2017-10-13",
-      "linkedin": "https://www.linkedin.com/in/bur%C3%A7in-dursun-347a6a38/"
+      "linkedin": "https://www.linkedin.com/in/bur%C3%A7in-dursun-347a6a38/",
+      "normalRowNumber": 248,
+      "activeRowNumber": 167
     },
     {
       "name": "BILGE GOKOZAN",
@@ -2671,7 +3169,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2018-01-25",
-      "linkedin": "https://www.linkedin.com/in/bilge-gokozan/"
+      "linkedin": "https://www.linkedin.com/in/bilge-gokozan/",
+      "normalRowNumber": 249,
+      "activeRowNumber": 168
     },
     {
       "name": "ARAS PALUYAN",
@@ -2680,7 +3180,9 @@
       "track": "Service Provider",
       "status": "Re-certified",
       "date": "2018-01-31",
-      "linkedin": "https://www.linkedin.com/in/araspaluyan/"
+      "linkedin": "https://www.linkedin.com/in/araspaluyan/",
+      "normalRowNumber": 250,
+      "activeRowNumber": 169
     },
     {
       "name": "ARAS PALUYAN",
@@ -2689,7 +3191,9 @@
       "track": "CCDE Practical",
       "status": "Certified",
       "date": "2023-08-22",
-      "linkedin": "https://www.linkedin.com/in/araspaluyan/"
+      "linkedin": "https://www.linkedin.com/in/araspaluyan/",
+      "normalRowNumber": 251,
+      "activeRowNumber": 170
     },
     {
       "name": "MEHMET ULUS",
@@ -2698,7 +3202,8 @@
       "track": "Collaboration",
       "status": "Inactive",
       "date": "2018-02-26",
-      "linkedin": "https://www.linkedin.com/in/mehmet-ulus/"
+      "linkedin": "https://www.linkedin.com/in/mehmet-ulus/",
+      "normalRowNumber": 252
     },
     {
       "name": "BERKAY ERGEN",
@@ -2707,7 +3212,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2018-04-24",
-      "linkedin": "https://www.linkedin.com/in/berkay-ergen-391457b9/"
+      "linkedin": "https://www.linkedin.com/in/berkay-ergen-391457b9/",
+      "normalRowNumber": 253,
+      "activeRowNumber": 171
     },
     {
       "name": "ERCAN ERDOGMUS",
@@ -2716,7 +3223,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2018-05-27",
-      "linkedin": "https://www.linkedin.com/in/ercanerdogmus/"
+      "linkedin": "https://www.linkedin.com/in/ercanerdogmus/",
+      "normalRowNumber": 254,
+      "activeRowNumber": 172
     },
     {
       "name": "UTKAN VURAL",
@@ -2725,7 +3234,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2018-05-27",
-      "linkedin": "https://www.linkedin.com/in/utkan-vural-6a75b487/"
+      "linkedin": "https://www.linkedin.com/in/utkan-vural-6a75b487/",
+      "normalRowNumber": 255,
+      "activeRowNumber": 173
     },
     {
       "name": "ALI CAN KARABAS",
@@ -2734,7 +3245,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2018-05-28",
-      "linkedin": "https://www.linkedin.com/in/alikarabas/"
+      "linkedin": "https://www.linkedin.com/in/alikarabas/",
+      "normalRowNumber": 256,
+      "activeRowNumber": 174
     },
     {
       "name": "EMINE IBIS",
@@ -2743,7 +3256,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2018-06-06",
-      "linkedin": "https://www.linkedin.com/in/emine-ibi%C5%9F-55178b53/"
+      "linkedin": "https://www.linkedin.com/in/emine-ibi%C5%9F-55178b53/",
+      "normalRowNumber": 257,
+      "activeRowNumber": 175
     },
     {
       "name": "ZEYNEP PULAT",
@@ -2752,7 +3267,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2018-07-04",
-      "linkedin": "https://www.linkedin.com/in/zeynep-pulat-4a7253132/"
+      "linkedin": "https://www.linkedin.com/in/zeynep-pulat-4a7253132/",
+      "normalRowNumber": 258,
+      "activeRowNumber": 176
     },
     {
       "name": "BORA OZVER",
@@ -2761,7 +3278,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2018-07-16",
-      "linkedin": "https://www.linkedin.com/in/boraozver/"
+      "linkedin": "https://www.linkedin.com/in/boraozver/",
+      "normalRowNumber": 259,
+      "activeRowNumber": 177
     },
     {
       "name": "SEFIK KARATAYLI",
@@ -2770,7 +3289,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2018-12-12",
-      "linkedin": "https://www.linkedin.com/in/%C5%9Fefik-karatayl%C4%B1-49bb9342/"
+      "linkedin": "https://www.linkedin.com/in/%C5%9Fefik-karatayl%C4%B1-49bb9342/",
+      "normalRowNumber": 260,
+      "activeRowNumber": 178
     },
     {
       "name": "AVNI GERMAN",
@@ -2779,7 +3300,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-02-08",
-      "linkedin": "https://www.linkedin.com/in/avni-german-bba02524/"
+      "linkedin": "https://www.linkedin.com/in/avni-german-bba02524/",
+      "normalRowNumber": 261,
+      "activeRowNumber": 179
     },
     {
       "name": "MERT IYIGUN",
@@ -2788,7 +3311,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-03-14",
-      "linkedin": "https://www.linkedin.com/in/ihsan-mert-iyigun/"
+      "linkedin": "https://www.linkedin.com/in/ihsan-mert-iyigun/",
+      "normalRowNumber": 262,
+      "activeRowNumber": 180
     },
     {
       "name": "MAHMUT TAC",
@@ -2797,7 +3322,9 @@
       "track": "Security",
       "status": "Re-certified",
       "date": "2019-03-26",
-      "linkedin": "https://www.linkedin.com/in/mahmuttac/"
+      "linkedin": "https://www.linkedin.com/in/mahmuttac/",
+      "normalRowNumber": 263,
+      "activeRowNumber": 181
     },
     {
       "name": "EMRAH KONUR",
@@ -2806,7 +3333,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-05-07",
-      "linkedin": "https://www.linkedin.com/in/emrah-konur-82883098/"
+      "linkedin": "https://www.linkedin.com/in/emrah-konur-82883098/",
+      "normalRowNumber": 264,
+      "activeRowNumber": 182
     },
     {
       "name": "ERCAN ZER",
@@ -2815,7 +3344,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2019-06-17",
-      "linkedin": "https://www.linkedin.com/in/ercan-zer-4304933b/"
+      "linkedin": "https://www.linkedin.com/in/ercan-zer-4304933b/",
+      "normalRowNumber": 265,
+      "activeRowNumber": 183
     },
     {
       "name": "ERAY KUSMEZ",
@@ -2824,7 +3355,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-07-16",
-      "linkedin": "https://www.linkedin.com/in/eray-kusmez-0574ba174/"
+      "linkedin": "https://www.linkedin.com/in/eray-kusmez-0574ba174/",
+      "normalRowNumber": 266,
+      "activeRowNumber": 184
     },
     {
       "name": "ORUC AKPINAR",
@@ -2833,7 +3366,8 @@
       "track": "Collaboration",
       "status": "Inactive",
       "date": "2019-08-28",
-      "linkedin": "https://www.linkedin.com/in/orucakpinar/"
+      "linkedin": "https://www.linkedin.com/in/orucakpinar/",
+      "normalRowNumber": 267
     },
     {
       "name": "MEHMET AKCA",
@@ -2842,7 +3376,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-09-09",
-      "linkedin": "https://www.linkedin.com/in/mehmet-bu%C4%9Fra-akca-3697a161/"
+      "linkedin": "https://www.linkedin.com/in/mehmet-bu%C4%9Fra-akca-3697a161/",
+      "normalRowNumber": 268,
+      "activeRowNumber": 185
     },
     {
       "name": "SAMET CESUR",
@@ -2851,7 +3387,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-09-09",
-      "linkedin": "https://www.linkedin.com/in/samet-cesur-70186445/"
+      "linkedin": "https://www.linkedin.com/in/samet-cesur-70186445/",
+      "normalRowNumber": 269,
+      "activeRowNumber": 186
     },
     {
       "name": "ADEM ATIKTURK",
@@ -2860,7 +3398,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-10-01",
-      "linkedin": "https://www.linkedin.com/in/adematikturk/"
+      "linkedin": "https://www.linkedin.com/in/adematikturk/",
+      "normalRowNumber": 270,
+      "activeRowNumber": 187
     },
     {
       "name": "AHMED FURKAN NAZLIGUL",
@@ -2869,7 +3409,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-10-01",
-      "linkedin": "https://www.linkedin.com/in/ahmed-furkan-nazligul/"
+      "linkedin": "https://www.linkedin.com/in/ahmed-furkan-nazligul/",
+      "normalRowNumber": 271,
+      "activeRowNumber": 188
     },
     {
       "name": "KAAN BAYKUL",
@@ -2878,7 +3420,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-10-02",
-      "linkedin": "https://www.linkedin.com/in/kaan-baykul-a5694b11a/"
+      "linkedin": "https://www.linkedin.com/in/kaan-baykul-a5694b11a/",
+      "normalRowNumber": 272,
+      "activeRowNumber": 189
     },
     {
       "name": "MAHMUT AYDIN",
@@ -2887,7 +3431,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-10-03",
-      "linkedin": "https://www.linkedin.com/in/mahmut-aydin/"
+      "linkedin": "https://www.linkedin.com/in/mahmut-aydin/",
+      "normalRowNumber": 273,
+      "activeRowNumber": 190
     },
     {
       "name": "ILKER MANSUR",
@@ -2896,7 +3442,9 @@
       "track": "Collaboration",
       "status": "Re-certified",
       "date": "2019-10-16",
-      "linkedin": "https://www.linkedin.com/in/ilker-mansur-1514b969/"
+      "linkedin": "https://www.linkedin.com/in/ilker-mansur-1514b969/",
+      "normalRowNumber": 274,
+      "activeRowNumber": 191
     },
     {
       "name": "MURAT YILMAZ",
@@ -2905,7 +3453,9 @@
       "track": "Enterprise Wireless",
       "status": "Re-certified",
       "date": "2019-10-16",
-      "linkedin": "https://www.linkedin.com/in/murat-y-b4083627/"
+      "linkedin": "https://www.linkedin.com/in/murat-y-b4083627/",
+      "normalRowNumber": 275,
+      "activeRowNumber": 192
     },
     {
       "name": "VOLKAN BAYKAN",
@@ -2914,7 +3464,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-10-31",
-      "linkedin": "https://www.linkedin.com/in/volkanbaykan/"
+      "linkedin": "https://www.linkedin.com/in/volkanbaykan/",
+      "normalRowNumber": 276,
+      "activeRowNumber": 193
     },
     {
       "name": "SERCAN SAYKAL",
@@ -2923,7 +3475,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-11-13",
-      "linkedin": "https://www.linkedin.com/in/sercan-saykal/"
+      "linkedin": "https://www.linkedin.com/in/sercan-saykal/",
+      "normalRowNumber": 277,
+      "activeRowNumber": 194
     },
     {
       "name": "FATIH FENNI",
@@ -2932,7 +3486,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-11-22",
-      "linkedin": "https://www.linkedin.com/in/fatih-fenni-6b50bab6/"
+      "linkedin": "https://www.linkedin.com/in/fatih-fenni-6b50bab6/",
+      "normalRowNumber": 278,
+      "activeRowNumber": 195
     },
     {
       "name": "EMRAH OZMEN",
@@ -2941,7 +3497,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-11-26",
-      "linkedin": "https://www.linkedin.com/in/emrahozmen2018/"
+      "linkedin": "https://www.linkedin.com/in/emrahozmen2018/",
+      "normalRowNumber": 279,
+      "activeRowNumber": 196
     },
     {
       "name": "EMRAH OZMEN",
@@ -2950,7 +3508,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2022-02-01",
-      "linkedin": "https://www.linkedin.com/in/emrahozmen2018/"
+      "linkedin": "https://www.linkedin.com/in/emrahozmen2018/",
+      "normalRowNumber": 279,
+      "activeRowNumber": 196
     },
     {
       "name": "BURHAN YUCEL",
@@ -2959,7 +3519,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2019-12-12",
-      "linkedin": "https://www.linkedin.com/in/burhan-y%C3%BCcel-93a67415/"
+      "linkedin": "https://www.linkedin.com/in/burhan-y%C3%BCcel-93a67415/",
+      "normalRowNumber": 280,
+      "activeRowNumber": 197
     },
     {
       "name": "SELCUK KARABACAK",
@@ -2968,7 +3530,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2020-01-08",
-      "linkedin": "https://www.linkedin.com/in/selcuk-karabacak-9b9274159/"
+      "linkedin": "https://www.linkedin.com/in/selcuk-karabacak-9b9274159/",
+      "normalRowNumber": 281,
+      "activeRowNumber": 198
     },
     {
       "name": "UMUT COKBILIR",
@@ -2977,7 +3541,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2020-01-14",
-      "linkedin": "https://www.linkedin.com/in/umutcokbilir/"
+      "linkedin": "https://www.linkedin.com/in/umutcokbilir/",
+      "normalRowNumber": 282,
+      "activeRowNumber": 199
     },
     {
       "name": "MERT ATIL",
@@ -2986,7 +3552,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2020-01-15",
-      "linkedin": "https://www.linkedin.com/in/mert-atil-9a42379b/"
+      "linkedin": "https://www.linkedin.com/in/mert-atil-9a42379b/",
+      "normalRowNumber": 283,
+      "activeRowNumber": 200
     },
     {
       "name": "BEKIR BUGRA KIYMAZ",
@@ -2995,7 +3563,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2020-01-16",
-      "linkedin": "https://www.linkedin.com/in/bbkiymaz/"
+      "linkedin": "https://www.linkedin.com/in/bbkiymaz/",
+      "normalRowNumber": 284,
+      "activeRowNumber": 201
     },
     {
       "name": "ISA GOK",
@@ -3004,7 +3574,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2020-01-16",
-      "linkedin": "https://www.linkedin.com/in/isa-gok-9541887a/"
+      "linkedin": "https://www.linkedin.com/in/isa-gok-9541887a/",
+      "normalRowNumber": 285,
+      "activeRowNumber": 202
     },
     {
       "name": "MURAT UNAL",
@@ -3013,7 +3585,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2020-02-05",
-      "linkedin": "https://www.linkedin.com/in/murat-%C3%BCnal-7667351ab/"
+      "linkedin": "https://www.linkedin.com/in/murat-%C3%BCnal-7667351ab/",
+      "normalRowNumber": 286,
+      "activeRowNumber": 203
     },
     {
       "name": "ERTAN ATILA",
@@ -3022,7 +3596,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2020-02-12",
-      "linkedin": "https://www.linkedin.com/in/ertanatila/"
+      "linkedin": "https://www.linkedin.com/in/ertanatila/",
+      "normalRowNumber": 287,
+      "activeRowNumber": 204
     },
     {
       "name": "BURAK DARTAR",
@@ -3031,7 +3607,9 @@
       "track": "Security",
       "status": "Re-certified",
       "date": "2020-02-17",
-      "linkedin": "https://www.linkedin.com/in/burak-dartar-58995098/"
+      "linkedin": "https://www.linkedin.com/in/burak-dartar-58995098/",
+      "normalRowNumber": 288,
+      "activeRowNumber": 205
     },
     {
       "name": "ERKAN ERCAN",
@@ -3040,7 +3618,8 @@
       "track": "Enterprise Infrastructure",
       "status": "Inactive",
       "date": "2020-02-19",
-      "linkedin": "https://www.linkedin.com/in/erkanercan-networkarchitect/"
+      "linkedin": "https://www.linkedin.com/in/erkanercan-networkarchitect/",
+      "normalRowNumber": 289
     },
     {
       "name": "CIHAN METE",
@@ -3049,7 +3628,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2020-02-21",
-      "linkedin": "https://www.linkedin.com/in/cihan-mete-276607a1/"
+      "linkedin": "https://www.linkedin.com/in/cihan-mete-276607a1/",
+      "normalRowNumber": 290,
+      "activeRowNumber": 206
     },
     {
       "name": "CIHAN YILMAZER",
@@ -3058,7 +3639,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2020-02-21",
-      "linkedin": "https://www.linkedin.com/in/cihanyilmazer/"
+      "linkedin": "https://www.linkedin.com/in/cihanyilmazer/",
+      "normalRowNumber": 291,
+      "activeRowNumber": 207
     },
     {
       "name": "AHMET TUNCOK",
@@ -3067,7 +3650,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2021-08-26",
-      "linkedin": "https://www.linkedin.com/in/ahmettuncok/"
+      "linkedin": "https://www.linkedin.com/in/ahmettuncok/",
+      "normalRowNumber": 292,
+      "activeRowNumber": 208
     },
     {
       "name": "AHMET TUNCOK",
@@ -3076,7 +3661,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2021-10-25",
-      "linkedin": "https://www.linkedin.com/in/ahmettuncok/"
+      "linkedin": "https://www.linkedin.com/in/ahmettuncok/",
+      "normalRowNumber": 292,
+      "activeRowNumber": 208
     },
     {
       "name": "CIHANGIR SEYYAR",
@@ -3085,7 +3672,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2022-01-13",
-      "linkedin": "https://www.linkedin.com/in/cihangir-seyyar-65b26a77/"
+      "linkedin": "https://www.linkedin.com/in/cihangir-seyyar-65b26a77/",
+      "normalRowNumber": 293,
+      "activeRowNumber": 209
     },
     {
       "name": "FURKAN AKTUG",
@@ -3094,7 +3683,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2022-01-20",
-      "linkedin": "https://www.linkedin.com/in/furkan-aktu%C4%9F-66185474/"
+      "linkedin": "https://www.linkedin.com/in/furkan-aktu%C4%9F-66185474/",
+      "normalRowNumber": 294,
+      "activeRowNumber": 210
     },
     {
       "name": "ERDAL KALAYCI",
@@ -3103,7 +3694,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2022-11-02",
-      "linkedin": "https://www.linkedin.com/in/erdalkalayci/"
+      "linkedin": "https://www.linkedin.com/in/erdalkalayci/",
+      "normalRowNumber": 295,
+      "activeRowNumber": 211
     },
     {
       "name": "EMRAH KURNAZ",
@@ -3112,7 +3705,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2022-11-15",
-      "linkedin": "https://www.linkedin.com/in/emrah-kurnaz-860385320/"
+      "linkedin": "https://www.linkedin.com/in/emrah-kurnaz-860385320/",
+      "normalRowNumber": 296,
+      "activeRowNumber": 212
     },
     {
       "name": "MURAT TOPAL",
@@ -3121,7 +3716,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2022-12-20",
-      "linkedin": "https://www.linkedin.com/in/murat-topal-35901948/"
+      "linkedin": "https://www.linkedin.com/in/murat-topal-35901948/",
+      "normalRowNumber": 297,
+      "activeRowNumber": 213
     },
     {
       "name": "YIGIT FIRAT",
@@ -3130,7 +3727,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2023-01-23",
-      "linkedin": "https://www.linkedin.com/in/yigit-f%C4%B1rat-52530a38/"
+      "linkedin": "https://www.linkedin.com/in/yigit-f%C4%B1rat-52530a38/",
+      "normalRowNumber": 298,
+      "activeRowNumber": 214
     },
     {
       "name": "ORHAN BERKAY DEMIR",
@@ -3139,7 +3738,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2022-07-05",
-      "linkedin": "https://www.linkedin.com/in/berkay-demir-msc-259413102/"
+      "linkedin": "https://www.linkedin.com/in/berkay-demir-msc-259413102/",
+      "normalRowNumber": 299,
+      "activeRowNumber": 215
     },
     {
       "name": "ORHAN BERKAY DEMIR",
@@ -3148,7 +3749,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2023-08-21",
-      "linkedin": "https://www.linkedin.com/in/berkay-demir-msc-259413102/"
+      "linkedin": "https://www.linkedin.com/in/berkay-demir-msc-259413102/",
+      "normalRowNumber": 299,
+      "activeRowNumber": 215
     },
     {
       "name": "BARIS KUMAS",
@@ -3157,7 +3760,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2022-07-06",
-      "linkedin": "https://www.linkedin.com/in/baris-kumas/"
+      "linkedin": "https://www.linkedin.com/in/baris-kumas/",
+      "normalRowNumber": 300,
+      "activeRowNumber": 216
     },
     {
       "name": "BARIS KUMAS",
@@ -3166,7 +3771,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2023-08-04",
-      "linkedin": "https://www.linkedin.com/in/baris-kumas/"
+      "linkedin": "https://www.linkedin.com/in/baris-kumas/",
+      "normalRowNumber": 300,
+      "activeRowNumber": 216
     },
     {
       "name": "MUHAMMET BICER",
@@ -3175,7 +3782,9 @@
       "track": "Security",
       "status": "Re-certified",
       "date": "2022-08-05",
-      "linkedin": "https://www.linkedin.com/in/kadirbicer/"
+      "linkedin": "https://www.linkedin.com/in/kadirbicer/",
+      "normalRowNumber": 301,
+      "activeRowNumber": 217
     },
     {
       "name": "BATUHAN DULGEROGLU",
@@ -3184,7 +3793,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2022-09-05",
-      "linkedin": "https://www.linkedin.com/in/batuhan-eylem-d%C3%BClgero%C4%9Flu-55a107324/"
+      "linkedin": "https://www.linkedin.com/in/batuhan-eylem-d%C3%BClgero%C4%9Flu-55a107324/",
+      "normalRowNumber": 302,
+      "activeRowNumber": 218
     },
     {
       "name": "FATIH KACMAZ",
@@ -3193,7 +3804,9 @@
       "track": "Service Provider",
       "status": "Certified",
       "date": "2022-12-12",
-      "linkedin": "https://www.linkedin.com/in/fatih-kacmaz-22128614/"
+      "linkedin": "https://www.linkedin.com/in/fatih-kacmaz-22128614/",
+      "normalRowNumber": 303,
+      "activeRowNumber": 219
     },
     {
       "name": "NURULLAH YILMAZ",
@@ -3202,7 +3815,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2023-01-16",
-      "linkedin": "https://www.linkedin.com/in/nurullah-yilmaz-b7482144/"
+      "linkedin": "https://www.linkedin.com/in/nurullah-yilmaz-b7482144/",
+      "normalRowNumber": 304,
+      "activeRowNumber": 220
     },
     {
       "name": "MELIH OZTURK",
@@ -3211,7 +3826,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2023-01-19",
-      "linkedin": "https://www.linkedin.com/in/melihoztrk/"
+      "linkedin": "https://www.linkedin.com/in/melihoztrk/",
+      "normalRowNumber": 305,
+      "activeRowNumber": 221
     },
     {
       "name": "BURAK SALIHOGLU",
@@ -3220,7 +3837,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2023-02-22",
-      "linkedin": "https://www.linkedin.com/in/burak-salihoglu-96883157/"
+      "linkedin": "https://www.linkedin.com/in/burak-salihoglu-96883157/",
+      "normalRowNumber": 306,
+      "activeRowNumber": 222
     },
     {
       "name": "METIN OZ",
@@ -3229,7 +3848,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2023-05-05",
-      "linkedin": "https://www.linkedin.com/in/metin-%C3%B6z-8758b012b/"
+      "linkedin": "https://www.linkedin.com/in/metin-%C3%B6z-8758b012b/",
+      "normalRowNumber": 307,
+      "activeRowNumber": 223
     },
     {
       "name": "ATLAS BORAP",
@@ -3238,7 +3859,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2023-08-02",
-      "linkedin": "https://www.linkedin.com/in/atlasborap/"
+      "linkedin": "https://www.linkedin.com/in/atlasborap/",
+      "normalRowNumber": 308,
+      "activeRowNumber": 224
     },
     {
       "name": "OMER DARTAR",
@@ -3247,7 +3870,9 @@
       "track": "Security",
       "status": "Certified",
       "date": "2023-08-31",
-      "linkedin": "https://www.linkedin.com/in/%C3%B6mer-dartar-134344144/"
+      "linkedin": "https://www.linkedin.com/in/%C3%B6mer-dartar-134344144/",
+      "normalRowNumber": 309,
+      "activeRowNumber": 225
     },
     {
       "name": "HUSEYIN BURAK TASKESEN",
@@ -3256,7 +3881,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Re-certified",
       "date": "2024-04-08",
-      "linkedin": "https://www.linkedin.com/in/taskesen/"
+      "linkedin": "https://www.linkedin.com/in/taskesen/",
+      "normalRowNumber": 310,
+      "activeRowNumber": 226
     },
     {
       "name": "HUSEYIN BURAK TASKESEN",
@@ -3265,7 +3892,9 @@
       "track": "Data Center",
       "status": "Re-certified",
       "date": "2025-02-24",
-      "linkedin": "https://www.linkedin.com/in/taskesen/"
+      "linkedin": "https://www.linkedin.com/in/taskesen/",
+      "normalRowNumber": 310,
+      "activeRowNumber": 226
     },
     {
       "name": "BURAK ISIK",
@@ -3274,7 +3903,9 @@
       "track": "DevNet Expert",
       "status": "Certified",
       "date": "2024-05-07",
-      "linkedin": "https://www.linkedin.com/in/burak-isik-a7448340/"
+      "linkedin": "https://www.linkedin.com/in/burak-isik-a7448340/",
+      "normalRowNumber": 311,
+      "activeRowNumber": 227
     },
     {
       "name": "CAN OZBAS",
@@ -3283,7 +3914,9 @@
       "track": "DevNet Expert",
       "status": "Certified",
       "date": "2024-07-19",
-      "linkedin": "https://www.linkedin.com/in/can-ozbas/"
+      "linkedin": "https://www.linkedin.com/in/can-ozbas/",
+      "normalRowNumber": 312,
+      "activeRowNumber": 228
     },
     {
       "name": "GOKHAN GENCAL",
@@ -3292,7 +3925,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2024-08-02",
-      "linkedin": "https://www.linkedin.com/in/gkhngncl/"
+      "linkedin": "https://www.linkedin.com/in/gkhngncl/",
+      "normalRowNumber": 313,
+      "activeRowNumber": 229
     },
     {
       "name": "SALIH U DOGAN",
@@ -3301,7 +3936,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2024-11-13",
-      "linkedin": "https://www.linkedin.com/in/salihugurdogan/"
+      "linkedin": "https://www.linkedin.com/in/salihugurdogan/",
+      "normalRowNumber": 314,
+      "activeRowNumber": 230
     },
     {
       "name": "MERT KULA",
@@ -3310,7 +3947,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2024-11-13",
-      "linkedin": "https://www.linkedin.com/in/mert-kula-35b00ba2/"
+      "linkedin": "https://www.linkedin.com/in/mert-kula-35b00ba2/",
+      "normalRowNumber": 315,
+      "activeRowNumber": 231
     },
     {
       "name": "MERT KERIM TOPAL",
@@ -3319,7 +3958,9 @@
       "track": "Security",
       "status": "Certified",
       "date": "2024-11-13",
-      "linkedin": "https://www.linkedin.com/in/mert-kerim-topal/"
+      "linkedin": "https://www.linkedin.com/in/mert-kerim-topal/",
+      "normalRowNumber": 316,
+      "activeRowNumber": 232
     },
     {
       "name": "MUHAMMET SAID TEMELLI",
@@ -3328,7 +3969,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2024-11-14",
-      "linkedin": "https://www.linkedin.com/in/mstemelli/"
+      "linkedin": "https://www.linkedin.com/in/mstemelli/",
+      "normalRowNumber": 317,
+      "activeRowNumber": 233
     },
     {
       "name": "CANER TEKIN",
@@ -3337,7 +3980,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2024-11-15",
-      "linkedin": "https://www.linkedin.com/in/canertekinn/"
+      "linkedin": "https://www.linkedin.com/in/canertekinn/",
+      "normalRowNumber": 318,
+      "activeRowNumber": 234
     },
     {
       "name": "ANIL AGCA",
@@ -3346,7 +3991,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2024-11-22",
-      "linkedin": "https://www.linkedin.com/in/anilagca/"
+      "linkedin": "https://www.linkedin.com/in/anilagca/",
+      "normalRowNumber": 319,
+      "activeRowNumber": 235
     },
     {
       "name": "ATAKAN ATAK",
@@ -3355,7 +4002,9 @@
       "track": "Security",
       "status": "Certified",
       "date": "2024-12-03",
-      "linkedin": "https://www.linkedin.com/in/atakan-atak-aa1909146/"
+      "linkedin": "https://www.linkedin.com/in/atakan-atak-aa1909146/",
+      "normalRowNumber": 320,
+      "activeRowNumber": 236
     },
     {
       "name": "ABDURRAHIM AYAR",
@@ -3364,7 +4013,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2024-12-19",
-      "linkedin": "https://www.linkedin.com/in/abdurrahim-ayar-309248108/"
+      "linkedin": "https://www.linkedin.com/in/abdurrahim-ayar-309248108/",
+      "normalRowNumber": 321,
+      "activeRowNumber": 237
     },
     {
       "name": "RAUF ONUR EVRANOS",
@@ -3373,7 +4024,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2024-12-19",
-      "linkedin": "https://www.linkedin.com/in/onurevranos/"
+      "linkedin": "https://www.linkedin.com/in/onurevranos/",
+      "normalRowNumber": 322,
+      "activeRowNumber": 238
     },
     {
       "name": "KURSAT KURT",
@@ -3382,7 +4035,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2025-01-10",
-      "linkedin": "https://www.linkedin.com/in/k%C3%BCr%C5%9Fat-k-4a4b01207/"
+      "linkedin": "https://www.linkedin.com/in/k%C3%BCr%C5%9Fat-k-4a4b01207/",
+      "normalRowNumber": 323,
+      "activeRowNumber": 239
     },
     {
       "name": "ZAFER TIGLI",
@@ -3391,8 +4046,9 @@
       "track": "Enterprise Infrastructure",
       "status": "Certified",
       "date": "2025-02-09",
-      "linkedin": "https://www.linkedin.com/in/zafertigli/"
+      "linkedin": "https://www.linkedin.com/in/zafertigli/",
+      "normalRowNumber": 324,
+      "activeRowNumber": 240
     }
   ]
-
-} 
+}

@@ -6,4 +6,6 @@ export interface CCIE {
   status: string;
   date: string;
   linkedin?: string;
+  normalRowNumber?: number;
+  activeRowNumber?: number;
 } 

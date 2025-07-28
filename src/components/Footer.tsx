@@ -1,4 +1,31 @@
-const Footer = () => (
+import { CCIE } from '@/types/types';
+
+type FooterProps = {
+  filteredData: CCIE[];
+};
+
+const Footer = ({ filteredData }: FooterProps) => {
+  // Track'lere göre sayıları hesapla
+  const trackCounts = filteredData.reduce((acc, ccie) => {
+    const track = ccie.track;
+    acc[track] = (acc[track] || 0) + 1;
+    return acc;
+  }, {} as Record<string, number>);
+
+  // Toplam sayıları hesapla
+  const totalCertified = filteredData.length;
+  const totalCCIE = filteredData.filter(ccie => ccie.certification === 'CCIE').length;
+  
+  // Çift ve üçlü CCIE sayılarını hesapla
+  const ccieNumbers = new Set(filteredData.map(ccie => ccie.number));
+  const doubleCCIE = Array.from(ccieNumbers).filter(number => 
+    filteredData.filter(ccie => ccie.number === number).length === 2
+  ).length;
+  const tripleCCIE = Array.from(ccieNumbers).filter(number => 
+    filteredData.filter(ccie => ccie.number === number).length === 3
+  ).length;
+
+  return (
     <footer className="mt-8">
       <div className="max-w-md mx-auto">
         <table className="min-w-full text-left divide-y divide-gray-200 border border-gray-200 ">
@@ -9,50 +36,12 @@ const Footer = () => (
             </tr>
           </thead>
           <tbody className="bg-white divide-y divide-gray-200">
-            <tr>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">Enterprise Infrastructure</td>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">270</td>
-            </tr>
-            <tr>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">Security</td>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">26</td>
-            </tr>
-            <tr>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">Service Provider</td>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">24</td>
-            </tr>
-            <tr>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">Collaboration</td>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">24</td>
-            </tr>
-            <tr>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">Data Center</td>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">18</td>
-            </tr>
-            <tr>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">CCIE Storage Networking</td>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">4</td>
-            </tr>
-            <tr>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">SNA IP</td>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">3</td>
-            </tr>
-            <tr>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">DevNet Expert</td>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">3</td>
-            </tr>
-            <tr>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">CCDE Practical</td>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">2</td>
-            </tr>
-            <tr>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">Enterprise Wireless</td>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">2</td>
-            </tr>
-            <tr>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">Voice</td>
-              <td className="p-3 whitespace-nowrap text-sm text-gray-900">1</td>
-            </tr>
+            {Object.entries(trackCounts).map(([track, count]) => (
+              <tr key={track}>
+                <td className="p-3 whitespace-nowrap text-sm text-gray-900">{track}</td>
+                <td className="p-3 whitespace-nowrap text-sm text-gray-900">{count}</td>
+              </tr>
+            ))}
           </tbody>
         </table>
         <div className="mt-4">
@@ -60,19 +49,19 @@ const Footer = () => (
             <tbody className="bg-white divide-y divide-gray-200 ">
               <tr>
                 <td className="p-3 whitespace-nowrap text-sm text-gray-900 font-bold">Number of Certified Individuals</td>
-                <td className="p-3 whitespace-nowrap text-sm text-gray-900 ">321</td>
+                <td className="p-3 whitespace-nowrap text-sm text-gray-900 ">{totalCertified}</td>
               </tr>
               <tr>
                 <td className="p-3 whitespace-nowrap text-sm text-gray-900">Number of <span className="font-bold">CCIEs</span></td>
-                <td className="p-3 whitespace-nowrap text-sm text-gray-900">273</td>
+                <td className="p-3 whitespace-nowrap text-sm text-gray-900">{totalCCIE}</td>
               </tr>
               <tr>
                 <td className="p-3 whitespace-nowrap text-sm text-gray-900">Number of <span className="font-bold">Double CCIEs</span></td>
-                <td className="p-3 whitespace-nowrap text-sm text-gray-900">40</td>
+                <td className="p-3 whitespace-nowrap text-sm text-gray-900">{doubleCCIE}</td>
               </tr>
               <tr>
                 <td className="p-3 whitespace-nowrap text-sm text-gray-900">Number of <span className="font-bold">Triple CCIEs</span></td>
-                <td className="p-3 whitespace-nowrap text-sm text-gray-900">8</td>
+                <td className="p-3 whitespace-nowrap text-sm text-gray-900">{tripleCCIE}</td>
               </tr>
             </tbody>
           </table>
@@ -88,5 +77,6 @@ const Footer = () => (
         </div>
     </footer>
   );
-  
-  export default Footer;
+};
+
+export default Footer;
